@@ -1,0 +1,30 @@
+{
+  "name": "tv-guide-framer",
+  "version": "1.0.0",
+  "description": "TV Guide Framer Component with Excel/CSV data ingestion",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node scripts/excel-to-guide.ts",
+    "test": "node verify-results.js",
+    "start": "npx http-server . -p 8080"
+  },
+  "keywords": ["framer", "tv-guide", "typescript", "react"],
+  "author": "Daniel Eloma",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "luxon": "^3.4.4",
+    "xlsx": "^0.18.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@types/node": "^20.0.0",
+    "@types/luxon": "^3.4.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}

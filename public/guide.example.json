@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "channelId": "zee-world",
+    "generatedAt": "2025-10-07T09:00:00Z",
+    "defaultRegion": "ROA",
+    "defaultTimezone": "CAT"
+  },
+  "regions": [
+    {
+      "code": "SA",
+      "label": "South Africa",
+      "timezones": ["CAT"],
+      "days": [
+        {
+          "dateISO": "2025-09-29",
+          "slots": [
+            {
+              "startISO": "2025-09-29T05:00:00Z",
+              "endISO": "2025-09-29T05:30:00Z",
+              "title": "Sister Wives",
+              "season": "S1",
+              "episode": "Ep 142"
+            },
+            {
+              "startISO": "2025-09-29T05:30:00Z",
+              "endISO": "2025-09-29T06:00:00Z",
+              "title": "Radhe Mohan",
+              "season": "S3",
+              "episode": "Ep 68"
+            },
+            {
+              "startISO": "2025-09-29T06:00:00Z",
+              "endISO": "2025-09-29T06:30:00Z",
+              "title": "Twist of Fate: New Era",
+              "season": "S10",
+              "episode": "Ep 29"
+            },
+            {
+              "startISO": "2025-09-29T08:00:00Z",
+              "endISO": "2025-09-29T08:30:00Z",
+              "title": "Hearts Crossed",
+              "season": "S1",
+              "episode": "Ep 15"
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-09-30",
+          "slots": [
+            {
+              "startISO": "2025-09-30T05:00:00Z",
+              "endISO": "2025-09-30T05:30:00Z",
+              "title": "Sister Wives",
+              "season": "S1",
+              "episode": "Ep 143"
+            },
+            {
+              "startISO": "2025-09-30T05:30:00Z",
+              "endISO": "2025-09-30T06:00:00Z",
+              "title": "Radhe Mohan",
+              "season": "S3",
+              "episode": "Ep 69"
+            },
+            {
+              "startISO": "2025-09-30T06:00:00Z",
+              "endISO": "2025-09-30T06:30:00Z",
+              "title": "Twist of Fate: New Era",
+              "season": "S10",
+              "episode": "Ep 30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ROA",
+      "label": "Rest of Africa",
+      "timezones": ["WAT", "CAT", "EST"],
+      "days": [
+        {
+          "dateISO": "2025-09-29",
+          "slots": [
+            {
+              "startISO": "2025-09-29T05:30:00Z",
+              "endISO": "2025-09-29T06:00:00Z",
+              "title": "Radhe Mohan",
+              "season": "S3",
+              "episode": "Ep 68",
+              "subtitle": "S3 EP 68",
+              "bgColor": "#111216"
+            },
+            {
+              "startISO": "2025-09-29T06:00:00Z",
+              "endISO": "2025-09-29T06:30:00Z",
+              "title": "Twist of Fate: New Era",
+              "season": "S10",
+              "episode": "Ep 29"
+            },
+            {
+              "startISO": "2025-09-29T08:00:00Z",
+              "endISO": "2025-09-29T08:30:00Z",
+              "title": "Hearts Crossed",
+              "season": "S1",
+              "episode": "Ep 15"
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-09-30",
+          "slots": [
+            {
+              "startISO": "2025-09-30T05:30:00Z",
+              "endISO": "2025-09-30T06:00:00Z",
+              "title": "Radhe Mohan",
+              "season": "S3",
+              "episode": "Ep 69"
+            },
+            {
+              "startISO": "2025-09-30T06:00:00Z",
+              "endISO": "2025-09-30T06:30:00Z",
+              "title": "Twist of Fate: New Era",
+              "season": "S10",
+              "episode": "Ep 30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
