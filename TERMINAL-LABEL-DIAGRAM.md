@@ -1,0 +1,188 @@
+# Terminal Label Removal - Visual Diagram
+
+## 🎯 Before vs After
+
+### **WAT (West Africa Time)**
+
+#### **BEFORE** (with terminal label)
+```
+Time Header:
+┌────────┬────────┬────────┬───────┬────────┬────────┬────────┐
+│ 05:00  │ 05:30  │ 06:00  │  ...  │ 04:00  │ 04:30  │ 05:00  │ ← Terminal label
+└────────┴────────┴────────┴───────┴────────┴────────┴────────┘
+   [0]      [1]      [2]      ...     [46]     [47]     [48] ← 49 labels
+
+Intervals:
+   ▼────────▼────────▼────────▼───────▼────────▼────────▼
+   [0]      [1]      [2]      ...     [46]     [47]        ← 48 intervals
+
+Last Show: 04:00–05:00
+   ┌─────────────────────────────────────────────┐
+   │                                             │
+   └─────────────────────────────────────────────┘
+   Starts at [46], spans 2 intervals → ends at [47]
+```
+
+#### **AFTER** (without terminal label)
+```
+Time Header:
+┌────────┬────────┬────────┬───────┬────────┬────────┐
+│ 05:00  │ 05:30  │ 06:00  │  ...  │ 04:00  │ 04:30  │ ← No terminal label
+└────────┴────────┴────────┴───────┴────────┴────────┘
+   [0]      [1]      [2]      ...     [46]     [47]     ← 48 labels
+
+Intervals:
+   ▼────────▼────────▼────────▼───────▼────────▼────────▼
+   [0]      [1]      [2]      ...     [46]     [47]        ← 48 intervals (unchanged)
+
+Last Show: 04:00–05:00
+   ┌─────────────────────────────────────────────┐
+   │                                             │
+   └─────────────────────────────────────────────┘
+   Starts at [46], spans 2 intervals → ends at [47]
+   (Still renders correctly!)
+```
+
+---
+
+### **CAT (Central Africa Time)**
+
+#### **BEFORE** (with terminal label)
+```
+Time Header:
+┌────────┬────────┬────────┬───────┬────────┬────────┬────────┐
+│ 06:00  │ 06:30  │ 07:00  │  ...  │ 05:00  │ 05:30  │ 06:00  │ ← Terminal label
+└────────┴────────┴────────┴───────┴────────┴────────┴────────┘
+   [0]      [1]      [2]      ...     [46]     [47]     [48] ← 49 labels
+
+Intervals:
+   ▼────────▼────────▼────────▼───────▼────────▼────────▼
+   [0]      [1]      [2]      ...     [46]     [47]        ← 48 intervals
+
+Last Show: 05:00–06:00
+   ┌─────────────────────────────────────────────┐
+   │                                             │
+   └─────────────────────────────────────────────┘
+   Starts at [46], spans 2 intervals → ends at [47]
+```
+
+#### **AFTER** (without terminal label)
+```
+Time Header:
+┌────────┬────────┬────────┬───────┬────────┬────────┐
+│ 06:00  │ 06:30  │ 07:00  │  ...  │ 05:00  │ 05:30  │ ← No terminal label
+└────────┴────────┴────────┴───────┴────────┴────────┘
+   [0]      [1]      [2]      ...     [46]     [47]     ← 48 labels
+
+Intervals:
+   ▼────────▼────────▼────────▼───────▼────────▼────────▼
+   [0]      [1]      [2]      ...     [46]     [47]        ← 48 intervals (unchanged)
+
+Last Show: 05:00–06:00
+   ┌─────────────────────────────────────────────┐
+   │                                             │
+   └─────────────────────────────────────────────┘
+   Starts at [46], spans 2 intervals → ends at [47]
+   (Still renders correctly!)
+```
+
+---
+
+## 🔍 Key Points
+
+### **What Changed**
+1. **Header Labels**: Removed the terminal label from display
+   - WAT: Changed from 49 labels to 48 labels
+   - CAT: Changed from 49 labels to 48 labels
+
+2. **Visible Range**
+   - WAT: Header now shows `05:00` → `04:30` (was `05:00` → `05:00`)
+   - CAT: Header now shows `06:00` → `05:30` (was `06:00` → `06:00`)
+
+### **What Stayed the Same**
+1. **Interval Count**: Still 48 intervals
+2. **Grid Math**: All calculations unchanged
+3. **Show Placement**: Shows still use full tick array for positioning
+4. **Last Block Rendering**: Shows ending at terminal time still render correctly
+
+---
+
+## 📐 Grid Math Unchanged
+
+### **Example: Show from 04:00 to 05:00 (WAT)**
+
+```typescript
+// Full ticks array (still 49 ticks)
+timeTicks = [
+  "05:00", // [0]
+  "05:30", // [1]
+  // ... 44 more ticks
+  "04:00", // [46]
+  "04:30", // [47]
+  "05:00"  // [48] ← Terminal (used for calculations, not shown)
+]
+
+// Show details
+show = {
+  start: "04:00", // Index 46
+  end: "05:00"    // Index 48 (terminal)
+}
+
+// Calculations (unchanged)
+const startSlotIndex = findSlotIndex("04:00", "WAT"); // Returns 46
+const span = calculateSlotSpan("04:00", "05:00");     // Returns 2 (30-min slots)
+
+// Rendering
+const left = 46 * cellWidth + 2;  // Position at index 46
+const width = 2 * cellWidth - 4;   // Span 2 intervals (04:00→04:30, 04:30→05:00)
+
+// Result: Show renders correctly in the last 2 intervals!
+```
+
+---
+
+## 🎨 Visual Representation
+
+### **Grid Structure**
+
+```
+Header Row (48 visible labels):
+┌─────┬─────┬─────┬─────┬─────┬─────┐
+│ 0   │ 1   │ 2   │ ... │ 46  │ 47  │
+└─────┴─────┴─────┴─────┴─────┴─────┘
+
+Grid Lines (48 lines at left edge of each cell):
+│     │     │     │ ... │     │     
+▼     ▼     ▼     ▼     ▼     ▼     
+
+Intervals (48 spaces between lines):
+┌─────┐─────┐─────┐─────┐─────┐─────┐
+│  0  │  1  │  2  │ ... │ 46  │ 47  │
+└─────┴─────┴─────┴─────┴─────┴─────┘
+
+Show Blocks (positioned using full tick array):
+                              ┌─────┬─────┐
+                              │ Show│Block│ ← Spans intervals 46-47
+                              └─────┴─────┘
+```
+
+---
+
+## ✅ Verification Checklist
+
+- ✅ **WAT header ends at 04:30** (no "05:00" label visible)
+- ✅ **CAT header ends at 05:30** (no "06:00" label visible)
+- ✅ **48 header labels** displayed (down from 49)
+- ✅ **48 grid lines** rendered
+- ✅ **48 intervals** for show placement
+- ✅ **Last shows render correctly** (04:00-05:00 WAT, 05:00-06:00 CAT)
+- ✅ **Show positioning unchanged** (uses full tick array)
+- ✅ **No visual regressions** (all other shows render correctly)
+
+---
+
+## 🚀 Result
+
+The terminal label is now hidden from the header, making the grid visually cleaner while maintaining all functionality. Shows that end at the terminal time (WAT 05:00, CAT 06:00) still render correctly because the grid math still uses the full 48 intervals.
+
+**Clean UI + Full Functionality = ✨ Perfect!**

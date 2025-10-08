@@ -1,0 +1,119 @@
+/* TV Guide Component Styles */
+
+.tvGuideHeader {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* left: region, right: timezone */
+  padding: 12px 16px;
+  background: var(--tv-time-bg, #1a1a1a);
+  color: var(--tv-time-text, #ffffff);
+  border-bottom: 1px solid var(--tv-divider, #333333);
+}
+
+/* Region group (left) */
+.tvGuideRegionGroup {
+  display: inline-flex;
+  gap: 8px;
+}
+
+/* Timezone group (right) */
+.tvGuideTzGroup {
+  display: inline-flex;
+  gap: 8px;
+}
+
+/* Segmented buttons */
+.segBtn {
+  appearance: none;
+  border: 1px solid var(--tv-divider, #333333);
+  background: transparent;
+  color: var(--tv-time-text, #ffffff);
+  padding: 8px 14px;
+  border-radius: var(--tv-radius, 4px);
+  font: inherit;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  font-weight: 600;
+}
+
+.segBtn:hover {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.segBtnActive {
+  background: var(--tv-card-bg, #1a1a1a);
+  color: var(--tv-card-text, #ffffff);
+  border-color: transparent;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .tvGuideHeader {
+    padding: 8px 12px;
+    gap: 4px;
+  }
+  
+  .segBtn {
+    padding: 6px 10px;
+    font-size: 14px;
+  }
+  
+  .tvGuideRegionGroup,
+  .tvGuideTzGroup {
+    gap: 4px;
+  }
+}
+
+/* Focus states for accessibility */
+.segBtn:focus {
+  outline: 2px solid var(--tv-card-focus-ring, #6b46c1);
+  outline-offset: 2px;
+}
+
+.segBtn:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Disabled state */
+.segBtn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.segBtn:disabled:hover {
+  background: transparent;
+}
+
+/* ============================================
+   Show Card Content Hierarchy
+   ============================================ */
+
+/* Show Title */
+.cardTitle {
+  font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: 6px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Episode Line (Season • Episode) */
+.cardEpisode {
+  opacity: 0.85;
+  line-height: 1.2;
+  margin-bottom: 6px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: var(--tv-episode-text, var(--tv-card-text, #ffffff));
+}
+
+/* Show Time */
+.cardTime {
+  opacity: 0.75;
+  line-height: 1.2;
+}
