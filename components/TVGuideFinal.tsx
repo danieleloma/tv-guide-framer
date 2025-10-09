@@ -241,6 +241,15 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
   const [activeRegion, setActiveRegion] = useState<Region>(props.region);
   const [activeTimezone, setActiveTimezone] = useState<Tz>(props.timezone);
 
+  // Sync local state when props change (for Framer panel updates)
+  useEffect(() => {
+    setActiveRegion(props.region);
+  }, [props.region]);
+
+  useEffect(() => {
+    setActiveTimezone(props.timezone);
+  }, [props.timezone]);
+
   // Parse JSON data when it changes
   useEffect(() => {
     setSaData(parseJsonData(props.saJson));
@@ -271,7 +280,7 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
       setActiveRegion("ROA");
       props.onChangeRegion?.("ROA");
     }
-  }, [activeRegion, saAvailable, roaAvailable, props]);
+  }, [activeRegion, saAvailable, roaAvailable, props.onChangeRegion]);
 
   // Force CAT when SA is active
   useEffect(() => {
@@ -279,7 +288,7 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
       setActiveTimezone("CAT");
       props.onChangeTimezone?.("CAT");
     }
-  }, [activeRegion, activeTimezone, props]);
+  }, [activeRegion, activeTimezone, props.onChangeTimezone]);
 
   const loadRemoteData = useCallback(async () => {
     setLoading(true);
@@ -494,9 +503,12 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
           <div style={{ display: 'flex', gap: '8px' }}>
             {saAvailable && (
               <button
+                role="tab"
+                aria-selected={activeRegion === 'SA'}
+                data-active={activeRegion === 'SA'}
                 style={{
                   appearance: 'none',
-                  border: `1px solid ${props.dividerColor}`,
+                  border: activeRegion === 'SA' ? 'none' : `1px solid ${props.dividerColor}`,
                   backgroundColor: activeRegion === 'SA' ? props.cardBg : 'transparent',
                   color: activeRegion === 'SA' ? props.cardText : props.textColor,
                   padding: '8px 14px',
@@ -504,13 +516,21 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
                   fontSize: props.fontSize,
                   fontWeight: 600,
                   cursor: 'pointer',
-                  transition: 'all 0.15s ease'
+                  transition: 'all 0.15s ease',
+                  boxShadow: activeRegion === 'SA' ? '0 0 0 1px rgba(107, 70, 193, 0.35)' : 'none'
                 }}
                 onClick={() => {
                   setActiveRegion('SA');
                   setActiveTimezone('CAT'); // Force CAT for SA
                   props.onChangeRegion?.('SA');
                   props.onChangeTimezone?.('CAT');
+                }}
+                onFocus={(e) => {
+                  e.currentTarget.style.outline = `2px solid ${props.cardFocusRing}`;
+                  e.currentTarget.style.outlineOffset = '2px';
+                }}
+                onBlur={(e) => {
+                  e.currentTarget.style.outline = 'none';
                 }}
                 title="South Africa"
               >
@@ -519,9 +539,12 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
             )}
             {roaAvailable && (
               <button
+                role="tab"
+                aria-selected={activeRegion === 'ROA'}
+                data-active={activeRegion === 'ROA'}
                 style={{
                   appearance: 'none',
-                  border: `1px solid ${props.dividerColor}`,
+                  border: activeRegion === 'ROA' ? 'none' : `1px solid ${props.dividerColor}`,
                   backgroundColor: activeRegion === 'ROA' ? props.cardBg : 'transparent',
                   color: activeRegion === 'ROA' ? props.cardText : props.textColor,
                   padding: '8px 14px',
@@ -529,11 +552,19 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
                   fontSize: props.fontSize,
                   fontWeight: 600,
                   cursor: 'pointer',
-                  transition: 'all 0.15s ease'
+                  transition: 'all 0.15s ease',
+                  boxShadow: activeRegion === 'ROA' ? '0 0 0 1px rgba(107, 70, 193, 0.35)' : 'none'
                 }}
                 onClick={() => {
                   setActiveRegion('ROA');
                   props.onChangeRegion?.('ROA');
+                }}
+                onFocus={(e) => {
+                  e.currentTarget.style.outline = `2px solid ${props.cardFocusRing}`;
+                  e.currentTarget.style.outlineOffset = '2px';
+                }}
+                onBlur={(e) => {
+                  e.currentTarget.style.outline = 'none';
                 }}
                 title="Rest of Africa"
               >
@@ -548,9 +579,12 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
               {(activeRegion === 'ROA' ? tzOptionsForROA : tzOptionsForSA).map((tz) => (
                 <button
                   key={tz}
+                  role="tab"
+                  aria-selected={activeTimezone === tz}
+                  data-active={activeTimezone === tz}
                   style={{
                     appearance: 'none',
-                    border: `1px solid ${props.dividerColor}`,
+                    border: activeTimezone === tz ? 'none' : `1px solid ${props.dividerColor}`,
                     backgroundColor: activeTimezone === tz ? props.cardBg : 'transparent',
                     color: activeTimezone === tz ? props.cardText : props.textColor,
                     padding: '8px 14px',
@@ -558,11 +592,19 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
                     fontSize: props.fontSize,
                     fontWeight: 600,
                     cursor: 'pointer',
-                    transition: 'all 0.15s ease'
+                    transition: 'all 0.15s ease',
+                    boxShadow: activeTimezone === tz ? '0 0 0 1px rgba(107, 70, 193, 0.35)' : 'none'
                   }}
                   onClick={() => {
                     setActiveTimezone(tz);
                     props.onChangeTimezone?.(tz);
+                  }}
+                  onFocus={(e) => {
+                    e.currentTarget.style.outline = `2px solid ${props.cardFocusRing}`;
+                    e.currentTarget.style.outlineOffset = '2px';
+                  }}
+                  onBlur={(e) => {
+                    e.currentTarget.style.outline = 'none';
                   }}
                   title={tz}
                 >

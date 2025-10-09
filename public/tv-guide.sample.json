@@ -1,0 +1,588 @@
+{
+  "window": {
+    "WAT": {
+      "start": "05:00",
+      "end": "04:00"
+    },
+    "CAT": {
+      "start": "06:00",
+      "end": "05:00"
+    },
+    "slotMinutes": 30
+  },
+  "regions": {
+    "SA": {
+      "region": "SA",
+      "timezones": {
+        "WAT": null,
+        "CAT": {
+          "timezone": "CAT",
+          "days": {
+            "Mon": {
+              "date": "2025-10-06",
+              "day": "Mon",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Morning News SA",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 1",
+                        "genre": "News"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Local Drama SA",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "meta": {
+                        "season": "S2",
+                        "episode": "Ep 15",
+                        "genre": "Drama"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Educational Program",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 8",
+                        "genre": "Education"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Afternoon Talk Show",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "meta": {
+                        "season": "S3",
+                        "episode": "Ep 22",
+                        "genre": "Talk Show"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Evening News SA",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 1",
+                        "genre": "News"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Prime Time Movie",
+                      "start": "20:00",
+                      "end": "22:30",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Movie",
+                        "genre": "Movie"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "Tue": {
+              "date": "2025-10-07",
+              "day": "Tue",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Morning News SA",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 2",
+                        "genre": "News"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Local Drama SA",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "meta": {
+                        "season": "S2",
+                        "episode": "Ep 16",
+                        "genre": "Drama"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Sports Highlights",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 12",
+                        "genre": "Sports"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "Wed": {
+              "date": "2025-10-08",
+              "day": "Wed",
+              "slots": []
+            },
+            "Thu": {
+              "date": "2025-10-09",
+              "day": "Thu",
+              "slots": []
+            },
+            "Fri": {
+              "date": "2025-10-10",
+              "day": "Fri",
+              "slots": []
+            },
+            "Sat": {
+              "date": "2025-10-11",
+              "day": "Sat",
+              "slots": []
+            },
+            "Sun": {
+              "date": "2025-10-12",
+              "day": "Sun",
+              "slots": []
+            }
+          }
+        }
+      }
+    },
+    "ROA": {
+      "region": "ROA",
+      "timezones": {
+        "WAT": {
+          "timezone": "WAT",
+          "days": {
+            "Mon": {
+              "date": "2025-10-06",
+              "day": "Mon",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 149",
+                        "genre": "Reality"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "meta": {
+                        "season": "S4",
+                        "episode": "EP 7",
+                        "genre": "Drama"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "meta": {
+                        "season": "S10",
+                        "episode": "EP 34",
+                        "genre": "Drama"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 16",
+                        "genre": "Drama"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "meta": {
+                        "season": "S7",
+                        "episode": "Ep 97",
+                        "genre": "Drama"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Afternoon Drama ROA",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "meta": {
+                        "season": "S2",
+                        "episode": "Ep 1",
+                        "genre": "Drama"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Evening News ROA",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 1",
+                        "genre": "News"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Prime Time Series",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "meta": {
+                        "season": "S3",
+                        "episode": "Ep 8",
+                        "genre": "Drama"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Late Night Show",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 1",
+                        "genre": "Talk Show"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "Tue": {
+              "date": "2025-10-07",
+              "day": "Tue",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 150",
+                        "genre": "Reality"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "meta": {
+                        "season": "S4",
+                        "episode": "EP 8",
+                        "genre": "Drama"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Sports Update",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 15",
+                        "genre": "Sports"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "Wed": {
+              "date": "2025-10-08",
+              "day": "Wed",
+              "slots": []
+            },
+            "Thu": {
+              "date": "2025-10-09",
+              "day": "Thu",
+              "slots": []
+            },
+            "Fri": {
+              "date": "2025-10-10",
+              "day": "Fri",
+              "slots": []
+            },
+            "Sat": {
+              "date": "2025-10-11",
+              "day": "Sat",
+              "slots": []
+            },
+            "Sun": {
+              "date": "2025-10-12",
+              "day": "Sun",
+              "slots": []
+            }
+          }
+        },
+        "CAT": {
+          "timezone": "CAT",
+          "days": {
+            "Mon": {
+              "date": "2025-10-06",
+              "day": "Mon",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Morning Show CAT",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 1",
+                        "genre": "Variety"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Local Content CAT",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "meta": {
+                        "season": "S2",
+                        "episode": "Ep 5",
+                        "genre": "Drama"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Afternoon Special",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 10",
+                        "genre": "Documentary"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Evening News CAT",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 1",
+                        "genre": "News"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Prime Time Drama CAT",
+                      "start": "20:00",
+                      "end": "21:30",
+                      "meta": {
+                        "season": "S3",
+                        "episode": "Ep 12",
+                        "genre": "Drama"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Late Night Movie",
+                      "start": "00:00",
+                      "end": "02:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Movie",
+                        "genre": "Movie"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "Tue": {
+              "date": "2025-10-07",
+              "day": "Tue",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Morning Show CAT",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "meta": {
+                        "season": "S1",
+                        "episode": "Ep 2",
+                        "genre": "Variety"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Sports Zone",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "meta": {
+                        "season": "S2",
+                        "episode": "Ep 8",
+                        "genre": "Sports"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "Wed": {
+              "date": "2025-10-08",
+              "day": "Wed",
+              "slots": []
+            },
+            "Thu": {
+              "date": "2025-10-09",
+              "day": "Thu",
+              "slots": []
+            },
+            "Fri": {
+              "date": "2025-10-10",
+              "day": "Fri",
+              "slots": []
+            },
+            "Sat": {
+              "date": "2025-10-11",
+              "day": "Sat",
+              "slots": []
+            },
+            "Sun": {
+              "date": "2025-10-12",
+              "day": "Sun",
+              "slots": []
+            }
+          }
+        }
+      }
+    }
+  }
+}
+

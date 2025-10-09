@@ -1,0 +1,571 @@
+{
+  "window": {
+    "WAT": {
+      "start": "05:00",
+      "end": "04:00"
+    },
+    "CAT": {
+      "start": "06:00",
+      "end": "05:00"
+    },
+    "slotMinutes": 30
+  },
+  "regions": {
+    "SA": {
+      "region": "SA",
+      "timezones": {
+        "WAT": null,
+        "CAT": {
+          "timezone": "CAT",
+          "days": {
+            "Mon": {
+              "date": "2025-10-06",
+              "day": "Mon",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Morning News",
+                      "start": "06:00",
+                      "end": "07:00"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": []
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Breakfast Show",
+                      "start": "08:00",
+                      "end": "10:00"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": []
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": []
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Talk Show",
+                      "start": "11:00",
+                      "end": "12:00"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": []
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Lunch Time News",
+                      "start": "13:00",
+                      "end": "14:00"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": []
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Afternoon Drama",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "S4",
+                      "episode": "EP 12"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": []
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Kids Show",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "S2",
+                      "episode": "EP 5"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Evening News",
+                      "start": "19:00",
+                      "end": "20:00"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": []
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Prime Time Drama",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "S5",
+                      "episode": "EP 3"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": []
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Late Night Show",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "S3",
+                      "episode": "EP 20"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Late Movie",
+                      "start": "01:00",
+                      "end": "03:00"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": []
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": []
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": []
+                }
+              ]
+            },
+            "Tue": {
+              "date": "2025-10-07",
+              "day": "Tue",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": []
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Morning Show",
+                      "start": "07:00",
+                      "end": "09:00"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": []
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": []
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Educational Program",
+                      "start": "10:00",
+                      "end": "11:00"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": []
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Midday News",
+                      "start": "12:00",
+                      "end": "13:00"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": []
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Afternoon Entertainment",
+                      "start": "14:00",
+                      "end": "16:00"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": []
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": []
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Children's Program",
+                      "start": "17:00",
+                      "end": "18:30"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Evening Bulletin",
+                      "start": "19:00",
+                      "end": "19:30"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Prime Time Series",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "S4",
+                      "episode": "EP 7"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": []
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Documentary",
+                      "start": "22:00",
+                      "end": "23:00"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": []
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Night Shift",
+                      "start": "00:00",
+                      "end": "02:00"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": []
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": []
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": []
+                }
+              ]
+            },
+            "Wed": {
+              "date": "2025-10-08",
+              "day": "Wed",
+              "slots": []
+            },
+            "Thu": {
+              "date": "2025-10-09",
+              "day": "Thu",
+              "slots": []
+            },
+            "Fri": {
+              "date": "2025-10-10",
+              "day": "Fri",
+              "slots": []
+            },
+            "Sat": {
+              "date": "2025-10-11",
+              "day": "Sat",
+              "slots": []
+            },
+            "Sun": {
+              "date": "2025-10-12",
+              "day": "Sun",
+              "slots": []
+            }
+          }
+        }
+      }
+    },
+    "ROA": {
+      "region": "ROA",
+      "timezones": {
+        "WAT": null,
+        "CAT": null
+      }
+    }
+  }
+}
+

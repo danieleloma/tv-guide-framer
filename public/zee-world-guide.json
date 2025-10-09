@@ -1,0 +1,3474 @@
+{
+  "metadata": {
+    "channelId": "zee-world",
+    "generatedAt": "2025-10-07T12:01:48.246Z",
+    "defaultRegion": "SA",
+    "defaultTimezone": "CAT"
+  },
+  "regions": [
+    {
+      "code": "SA",
+      "label": "South Africa",
+      "timezones": [
+        "CAT"
+      ],
+      "days": [
+        {
+          "dateISO": "2025-10-26",
+          "slots": [
+            {
+              "startISO": "2025-10-26T03:00:00.000Z",
+              "endISO": "2025-10-26T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 278",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T03:30:00.000Z",
+              "endISO": "2025-10-26T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T04:30:00.000Z",
+              "endISO": "2025-10-26T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T05:30:00.000Z",
+              "endISO": "2025-10-26T17:30:00.000Z",
+              "title": "Betrayal S1 EP 271",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T06:00:00.000Z",
+              "endISO": "2025-10-26T18:00:00.000Z",
+              "title": "Secrets S1 EP 51",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T06:30:00.000Z",
+              "endISO": "2025-10-26T18:30:00.000Z",
+              "title": "Taxi S1 EP 51",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T07:00:00.000Z",
+              "endISO": "2025-10-26T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep120",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T08:00:00.000Z",
+              "endISO": "2025-10-26T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep56",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T09:00:00.000Z",
+              "endISO": "2025-10-26T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T21:30:00.000Z",
+              "endISO": "2025-10-26T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T22:30:00.000Z",
+              "endISO": "2025-10-26T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T23:30:00.000Z",
+              "endISO": "2025-10-26T11:30:00.000Z",
+              "title": "Betrayal S1 EP 272",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T00:00:00.000Z",
+              "endISO": "2025-10-26T12:00:00.000Z",
+              "title": "Secrets S1 EP 52",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T00:30:00.000Z",
+              "endISO": "2025-10-26T12:30:00.000Z",
+              "title": "Taxi S1 EP 52",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T01:00:00.000Z",
+              "endISO": "2025-10-26T13:00:00.000Z",
+              "title": "Married Again S1 Ep10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T02:00:00.000Z",
+              "endISO": "2025-10-26T14:00:00.000Z",
+              "title": "Mehek S2 Ep57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T03:00:00.000Z",
+              "endISO": "2025-10-26T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 283",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T03:30:00.000Z",
+              "endISO": "2025-10-26T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP78",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T04:30:00.000Z",
+              "endISO": "2025-10-26T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 62",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T05:30:00.000Z",
+              "endISO": "2025-10-26T17:30:00.000Z",
+              "title": "Betrayal S1 EP 276",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T06:00:00.000Z",
+              "endISO": "2025-10-26T18:00:00.000Z",
+              "title": "Secrets S1 EP 56",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T06:30:00.000Z",
+              "endISO": "2025-10-26T18:30:00.000Z",
+              "title": "Taxi S1 EP 56",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T07:00:00.000Z",
+              "endISO": "2025-10-26T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep125",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T08:00:00.000Z",
+              "endISO": "2025-10-26T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T09:00:00.000Z",
+              "endISO": "2025-10-26T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP78",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T21:30:00.000Z",
+              "endISO": "2025-10-26T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP79",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T22:30:00.000Z",
+              "endISO": "2025-10-26T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 63",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T23:30:00.000Z",
+              "endISO": "2025-10-26T11:30:00.000Z",
+              "title": "Betrayal S1 EP 277",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T00:00:00.000Z",
+              "endISO": "2025-10-26T12:00:00.000Z",
+              "title": "Secrets S1 EP 57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T00:30:00.000Z",
+              "endISO": "2025-10-26T12:30:00.000Z",
+              "title": "Taxi S1 EP 57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T01:00:00.000Z",
+              "endISO": "2025-10-26T13:00:00.000Z",
+              "title": "Married Again S1 Ep15",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T02:00:00.000Z",
+              "endISO": "2025-10-26T14:00:00.000Z",
+              "title": "Mehek S2 Ep62",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T03:00:00.000Z",
+              "endISO": "2025-10-26T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 288",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T03:30:00.000Z",
+              "endISO": "2025-10-26T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP83",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T04:30:00.000Z",
+              "endISO": "2025-10-26T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 67",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T05:30:00.000Z",
+              "endISO": "2025-10-26T17:30:00.000Z",
+              "title": "Betrayal S1 EP 281",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T06:00:00.000Z",
+              "endISO": "2025-10-26T18:00:00.000Z",
+              "title": "Secrets S1 EP 61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T06:30:00.000Z",
+              "endISO": "2025-10-26T18:30:00.000Z",
+              "title": "Taxi S1 EP 61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T07:00:00.000Z",
+              "endISO": "2025-10-26T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep130",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T08:00:00.000Z",
+              "endISO": "2025-10-26T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T09:00:00.000Z",
+              "endISO": "2025-10-26T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP83",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T21:30:00.000Z",
+              "endISO": "2025-10-26T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP84",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T22:30:00.000Z",
+              "endISO": "2025-10-26T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T23:30:00.000Z",
+              "endISO": "2025-10-26T11:30:00.000Z",
+              "title": "Betrayal S1 EP 282",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T00:00:00.000Z",
+              "endISO": "2025-10-26T12:00:00.000Z",
+              "title": "Secrets S1 EP 62",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T00:30:00.000Z",
+              "endISO": "2025-10-26T12:30:00.000Z",
+              "title": "Taxi S1 EP 62",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T01:00:00.000Z",
+              "endISO": "2025-10-26T13:00:00.000Z",
+              "title": "Married Again S1 Ep20",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T02:00:00.000Z",
+              "endISO": "2025-10-26T14:00:00.000Z",
+              "title": "Mehek S2 Ep67",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T03:00:00.000Z",
+              "endISO": "2025-10-26T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 293",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T03:30:00.000Z",
+              "endISO": "2025-10-26T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP88",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T04:30:00.000Z",
+              "endISO": "2025-10-26T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T05:30:00.000Z",
+              "endISO": "2025-10-26T17:30:00.000Z",
+              "title": "Betrayal S1 EP 286",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T06:00:00.000Z",
+              "endISO": "2025-10-26T18:00:00.000Z",
+              "title": "Secrets S1 EP 66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T06:30:00.000Z",
+              "endISO": "2025-10-26T18:30:00.000Z",
+              "title": "Taxi S1 EP 66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T07:00:00.000Z",
+              "endISO": "2025-10-26T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep135",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T08:00:00.000Z",
+              "endISO": "2025-10-26T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T09:00:00.000Z",
+              "endISO": "2025-10-26T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP88",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T21:30:00.000Z",
+              "endISO": "2025-10-26T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP89",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T22:30:00.000Z",
+              "endISO": "2025-10-26T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T23:30:00.000Z",
+              "endISO": "2025-10-26T11:30:00.000Z",
+              "title": "Betrayal S1 EP 287",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T00:00:00.000Z",
+              "endISO": "2025-10-26T12:00:00.000Z",
+              "title": "Secrets S1 EP 67",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T00:30:00.000Z",
+              "endISO": "2025-10-26T12:30:00.000Z",
+              "title": "Taxi S1 EP 67",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T01:00:00.000Z",
+              "endISO": "2025-10-26T13:00:00.000Z",
+              "title": "Married Again S1 Ep25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T02:00:00.000Z",
+              "endISO": "2025-10-26T14:00:00.000Z",
+              "title": "Mehek S2 Ep72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T03:00:00.000Z",
+              "endISO": "2025-10-26T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 298",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T03:30:00.000Z",
+              "endISO": "2025-10-26T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP93",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T04:30:00.000Z",
+              "endISO": "2025-10-26T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 77",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T05:30:00.000Z",
+              "endISO": "2025-10-26T17:30:00.000Z",
+              "title": "Betrayal S1 EP 291",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T06:00:00.000Z",
+              "endISO": "2025-10-26T18:00:00.000Z",
+              "title": "Secrets S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T06:30:00.000Z",
+              "endISO": "2025-10-26T18:30:00.000Z",
+              "title": "Taxi S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T07:00:00.000Z",
+              "endISO": "2025-10-26T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep140",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T08:00:00.000Z",
+              "endISO": "2025-10-26T20:00:00.000Z",
+              "title": "Jagriti Empowered S1 Ep3",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T09:00:00.000Z",
+              "endISO": "2025-10-26T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP93",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T21:30:00.000Z",
+              "endISO": "2025-10-26T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP94",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T22:30:00.000Z",
+              "endISO": "2025-10-26T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 78",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-25T23:30:00.000Z",
+              "endISO": "2025-10-26T11:30:00.000Z",
+              "title": "Betrayal S1 EP 292",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T00:00:00.000Z",
+              "endISO": "2025-10-26T12:00:00.000Z",
+              "title": "Secrets S1 EP 72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T00:30:00.000Z",
+              "endISO": "2025-10-26T12:30:00.000Z",
+              "title": "Taxi S1 EP 72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T01:00:00.000Z",
+              "endISO": "2025-10-26T13:00:00.000Z",
+              "title": "Married Again S1 Ep30",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T02:00:00.000Z",
+              "endISO": "2025-10-26T14:00:00.000Z",
+              "title": "Mehek S2 Ep77",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-27",
+          "slots": [
+            {
+              "startISO": "2025-10-27T03:00:00.000Z",
+              "endISO": "2025-10-27T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 279",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T03:30:00.000Z",
+              "endISO": "2025-10-27T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T04:30:00.000Z",
+              "endISO": "2025-10-27T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T05:30:00.000Z",
+              "endISO": "2025-10-27T17:30:00.000Z",
+              "title": "Betrayal S1 EP 272",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T06:00:00.000Z",
+              "endISO": "2025-10-27T18:00:00.000Z",
+              "title": "Secrets S1 EP 52",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T06:30:00.000Z",
+              "endISO": "2025-10-27T18:30:00.000Z",
+              "title": "Taxi S1 EP 52",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T07:00:00.000Z",
+              "endISO": "2025-10-27T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep121",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T08:00:00.000Z",
+              "endISO": "2025-10-27T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T09:00:00.000Z",
+              "endISO": "2025-10-27T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T21:30:00.000Z",
+              "endISO": "2025-10-27T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T22:30:00.000Z",
+              "endISO": "2025-10-27T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T23:30:00.000Z",
+              "endISO": "2025-10-27T11:30:00.000Z",
+              "title": "Betrayal S1 EP 273",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T00:00:00.000Z",
+              "endISO": "2025-10-27T12:00:00.000Z",
+              "title": "Secrets S1 EP 53",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T00:30:00.000Z",
+              "endISO": "2025-10-27T12:30:00.000Z",
+              "title": "Taxi S1 EP 53",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T01:00:00.000Z",
+              "endISO": "2025-10-27T13:00:00.000Z",
+              "title": "Married Again S1 Ep11",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T02:00:00.000Z",
+              "endISO": "2025-10-27T14:00:00.000Z",
+              "title": "Mehek S2 Ep58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T03:00:00.000Z",
+              "endISO": "2025-10-27T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 284",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T03:30:00.000Z",
+              "endISO": "2025-10-27T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP79",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T04:30:00.000Z",
+              "endISO": "2025-10-27T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 63",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T05:30:00.000Z",
+              "endISO": "2025-10-27T17:30:00.000Z",
+              "title": "Betrayal S1 EP 277",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T06:00:00.000Z",
+              "endISO": "2025-10-27T18:00:00.000Z",
+              "title": "Secrets S1 EP 57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T06:30:00.000Z",
+              "endISO": "2025-10-27T18:30:00.000Z",
+              "title": "Taxi S1 EP 57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T07:00:00.000Z",
+              "endISO": "2025-10-27T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep126",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T08:00:00.000Z",
+              "endISO": "2025-10-27T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep62",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T09:00:00.000Z",
+              "endISO": "2025-10-27T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP79",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T21:30:00.000Z",
+              "endISO": "2025-10-27T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP80",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T22:30:00.000Z",
+              "endISO": "2025-10-27T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T23:30:00.000Z",
+              "endISO": "2025-10-27T11:30:00.000Z",
+              "title": "Betrayal S1 EP 278",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T00:00:00.000Z",
+              "endISO": "2025-10-27T12:00:00.000Z",
+              "title": "Secrets S1 EP 58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T00:30:00.000Z",
+              "endISO": "2025-10-27T12:30:00.000Z",
+              "title": "Taxi S1 EP 58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T01:00:00.000Z",
+              "endISO": "2025-10-27T13:00:00.000Z",
+              "title": "Married Again S1 Ep16",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T02:00:00.000Z",
+              "endISO": "2025-10-27T14:00:00.000Z",
+              "title": "Mehek S2 Ep63",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T03:00:00.000Z",
+              "endISO": "2025-10-27T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 289",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T03:30:00.000Z",
+              "endISO": "2025-10-27T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP84",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T04:30:00.000Z",
+              "endISO": "2025-10-27T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T05:30:00.000Z",
+              "endISO": "2025-10-27T17:30:00.000Z",
+              "title": "Betrayal S1 EP 282",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T06:00:00.000Z",
+              "endISO": "2025-10-27T18:00:00.000Z",
+              "title": "Secrets S1 EP 62",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T06:30:00.000Z",
+              "endISO": "2025-10-27T18:30:00.000Z",
+              "title": "Taxi S1 EP 62",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T07:00:00.000Z",
+              "endISO": "2025-10-27T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep131",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T08:00:00.000Z",
+              "endISO": "2025-10-27T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep67",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T09:00:00.000Z",
+              "endISO": "2025-10-27T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP84",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T21:30:00.000Z",
+              "endISO": "2025-10-27T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP85",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T22:30:00.000Z",
+              "endISO": "2025-10-27T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T23:30:00.000Z",
+              "endISO": "2025-10-27T11:30:00.000Z",
+              "title": "Betrayal S1 EP 283",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T00:00:00.000Z",
+              "endISO": "2025-10-27T12:00:00.000Z",
+              "title": "Secrets S1 EP 63",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T00:30:00.000Z",
+              "endISO": "2025-10-27T12:30:00.000Z",
+              "title": "Taxi S1 EP 63",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T01:00:00.000Z",
+              "endISO": "2025-10-27T13:00:00.000Z",
+              "title": "Married Again S1 Ep21",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T02:00:00.000Z",
+              "endISO": "2025-10-27T14:00:00.000Z",
+              "title": "Mehek S2 Ep68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T03:00:00.000Z",
+              "endISO": "2025-10-27T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 294",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T03:30:00.000Z",
+              "endISO": "2025-10-27T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP89",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T04:30:00.000Z",
+              "endISO": "2025-10-27T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T05:30:00.000Z",
+              "endISO": "2025-10-27T17:30:00.000Z",
+              "title": "Betrayal S1 EP 287",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T06:00:00.000Z",
+              "endISO": "2025-10-27T18:00:00.000Z",
+              "title": "Secrets S1 EP 67",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T06:30:00.000Z",
+              "endISO": "2025-10-27T18:30:00.000Z",
+              "title": "Taxi S1 EP 67",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T07:00:00.000Z",
+              "endISO": "2025-10-27T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep136",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T08:00:00.000Z",
+              "endISO": "2025-10-27T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T09:00:00.000Z",
+              "endISO": "2025-10-27T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP89",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T21:30:00.000Z",
+              "endISO": "2025-10-27T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP90",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T22:30:00.000Z",
+              "endISO": "2025-10-27T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T23:30:00.000Z",
+              "endISO": "2025-10-27T11:30:00.000Z",
+              "title": "Betrayal S1 EP 288",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T00:00:00.000Z",
+              "endISO": "2025-10-27T12:00:00.000Z",
+              "title": "Secrets S1 EP 68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T00:30:00.000Z",
+              "endISO": "2025-10-27T12:30:00.000Z",
+              "title": "Taxi S1 EP 68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T01:00:00.000Z",
+              "endISO": "2025-10-27T13:00:00.000Z",
+              "title": "Married Again S1 Ep26",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T02:00:00.000Z",
+              "endISO": "2025-10-27T14:00:00.000Z",
+              "title": "Mehek S2 Ep73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T03:00:00.000Z",
+              "endISO": "2025-10-27T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 299",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T03:30:00.000Z",
+              "endISO": "2025-10-27T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP94",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T04:30:00.000Z",
+              "endISO": "2025-10-27T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 78",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T05:30:00.000Z",
+              "endISO": "2025-10-27T17:30:00.000Z",
+              "title": "Betrayal S1 EP 292",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T06:00:00.000Z",
+              "endISO": "2025-10-27T18:00:00.000Z",
+              "title": "Secrets S1 EP 72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T06:30:00.000Z",
+              "endISO": "2025-10-27T18:30:00.000Z",
+              "title": "Taxi S1 EP 72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T07:00:00.000Z",
+              "endISO": "2025-10-27T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep141",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T08:00:00.000Z",
+              "endISO": "2025-10-27T20:00:00.000Z",
+              "title": "Jagriti Empowered S1 Ep4",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T09:00:00.000Z",
+              "endISO": "2025-10-27T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP94",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T21:30:00.000Z",
+              "endISO": "2025-10-27T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP95",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T22:30:00.000Z",
+              "endISO": "2025-10-27T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 79",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-26T23:30:00.000Z",
+              "endISO": "2025-10-27T11:30:00.000Z",
+              "title": "Marriage For Duty S1 Ep1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T00:00:00.000Z",
+              "endISO": "2025-10-27T12:00:00.000Z",
+              "title": "Secrets S1 EP 73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T00:30:00.000Z",
+              "endISO": "2025-10-27T12:30:00.000Z",
+              "title": "Taxi S1 EP 73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T01:00:00.000Z",
+              "endISO": "2025-10-27T13:00:00.000Z",
+              "title": "Married Again S1 Ep31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T02:00:00.000Z",
+              "endISO": "2025-10-27T14:00:00.000Z",
+              "title": "Mehek S2 Ep78",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-28",
+          "slots": [
+            {
+              "startISO": "2025-10-28T03:00:00.000Z",
+              "endISO": "2025-10-28T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 280",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T03:30:00.000Z",
+              "endISO": "2025-10-28T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T04:30:00.000Z",
+              "endISO": "2025-10-28T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T05:30:00.000Z",
+              "endISO": "2025-10-28T17:30:00.000Z",
+              "title": "Betrayal S1 EP 273",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T06:00:00.000Z",
+              "endISO": "2025-10-28T18:00:00.000Z",
+              "title": "Secrets S1 EP 53",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T06:30:00.000Z",
+              "endISO": "2025-10-28T18:30:00.000Z",
+              "title": "Taxi S1 EP 53",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T07:00:00.000Z",
+              "endISO": "2025-10-28T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep122",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T08:00:00.000Z",
+              "endISO": "2025-10-28T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T09:00:00.000Z",
+              "endISO": "2025-10-28T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T21:30:00.000Z",
+              "endISO": "2025-10-28T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T22:30:00.000Z",
+              "endISO": "2025-10-28T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T23:30:00.000Z",
+              "endISO": "2025-10-28T11:30:00.000Z",
+              "title": "Betrayal S1 EP 274",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T00:00:00.000Z",
+              "endISO": "2025-10-28T12:00:00.000Z",
+              "title": "Secrets S1 EP 54",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T00:30:00.000Z",
+              "endISO": "2025-10-28T12:30:00.000Z",
+              "title": "Taxi S1 EP 54",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T01:00:00.000Z",
+              "endISO": "2025-10-28T13:00:00.000Z",
+              "title": "Married Again S1 Ep12",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T02:00:00.000Z",
+              "endISO": "2025-10-28T14:00:00.000Z",
+              "title": "Mehek S2 Ep59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T03:00:00.000Z",
+              "endISO": "2025-10-28T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 285",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T03:30:00.000Z",
+              "endISO": "2025-10-28T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP80",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T04:30:00.000Z",
+              "endISO": "2025-10-28T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T05:30:00.000Z",
+              "endISO": "2025-10-28T17:30:00.000Z",
+              "title": "Betrayal S1 EP 278",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T06:00:00.000Z",
+              "endISO": "2025-10-28T18:00:00.000Z",
+              "title": "Secrets S1 EP 58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T06:30:00.000Z",
+              "endISO": "2025-10-28T18:30:00.000Z",
+              "title": "Taxi S1 EP 58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T07:00:00.000Z",
+              "endISO": "2025-10-28T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep127",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T08:00:00.000Z",
+              "endISO": "2025-10-28T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep63",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T09:00:00.000Z",
+              "endISO": "2025-10-28T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP80",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T21:30:00.000Z",
+              "endISO": "2025-10-28T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP81",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T22:30:00.000Z",
+              "endISO": "2025-10-28T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T23:30:00.000Z",
+              "endISO": "2025-10-28T11:30:00.000Z",
+              "title": "Betrayal S1 EP 279",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T00:00:00.000Z",
+              "endISO": "2025-10-28T12:00:00.000Z",
+              "title": "Secrets S1 EP 59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T00:30:00.000Z",
+              "endISO": "2025-10-28T12:30:00.000Z",
+              "title": "Taxi S1 EP 59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T01:00:00.000Z",
+              "endISO": "2025-10-28T13:00:00.000Z",
+              "title": "Married Again S1 Ep17",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T02:00:00.000Z",
+              "endISO": "2025-10-28T14:00:00.000Z",
+              "title": "Mehek S2 Ep64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T03:00:00.000Z",
+              "endISO": "2025-10-28T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 290",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T03:30:00.000Z",
+              "endISO": "2025-10-28T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP85",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T04:30:00.000Z",
+              "endISO": "2025-10-28T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T05:30:00.000Z",
+              "endISO": "2025-10-28T17:30:00.000Z",
+              "title": "Betrayal S1 EP 283",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T06:00:00.000Z",
+              "endISO": "2025-10-28T18:00:00.000Z",
+              "title": "Secrets S1 EP 63",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T06:30:00.000Z",
+              "endISO": "2025-10-28T18:30:00.000Z",
+              "title": "Taxi S1 EP 63",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T07:00:00.000Z",
+              "endISO": "2025-10-28T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep132",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T08:00:00.000Z",
+              "endISO": "2025-10-28T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T09:00:00.000Z",
+              "endISO": "2025-10-28T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP85",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T21:30:00.000Z",
+              "endISO": "2025-10-28T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP86",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T22:30:00.000Z",
+              "endISO": "2025-10-28T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 70",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T23:30:00.000Z",
+              "endISO": "2025-10-28T11:30:00.000Z",
+              "title": "Betrayal S1 EP 284",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T00:00:00.000Z",
+              "endISO": "2025-10-28T12:00:00.000Z",
+              "title": "Secrets S1 EP 64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T00:30:00.000Z",
+              "endISO": "2025-10-28T12:30:00.000Z",
+              "title": "Taxi S1 EP 64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T01:00:00.000Z",
+              "endISO": "2025-10-28T13:00:00.000Z",
+              "title": "Married Again S1 Ep22",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T02:00:00.000Z",
+              "endISO": "2025-10-28T14:00:00.000Z",
+              "title": "Mehek S2 Ep69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T03:00:00.000Z",
+              "endISO": "2025-10-28T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 295",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T03:30:00.000Z",
+              "endISO": "2025-10-28T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP90",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T04:30:00.000Z",
+              "endISO": "2025-10-28T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T05:30:00.000Z",
+              "endISO": "2025-10-28T17:30:00.000Z",
+              "title": "Betrayal S1 EP 288",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T06:00:00.000Z",
+              "endISO": "2025-10-28T18:00:00.000Z",
+              "title": "Secrets S1 EP 68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T06:30:00.000Z",
+              "endISO": "2025-10-28T18:30:00.000Z",
+              "title": "Taxi S1 EP 68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T07:00:00.000Z",
+              "endISO": "2025-10-28T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep137",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T08:00:00.000Z",
+              "endISO": "2025-10-28T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T09:00:00.000Z",
+              "endISO": "2025-10-28T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP90",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T21:30:00.000Z",
+              "endISO": "2025-10-28T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP91",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T22:30:00.000Z",
+              "endISO": "2025-10-28T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T23:30:00.000Z",
+              "endISO": "2025-10-28T11:30:00.000Z",
+              "title": "Betrayal S1 EP 289",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T00:00:00.000Z",
+              "endISO": "2025-10-28T12:00:00.000Z",
+              "title": "Secrets S1 EP 69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T00:30:00.000Z",
+              "endISO": "2025-10-28T12:30:00.000Z",
+              "title": "Taxi S1 EP 69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T01:00:00.000Z",
+              "endISO": "2025-10-28T13:00:00.000Z",
+              "title": "Married Again S1 Ep27",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T02:00:00.000Z",
+              "endISO": "2025-10-28T14:00:00.000Z",
+              "title": "Mehek S2 Ep74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T03:00:00.000Z",
+              "endISO": "2025-10-28T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 300",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T03:30:00.000Z",
+              "endISO": "2025-10-28T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP95",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T04:30:00.000Z",
+              "endISO": "2025-10-28T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 79",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T05:30:00.000Z",
+              "endISO": "2025-10-28T17:30:00.000Z",
+              "title": "Marriage For Duty S1 Ep1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T06:00:00.000Z",
+              "endISO": "2025-10-28T18:00:00.000Z",
+              "title": "Secrets S1 EP 73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T06:30:00.000Z",
+              "endISO": "2025-10-28T18:30:00.000Z",
+              "title": "Taxi S1 EP 73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T07:00:00.000Z",
+              "endISO": "2025-10-28T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep142",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T08:00:00.000Z",
+              "endISO": "2025-10-28T20:00:00.000Z",
+              "title": "Jagriti Empowered S1 Ep5",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T09:00:00.000Z",
+              "endISO": "2025-10-28T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP95",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T21:30:00.000Z",
+              "endISO": "2025-10-28T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP96",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T22:30:00.000Z",
+              "endISO": "2025-10-28T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 80",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-27T23:30:00.000Z",
+              "endISO": "2025-10-28T11:30:00.000Z",
+              "title": "Marriage For Duty S1 Ep2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T00:00:00.000Z",
+              "endISO": "2025-10-28T12:00:00.000Z",
+              "title": "Secrets S1 EP 74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T00:30:00.000Z",
+              "endISO": "2025-10-28T12:30:00.000Z",
+              "title": "Taxi S1 EP 74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T01:00:00.000Z",
+              "endISO": "2025-10-28T13:00:00.000Z",
+              "title": "Married Again S1 Ep32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T02:00:00.000Z",
+              "endISO": "2025-10-28T14:00:00.000Z",
+              "title": "Mehek S2 Ep79",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-29",
+          "slots": [
+            {
+              "startISO": "2025-10-29T03:00:00.000Z",
+              "endISO": "2025-10-29T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 281",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T03:30:00.000Z",
+              "endISO": "2025-10-29T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T04:30:00.000Z",
+              "endISO": "2025-10-29T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T05:30:00.000Z",
+              "endISO": "2025-10-29T17:30:00.000Z",
+              "title": "Betrayal S1 EP 274",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T06:00:00.000Z",
+              "endISO": "2025-10-29T18:00:00.000Z",
+              "title": "Secrets S1 EP 54",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T06:30:00.000Z",
+              "endISO": "2025-10-29T18:30:00.000Z",
+              "title": "Taxi S1 EP 54",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T07:00:00.000Z",
+              "endISO": "2025-10-29T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep123",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T08:00:00.000Z",
+              "endISO": "2025-10-29T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T09:00:00.000Z",
+              "endISO": "2025-10-29T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T21:30:00.000Z",
+              "endISO": "2025-10-29T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP77",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T22:30:00.000Z",
+              "endISO": "2025-10-29T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T23:30:00.000Z",
+              "endISO": "2025-10-29T11:30:00.000Z",
+              "title": "Betrayal S1 EP 275",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T00:00:00.000Z",
+              "endISO": "2025-10-29T12:00:00.000Z",
+              "title": "Secrets S1 EP 55",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T00:30:00.000Z",
+              "endISO": "2025-10-29T12:30:00.000Z",
+              "title": "Taxi S1 EP 55",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T01:00:00.000Z",
+              "endISO": "2025-10-29T13:00:00.000Z",
+              "title": "Married Again S1 Ep13",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T02:00:00.000Z",
+              "endISO": "2025-10-29T14:00:00.000Z",
+              "title": "Mehek S2 Ep60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T03:00:00.000Z",
+              "endISO": "2025-10-29T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 286",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T03:30:00.000Z",
+              "endISO": "2025-10-29T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP81",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T04:30:00.000Z",
+              "endISO": "2025-10-29T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T05:30:00.000Z",
+              "endISO": "2025-10-29T17:30:00.000Z",
+              "title": "Betrayal S1 EP 279",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T06:00:00.000Z",
+              "endISO": "2025-10-29T18:00:00.000Z",
+              "title": "Secrets S1 EP 59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T06:30:00.000Z",
+              "endISO": "2025-10-29T18:30:00.000Z",
+              "title": "Taxi S1 EP 59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T07:00:00.000Z",
+              "endISO": "2025-10-29T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep128",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T08:00:00.000Z",
+              "endISO": "2025-10-29T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T09:00:00.000Z",
+              "endISO": "2025-10-29T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP81",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T21:30:00.000Z",
+              "endISO": "2025-10-29T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP82",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T22:30:00.000Z",
+              "endISO": "2025-10-29T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T23:30:00.000Z",
+              "endISO": "2025-10-29T11:30:00.000Z",
+              "title": "Betrayal S1 EP 280",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T00:00:00.000Z",
+              "endISO": "2025-10-29T12:00:00.000Z",
+              "title": "Secrets S1 EP 60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T00:30:00.000Z",
+              "endISO": "2025-10-29T12:30:00.000Z",
+              "title": "Taxi S1 EP 60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T01:00:00.000Z",
+              "endISO": "2025-10-29T13:00:00.000Z",
+              "title": "Married Again S1 Ep18",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T02:00:00.000Z",
+              "endISO": "2025-10-29T14:00:00.000Z",
+              "title": "Mehek S2 Ep65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T03:00:00.000Z",
+              "endISO": "2025-10-29T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 291",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T03:30:00.000Z",
+              "endISO": "2025-10-29T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP86",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T04:30:00.000Z",
+              "endISO": "2025-10-29T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 70",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T05:30:00.000Z",
+              "endISO": "2025-10-29T17:30:00.000Z",
+              "title": "Betrayal S1 EP 284",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T06:00:00.000Z",
+              "endISO": "2025-10-29T18:00:00.000Z",
+              "title": "Secrets S1 EP 64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T06:30:00.000Z",
+              "endISO": "2025-10-29T18:30:00.000Z",
+              "title": "Taxi S1 EP 64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T07:00:00.000Z",
+              "endISO": "2025-10-29T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep133",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T08:00:00.000Z",
+              "endISO": "2025-10-29T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T09:00:00.000Z",
+              "endISO": "2025-10-29T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP86",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T21:30:00.000Z",
+              "endISO": "2025-10-29T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP87",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T22:30:00.000Z",
+              "endISO": "2025-10-29T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T23:30:00.000Z",
+              "endISO": "2025-10-29T11:30:00.000Z",
+              "title": "Betrayal S1 EP 285",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T00:00:00.000Z",
+              "endISO": "2025-10-29T12:00:00.000Z",
+              "title": "Secrets S1 EP 65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T00:30:00.000Z",
+              "endISO": "2025-10-29T12:30:00.000Z",
+              "title": "Taxi S1 EP 65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T01:00:00.000Z",
+              "endISO": "2025-10-29T13:00:00.000Z",
+              "title": "Married Again S1 Ep23",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T02:00:00.000Z",
+              "endISO": "2025-10-29T14:00:00.000Z",
+              "title": "Mehek S2 Ep70",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T03:00:00.000Z",
+              "endISO": "2025-10-29T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 296",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T03:30:00.000Z",
+              "endISO": "2025-10-29T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP91",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T04:30:00.000Z",
+              "endISO": "2025-10-29T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T05:30:00.000Z",
+              "endISO": "2025-10-29T17:30:00.000Z",
+              "title": "Betrayal S1 EP 289",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T06:00:00.000Z",
+              "endISO": "2025-10-29T18:00:00.000Z",
+              "title": "Secrets S1 EP 69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T06:30:00.000Z",
+              "endISO": "2025-10-29T18:30:00.000Z",
+              "title": "Taxi S1 EP 69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T07:00:00.000Z",
+              "endISO": "2025-10-29T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep138",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T08:00:00.000Z",
+              "endISO": "2025-10-29T20:00:00.000Z",
+              "title": "Jagriti Empowered S1 Ep1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T09:00:00.000Z",
+              "endISO": "2025-10-29T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP91",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T21:30:00.000Z",
+              "endISO": "2025-10-29T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP92",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T22:30:00.000Z",
+              "endISO": "2025-10-29T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T23:30:00.000Z",
+              "endISO": "2025-10-29T11:30:00.000Z",
+              "title": "Betrayal S1 EP 290",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T00:00:00.000Z",
+              "endISO": "2025-10-29T12:00:00.000Z",
+              "title": "Secrets S1 EP 70",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T00:30:00.000Z",
+              "endISO": "2025-10-29T12:30:00.000Z",
+              "title": "Taxi S1 EP 70",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T01:00:00.000Z",
+              "endISO": "2025-10-29T13:00:00.000Z",
+              "title": "Married Again S1 Ep28",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T02:00:00.000Z",
+              "endISO": "2025-10-29T14:00:00.000Z",
+              "title": "Mehek S2 Ep75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T03:00:00.000Z",
+              "endISO": "2025-10-29T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 301",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T03:30:00.000Z",
+              "endISO": "2025-10-29T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP96",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T04:30:00.000Z",
+              "endISO": "2025-10-29T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 80",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T05:30:00.000Z",
+              "endISO": "2025-10-29T17:30:00.000Z",
+              "title": "Marriage For Duty S1 Ep2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T06:00:00.000Z",
+              "endISO": "2025-10-29T18:00:00.000Z",
+              "title": "Secrets S1 EP 74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T06:30:00.000Z",
+              "endISO": "2025-10-29T18:30:00.000Z",
+              "title": "Taxi S1 EP 74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T07:00:00.000Z",
+              "endISO": "2025-10-29T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep143",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T08:00:00.000Z",
+              "endISO": "2025-10-29T20:00:00.000Z",
+              "title": "Jagriti Empowered S1 Ep6",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T09:00:00.000Z",
+              "endISO": "2025-10-29T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP96",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T21:30:00.000Z",
+              "endISO": "2025-10-29T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP97",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T22:30:00.000Z",
+              "endISO": "2025-10-29T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 81",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-28T23:30:00.000Z",
+              "endISO": "2025-10-29T11:30:00.000Z",
+              "title": "Marriage For Duty S1 Ep3",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T00:00:00.000Z",
+              "endISO": "2025-10-29T12:00:00.000Z",
+              "title": "Secrets S1 EP 75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T00:30:00.000Z",
+              "endISO": "2025-10-29T12:30:00.000Z",
+              "title": "Taxi S1 EP 75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T01:00:00.000Z",
+              "endISO": "2025-10-29T13:00:00.000Z",
+              "title": "Married Again S1 Ep33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T02:00:00.000Z",
+              "endISO": "2025-10-29T14:00:00.000Z",
+              "title": "Mehek S2 Ep80",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-30",
+          "slots": [
+            {
+              "startISO": "2025-10-30T03:00:00.000Z",
+              "endISO": "2025-10-30T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 282",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T03:30:00.000Z",
+              "endISO": "2025-10-30T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP77",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T04:30:00.000Z",
+              "endISO": "2025-10-30T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T05:30:00.000Z",
+              "endISO": "2025-10-30T17:30:00.000Z",
+              "title": "Betrayal S1 EP 275",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T06:00:00.000Z",
+              "endISO": "2025-10-30T18:00:00.000Z",
+              "title": "Secrets S1 EP 55",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T06:30:00.000Z",
+              "endISO": "2025-10-30T18:30:00.000Z",
+              "title": "Taxi S1 EP 55",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T07:00:00.000Z",
+              "endISO": "2025-10-30T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep124",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T08:00:00.000Z",
+              "endISO": "2025-10-30T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T09:00:00.000Z",
+              "endISO": "2025-10-30T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP77",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T21:30:00.000Z",
+              "endISO": "2025-10-30T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP78",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T22:30:00.000Z",
+              "endISO": "2025-10-30T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 62",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T23:30:00.000Z",
+              "endISO": "2025-10-30T11:30:00.000Z",
+              "title": "Betrayal S1 EP 276",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T00:00:00.000Z",
+              "endISO": "2025-10-30T12:00:00.000Z",
+              "title": "Secrets S1 EP 56",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T00:30:00.000Z",
+              "endISO": "2025-10-30T12:30:00.000Z",
+              "title": "Taxi S1 EP 56",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T01:00:00.000Z",
+              "endISO": "2025-10-30T13:00:00.000Z",
+              "title": "Married Again S1 Ep14",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T02:00:00.000Z",
+              "endISO": "2025-10-30T14:00:00.000Z",
+              "title": "Mehek S2 Ep61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T03:00:00.000Z",
+              "endISO": "2025-10-30T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 287",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T03:30:00.000Z",
+              "endISO": "2025-10-30T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP82",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T04:30:00.000Z",
+              "endISO": "2025-10-30T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T05:30:00.000Z",
+              "endISO": "2025-10-30T17:30:00.000Z",
+              "title": "Betrayal S1 EP 280",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T06:00:00.000Z",
+              "endISO": "2025-10-30T18:00:00.000Z",
+              "title": "Secrets S1 EP 60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T06:30:00.000Z",
+              "endISO": "2025-10-30T18:30:00.000Z",
+              "title": "Taxi S1 EP 60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T07:00:00.000Z",
+              "endISO": "2025-10-30T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep129",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T08:00:00.000Z",
+              "endISO": "2025-10-30T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T09:00:00.000Z",
+              "endISO": "2025-10-30T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP82",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T21:30:00.000Z",
+              "endISO": "2025-10-30T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP83",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T22:30:00.000Z",
+              "endISO": "2025-10-30T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 67",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T23:30:00.000Z",
+              "endISO": "2025-10-30T11:30:00.000Z",
+              "title": "Betrayal S1 EP 281",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T00:00:00.000Z",
+              "endISO": "2025-10-30T12:00:00.000Z",
+              "title": "Secrets S1 EP 61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T00:30:00.000Z",
+              "endISO": "2025-10-30T12:30:00.000Z",
+              "title": "Taxi S1 EP 61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T01:00:00.000Z",
+              "endISO": "2025-10-30T13:00:00.000Z",
+              "title": "Married Again S1 Ep19",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T02:00:00.000Z",
+              "endISO": "2025-10-30T14:00:00.000Z",
+              "title": "Mehek S2 Ep66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T03:00:00.000Z",
+              "endISO": "2025-10-30T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 292",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T03:30:00.000Z",
+              "endISO": "2025-10-30T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP87",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T04:30:00.000Z",
+              "endISO": "2025-10-30T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T05:30:00.000Z",
+              "endISO": "2025-10-30T17:30:00.000Z",
+              "title": "Betrayal S1 EP 285",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T06:00:00.000Z",
+              "endISO": "2025-10-30T18:00:00.000Z",
+              "title": "Secrets S1 EP 65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T06:30:00.000Z",
+              "endISO": "2025-10-30T18:30:00.000Z",
+              "title": "Taxi S1 EP 65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T07:00:00.000Z",
+              "endISO": "2025-10-30T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep134",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T08:00:00.000Z",
+              "endISO": "2025-10-30T20:00:00.000Z",
+              "title": "Radhe Mohan: First Name of Love S4 Ep70",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T09:00:00.000Z",
+              "endISO": "2025-10-30T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP87",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T21:30:00.000Z",
+              "endISO": "2025-10-30T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP88",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T22:30:00.000Z",
+              "endISO": "2025-10-30T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T23:30:00.000Z",
+              "endISO": "2025-10-30T11:30:00.000Z",
+              "title": "Betrayal S1 EP 286",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T00:00:00.000Z",
+              "endISO": "2025-10-30T12:00:00.000Z",
+              "title": "Secrets S1 EP 66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T00:30:00.000Z",
+              "endISO": "2025-10-30T12:30:00.000Z",
+              "title": "Taxi S1 EP 66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T01:00:00.000Z",
+              "endISO": "2025-10-30T13:00:00.000Z",
+              "title": "Married Again S1 Ep24",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T02:00:00.000Z",
+              "endISO": "2025-10-30T14:00:00.000Z",
+              "title": "Mehek S2 Ep71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T03:00:00.000Z",
+              "endISO": "2025-10-30T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 297",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T03:30:00.000Z",
+              "endISO": "2025-10-30T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP92",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T04:30:00.000Z",
+              "endISO": "2025-10-30T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T05:30:00.000Z",
+              "endISO": "2025-10-30T17:30:00.000Z",
+              "title": "Betrayal S1 EP 290",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T06:00:00.000Z",
+              "endISO": "2025-10-30T18:00:00.000Z",
+              "title": "Secrets S1 EP 70",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T06:30:00.000Z",
+              "endISO": "2025-10-30T18:30:00.000Z",
+              "title": "Taxi S1 EP 70",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T07:00:00.000Z",
+              "endISO": "2025-10-30T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep139",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T08:00:00.000Z",
+              "endISO": "2025-10-30T20:00:00.000Z",
+              "title": "Jagriti Empowered S1 Ep2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T09:00:00.000Z",
+              "endISO": "2025-10-30T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP92",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T21:30:00.000Z",
+              "endISO": "2025-10-30T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP93",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T22:30:00.000Z",
+              "endISO": "2025-10-30T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 77",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T23:30:00.000Z",
+              "endISO": "2025-10-30T11:30:00.000Z",
+              "title": "Betrayal S1 EP 291",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T00:00:00.000Z",
+              "endISO": "2025-10-30T12:00:00.000Z",
+              "title": "Secrets S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T00:30:00.000Z",
+              "endISO": "2025-10-30T12:30:00.000Z",
+              "title": "Taxi S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T01:00:00.000Z",
+              "endISO": "2025-10-30T13:00:00.000Z",
+              "title": "Married Again S1 Ep29",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T02:00:00.000Z",
+              "endISO": "2025-10-30T14:00:00.000Z",
+              "title": "Mehek S2 Ep76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T03:00:00.000Z",
+              "endISO": "2025-10-30T15:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 302",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T03:30:00.000Z",
+              "endISO": "2025-10-30T15:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP97",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T04:30:00.000Z",
+              "endISO": "2025-10-30T16:30:00.000Z",
+              "title": "Hidden intentions S1 EP 81",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T05:30:00.000Z",
+              "endISO": "2025-10-30T17:30:00.000Z",
+              "title": "Marriage For Duty S1 Ep3",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T06:00:00.000Z",
+              "endISO": "2025-10-30T18:00:00.000Z",
+              "title": "Secrets S1 EP 75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T06:30:00.000Z",
+              "endISO": "2025-10-30T18:30:00.000Z",
+              "title": "Taxi S1 EP 75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T07:00:00.000Z",
+              "endISO": "2025-10-30T19:00:00.000Z",
+              "title": "King of Hearts S1 Ep144",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T08:00:00.000Z",
+              "endISO": "2025-10-30T20:00:00.000Z",
+              "title": "Jagriti Empowered S1 Ep7",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T09:00:00.000Z",
+              "endISO": "2025-10-30T21:00:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP97",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T21:30:00.000Z",
+              "endISO": "2025-10-30T09:30:00.000Z",
+              "title": "Twist of Fate: New Era S10 EP98",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T22:30:00.000Z",
+              "endISO": "2025-10-30T10:30:00.000Z",
+              "title": "Hidden intentions S1 EP 82",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-29T23:30:00.000Z",
+              "endISO": "2025-10-30T11:30:00.000Z",
+              "title": "Marriage For Duty S1 Ep4",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T00:00:00.000Z",
+              "endISO": "2025-10-30T12:00:00.000Z",
+              "title": "Secrets S1 EP 76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T00:30:00.000Z",
+              "endISO": "2025-10-30T12:30:00.000Z",
+              "title": "Taxi S1 EP 76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T01:00:00.000Z",
+              "endISO": "2025-10-30T13:00:00.000Z",
+              "title": "Married Again S1 Ep34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T02:00:00.000Z",
+              "endISO": "2025-10-30T14:00:00.000Z",
+              "title": "Mehek S2 Ep81",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-31",
+          "slots": [
+            {
+              "startISO": "2025-10-31T03:00:00.000Z",
+              "endISO": "2025-10-31T15:00:00.000Z",
+              "title": "Married Again S1 Ep10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T04:00:00.000Z",
+              "endISO": "2025-10-31T16:00:00.000Z",
+              "title": "Married Again S1 Ep11",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T05:00:00.000Z",
+              "endISO": "2025-10-31T17:00:00.000Z",
+              "title": "Married Again S1 Ep12",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T06:00:00.000Z",
+              "endISO": "2025-10-31T18:00:00.000Z",
+              "title": "Married Again S1 Ep13",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T07:00:00.000Z",
+              "endISO": "2025-10-31T19:00:00.000Z",
+              "title": "Married Again S1 Ep14",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T08:00:00.000Z",
+              "endISO": "2025-10-31T20:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 279",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T08:30:00.000Z",
+              "endISO": "2025-10-31T20:30:00.000Z",
+              "title": "Ringside Rebel S1 EP 280",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T09:00:00.000Z",
+              "endISO": "2025-10-31T21:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 281",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T21:30:00.000Z",
+              "endISO": "2025-10-31T09:30:00.000Z",
+              "title": "King of Hearts S1 Ep122",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T22:30:00.000Z",
+              "endISO": "2025-10-31T10:30:00.000Z",
+              "title": "King of Hearts S1 Ep123",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T23:30:00.000Z",
+              "endISO": "2025-10-31T11:30:00.000Z",
+              "title": "King of Hearts S1 Ep124",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T00:30:00.000Z",
+              "endISO": "2025-10-31T12:30:00.000Z",
+              "title": "King of Hearts S1 Ep125",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T01:30:00.000Z",
+              "endISO": "2025-10-31T13:30:00.000Z",
+              "title": "Betrayal S1 EP 274",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T02:00:00.000Z",
+              "endISO": "2025-10-31T14:00:00.000Z",
+              "title": "Betrayal S1 EP 275",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T02:30:00.000Z",
+              "endISO": "2025-10-31T14:30:00.000Z",
+              "title": "Betrayal S1 EP 276",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T03:00:00.000Z",
+              "endISO": "2025-10-31T15:00:00.000Z",
+              "title": "Married Again S1 Ep15",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T04:00:00.000Z",
+              "endISO": "2025-10-31T16:00:00.000Z",
+              "title": "Married Again S1 Ep16",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T05:00:00.000Z",
+              "endISO": "2025-10-31T17:00:00.000Z",
+              "title": "Married Again S1 Ep17",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T06:00:00.000Z",
+              "endISO": "2025-10-31T18:00:00.000Z",
+              "title": "Married Again S1 Ep18",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T07:00:00.000Z",
+              "endISO": "2025-10-31T19:00:00.000Z",
+              "title": "Married Again S1 Ep19",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T08:00:00.000Z",
+              "endISO": "2025-10-31T20:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 284",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T08:30:00.000Z",
+              "endISO": "2025-10-31T20:30:00.000Z",
+              "title": "Ringside Rebel S1 EP 285",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T09:00:00.000Z",
+              "endISO": "2025-10-31T21:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 286",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T21:30:00.000Z",
+              "endISO": "2025-10-31T09:30:00.000Z",
+              "title": "King of Hearts S1 Ep127",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T22:30:00.000Z",
+              "endISO": "2025-10-31T10:30:00.000Z",
+              "title": "King of Hearts S1 Ep128",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T23:30:00.000Z",
+              "endISO": "2025-10-31T11:30:00.000Z",
+              "title": "King of Hearts S1 Ep129",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T00:30:00.000Z",
+              "endISO": "2025-10-31T12:30:00.000Z",
+              "title": "King of Hearts S1 Ep130",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T01:30:00.000Z",
+              "endISO": "2025-10-31T13:30:00.000Z",
+              "title": "Betrayal S1 EP 279",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T02:00:00.000Z",
+              "endISO": "2025-10-31T14:00:00.000Z",
+              "title": "Betrayal S1 EP 280",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T02:30:00.000Z",
+              "endISO": "2025-10-31T14:30:00.000Z",
+              "title": "Betrayal S1 EP 281",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T03:00:00.000Z",
+              "endISO": "2025-10-31T15:00:00.000Z",
+              "title": "Married Again S1 Ep20",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T04:00:00.000Z",
+              "endISO": "2025-10-31T16:00:00.000Z",
+              "title": "Married Again S1 Ep21",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T05:00:00.000Z",
+              "endISO": "2025-10-31T17:00:00.000Z",
+              "title": "Married Again S1 Ep22",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T06:00:00.000Z",
+              "endISO": "2025-10-31T18:00:00.000Z",
+              "title": "Married Again S1 Ep23",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T07:00:00.000Z",
+              "endISO": "2025-10-31T19:00:00.000Z",
+              "title": "Married Again S1 Ep24",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T08:00:00.000Z",
+              "endISO": "2025-10-31T20:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 289",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T08:30:00.000Z",
+              "endISO": "2025-10-31T20:30:00.000Z",
+              "title": "Ringside Rebel S1 EP 290",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T09:00:00.000Z",
+              "endISO": "2025-10-31T21:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 291",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T21:30:00.000Z",
+              "endISO": "2025-10-31T09:30:00.000Z",
+              "title": "King of Hearts S1 Ep132",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T22:30:00.000Z",
+              "endISO": "2025-10-31T10:30:00.000Z",
+              "title": "King of Hearts S1 Ep133",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T23:30:00.000Z",
+              "endISO": "2025-10-31T11:30:00.000Z",
+              "title": "King of Hearts S1 Ep134",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T00:30:00.000Z",
+              "endISO": "2025-10-31T12:30:00.000Z",
+              "title": "King of Hearts S1 Ep135",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T01:30:00.000Z",
+              "endISO": "2025-10-31T13:30:00.000Z",
+              "title": "Betrayal S1 EP 284",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T02:00:00.000Z",
+              "endISO": "2025-10-31T14:00:00.000Z",
+              "title": "Betrayal S1 EP 285",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T02:30:00.000Z",
+              "endISO": "2025-10-31T14:30:00.000Z",
+              "title": "Betrayal S1 EP 286",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T03:00:00.000Z",
+              "endISO": "2025-10-31T15:00:00.000Z",
+              "title": "Married Again S1 Ep25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T04:00:00.000Z",
+              "endISO": "2025-10-31T16:00:00.000Z",
+              "title": "Married Again S1 Ep26",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T05:00:00.000Z",
+              "endISO": "2025-10-31T17:00:00.000Z",
+              "title": "Married Again S1 Ep27",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T06:00:00.000Z",
+              "endISO": "2025-10-31T18:00:00.000Z",
+              "title": "Married Again S1 Ep28",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T07:00:00.000Z",
+              "endISO": "2025-10-31T19:00:00.000Z",
+              "title": "Married Again S1 Ep29",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T08:00:00.000Z",
+              "endISO": "2025-10-31T20:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 294",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T08:30:00.000Z",
+              "endISO": "2025-10-31T20:30:00.000Z",
+              "title": "Ringside Rebel S1 EP 295",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T09:00:00.000Z",
+              "endISO": "2025-10-31T21:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 296",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T21:30:00.000Z",
+              "endISO": "2025-10-31T09:30:00.000Z",
+              "title": "King of Hearts S1 Ep137",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T22:30:00.000Z",
+              "endISO": "2025-10-31T10:30:00.000Z",
+              "title": "King of Hearts S1 Ep138",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T23:30:00.000Z",
+              "endISO": "2025-10-31T11:30:00.000Z",
+              "title": "King of Hearts S1 Ep139",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T00:30:00.000Z",
+              "endISO": "2025-10-31T12:30:00.000Z",
+              "title": "King of Hearts S1 Ep140",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T01:30:00.000Z",
+              "endISO": "2025-10-31T13:30:00.000Z",
+              "title": "Betrayal S1 EP 289",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T02:00:00.000Z",
+              "endISO": "2025-10-31T14:00:00.000Z",
+              "title": "Betrayal S1 EP 290",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T02:30:00.000Z",
+              "endISO": "2025-10-31T14:30:00.000Z",
+              "title": "Betrayal S1 EP 291",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T03:00:00.000Z",
+              "endISO": "2025-10-31T15:00:00.000Z",
+              "title": "Married Again S1 Ep30",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T04:00:00.000Z",
+              "endISO": "2025-10-31T16:00:00.000Z",
+              "title": "Married Again S1 Ep31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T05:00:00.000Z",
+              "endISO": "2025-10-31T17:00:00.000Z",
+              "title": "Married Again S1 Ep32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T06:00:00.000Z",
+              "endISO": "2025-10-31T18:00:00.000Z",
+              "title": "Married Again S1 Ep33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T07:00:00.000Z",
+              "endISO": "2025-10-31T19:00:00.000Z",
+              "title": "Married Again S1 Ep34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T08:00:00.000Z",
+              "endISO": "2025-10-31T20:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 299",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T08:30:00.000Z",
+              "endISO": "2025-10-31T20:30:00.000Z",
+              "title": "Ringside Rebel S1 EP 300",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T09:00:00.000Z",
+              "endISO": "2025-10-31T21:00:00.000Z",
+              "title": "Ringside Rebel S1 EP 301",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T21:30:00.000Z",
+              "endISO": "2025-10-31T09:30:00.000Z",
+              "title": "King of Hearts S1 Ep142",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T22:30:00.000Z",
+              "endISO": "2025-10-31T10:30:00.000Z",
+              "title": "King of Hearts S1 Ep143",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-30T23:30:00.000Z",
+              "endISO": "2025-10-31T11:30:00.000Z",
+              "title": "King of Hearts S1 Ep144",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T00:30:00.000Z",
+              "endISO": "2025-10-31T12:30:00.000Z",
+              "title": "King of Hearts S1 Ep145",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T01:30:00.000Z",
+              "endISO": "2025-10-31T13:30:00.000Z",
+              "title": "Marriage For Duty S1 Ep2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T02:00:00.000Z",
+              "endISO": "2025-10-31T14:00:00.000Z",
+              "title": "Marriage For Duty S1 Ep3",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T02:30:00.000Z",
+              "endISO": "2025-10-31T14:30:00.000Z",
+              "title": "Marriage For Duty S1 Ep4",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-11-01",
+          "slots": [
+            {
+              "startISO": "2025-11-01T03:00:00.000Z",
+              "endISO": "2025-11-01T15:00:00.000Z",
+              "title": "Secrets S1 EP 52",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T03:30:00.000Z",
+              "endISO": "2025-11-01T15:30:00.000Z",
+              "title": "Secrets S1 EP 53",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T04:00:00.000Z",
+              "endISO": "2025-11-01T16:00:00.000Z",
+              "title": "Secrets S1 EP 54",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T04:30:00.000Z",
+              "endISO": "2025-11-01T16:30:00.000Z",
+              "title": "Secrets S1 EP 55",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T05:00:00.000Z",
+              "endISO": "2025-11-01T17:00:00.000Z",
+              "title": "Secrets S1 EP 56",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T05:30:00.000Z",
+              "endISO": "2025-11-01T17:30:00.000Z",
+              "title": "Taxi S1 EP 52",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T06:00:00.000Z",
+              "endISO": "2025-11-01T18:00:00.000Z",
+              "title": "Taxi S1 EP 53",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T06:30:00.000Z",
+              "endISO": "2025-11-01T18:30:00.000Z",
+              "title": "Taxi S1 EP 54",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T07:00:00.000Z",
+              "endISO": "2025-11-01T19:00:00.000Z",
+              "title": "Taxi S1 EP 55",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T07:30:00.000Z",
+              "endISO": "2025-11-01T19:30:00.000Z",
+              "title": "Taxi S1 EP 56",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T08:00:00.000Z",
+              "endISO": "2025-11-01T20:00:00.000Z",
+              "title": "King of Hearts S1 Ep121",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T09:00:00.000Z",
+              "endISO": "2025-11-01T21:00:00.000Z",
+              "title": "King of Hearts S1 Ep122",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T21:30:00.000Z",
+              "endISO": "2025-11-01T09:30:00.000Z",
+              "title": "Mehek S2 Ep58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T22:30:00.000Z",
+              "endISO": "2025-11-01T10:30:00.000Z",
+              "title": "Mehek S2 Ep59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T23:30:00.000Z",
+              "endISO": "2025-11-01T11:30:00.000Z",
+              "title": "Mehek S2 Ep60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T00:30:00.000Z",
+              "endISO": "2025-11-01T12:30:00.000Z",
+              "title": "Mehek S2 Ep61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T01:30:00.000Z",
+              "endISO": "2025-11-01T13:30:00.000Z",
+              "title": "Betrayal S1 EP 276",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T02:00:00.000Z",
+              "endISO": "2025-11-01T14:00:00.000Z",
+              "title": "Secrets S1 EP 56",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T02:30:00.000Z",
+              "endISO": "2025-11-01T14:30:00.000Z",
+              "title": "Taxi S1 EP 56",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T03:00:00.000Z",
+              "endISO": "2025-11-01T15:00:00.000Z",
+              "title": "Secrets S1 EP 57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T03:30:00.000Z",
+              "endISO": "2025-11-01T15:30:00.000Z",
+              "title": "Secrets S1 EP 58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T04:00:00.000Z",
+              "endISO": "2025-11-01T16:00:00.000Z",
+              "title": "Secrets S1 EP 59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T04:30:00.000Z",
+              "endISO": "2025-11-01T16:30:00.000Z",
+              "title": "Secrets S1 EP 60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T05:00:00.000Z",
+              "endISO": "2025-11-01T17:00:00.000Z",
+              "title": "Secrets S1 EP 61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T05:30:00.000Z",
+              "endISO": "2025-11-01T17:30:00.000Z",
+              "title": "Taxi S1 EP 57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T06:00:00.000Z",
+              "endISO": "2025-11-01T18:00:00.000Z",
+              "title": "Taxi S1 EP 58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T06:30:00.000Z",
+              "endISO": "2025-11-01T18:30:00.000Z",
+              "title": "Taxi S1 EP 59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T07:00:00.000Z",
+              "endISO": "2025-11-01T19:00:00.000Z",
+              "title": "Taxi S1 EP 60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T07:30:00.000Z",
+              "endISO": "2025-11-01T19:30:00.000Z",
+              "title": "Taxi S1 EP 61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T08:00:00.000Z",
+              "endISO": "2025-11-01T20:00:00.000Z",
+              "title": "King of Hearts S1 Ep126",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T09:00:00.000Z",
+              "endISO": "2025-11-01T21:00:00.000Z",
+              "title": "King of Hearts S1 Ep127",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T21:30:00.000Z",
+              "endISO": "2025-11-01T09:30:00.000Z",
+              "title": "Mehek S2 Ep63",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T22:30:00.000Z",
+              "endISO": "2025-11-01T10:30:00.000Z",
+              "title": "Mehek S2 Ep64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T23:30:00.000Z",
+              "endISO": "2025-11-01T11:30:00.000Z",
+              "title": "Mehek S2 Ep65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T00:30:00.000Z",
+              "endISO": "2025-11-01T12:30:00.000Z",
+              "title": "Mehek S2 Ep66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T01:30:00.000Z",
+              "endISO": "2025-11-01T13:30:00.000Z",
+              "title": "Betrayal S1 EP 281",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T02:00:00.000Z",
+              "endISO": "2025-11-01T14:00:00.000Z",
+              "title": "Secrets S1 EP 61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T02:30:00.000Z",
+              "endISO": "2025-11-01T14:30:00.000Z",
+              "title": "Taxi S1 EP 61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T03:00:00.000Z",
+              "endISO": "2025-11-01T15:00:00.000Z",
+              "title": "Secrets S1 EP 62",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T03:30:00.000Z",
+              "endISO": "2025-11-01T15:30:00.000Z",
+              "title": "Secrets S1 EP 63",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T04:00:00.000Z",
+              "endISO": "2025-11-01T16:00:00.000Z",
+              "title": "Secrets S1 EP 64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T04:30:00.000Z",
+              "endISO": "2025-11-01T16:30:00.000Z",
+              "title": "Secrets S1 EP 65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T05:00:00.000Z",
+              "endISO": "2025-11-01T17:00:00.000Z",
+              "title": "Secrets S1 EP 66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T05:30:00.000Z",
+              "endISO": "2025-11-01T17:30:00.000Z",
+              "title": "Taxi S1 EP 62",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T06:00:00.000Z",
+              "endISO": "2025-11-01T18:00:00.000Z",
+              "title": "Taxi S1 EP 63",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T06:30:00.000Z",
+              "endISO": "2025-11-01T18:30:00.000Z",
+              "title": "Taxi S1 EP 64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T07:00:00.000Z",
+              "endISO": "2025-11-01T19:00:00.000Z",
+              "title": "Taxi S1 EP 65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T07:30:00.000Z",
+              "endISO": "2025-11-01T19:30:00.000Z",
+              "title": "Taxi S1 EP 66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T08:00:00.000Z",
+              "endISO": "2025-11-01T20:00:00.000Z",
+              "title": "King of Hearts S1 Ep131",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T09:00:00.000Z",
+              "endISO": "2025-11-01T21:00:00.000Z",
+              "title": "King of Hearts S1 Ep132",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T21:30:00.000Z",
+              "endISO": "2025-11-01T09:30:00.000Z",
+              "title": "Mehek S2 Ep68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T22:30:00.000Z",
+              "endISO": "2025-11-01T10:30:00.000Z",
+              "title": "Mehek S2 Ep69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T23:30:00.000Z",
+              "endISO": "2025-11-01T11:30:00.000Z",
+              "title": "Mehek S2 Ep70",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T00:30:00.000Z",
+              "endISO": "2025-11-01T12:30:00.000Z",
+              "title": "Mehek S2 Ep71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T01:30:00.000Z",
+              "endISO": "2025-11-01T13:30:00.000Z",
+              "title": "Betrayal S1 EP 286",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T02:00:00.000Z",
+              "endISO": "2025-11-01T14:00:00.000Z",
+              "title": "Secrets S1 EP 66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T02:30:00.000Z",
+              "endISO": "2025-11-01T14:30:00.000Z",
+              "title": "Taxi S1 EP 66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T03:00:00.000Z",
+              "endISO": "2025-11-01T15:00:00.000Z",
+              "title": "Secrets S1 EP 67",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T03:30:00.000Z",
+              "endISO": "2025-11-01T15:30:00.000Z",
+              "title": "Secrets S1 EP 68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T04:00:00.000Z",
+              "endISO": "2025-11-01T16:00:00.000Z",
+              "title": "Secrets S1 EP 69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T04:30:00.000Z",
+              "endISO": "2025-11-01T16:30:00.000Z",
+              "title": "Secrets S1 EP 70",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T05:00:00.000Z",
+              "endISO": "2025-11-01T17:00:00.000Z",
+              "title": "Secrets S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T05:30:00.000Z",
+              "endISO": "2025-11-01T17:30:00.000Z",
+              "title": "Taxi S1 EP 67",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T06:00:00.000Z",
+              "endISO": "2025-11-01T18:00:00.000Z",
+              "title": "Taxi S1 EP 68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T06:30:00.000Z",
+              "endISO": "2025-11-01T18:30:00.000Z",
+              "title": "Taxi S1 EP 69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T07:00:00.000Z",
+              "endISO": "2025-11-01T19:00:00.000Z",
+              "title": "Taxi S1 EP 70",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T07:30:00.000Z",
+              "endISO": "2025-11-01T19:30:00.000Z",
+              "title": "Taxi S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T08:00:00.000Z",
+              "endISO": "2025-11-01T20:00:00.000Z",
+              "title": "King of Hearts S1 Ep136",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T09:00:00.000Z",
+              "endISO": "2025-11-01T21:00:00.000Z",
+              "title": "King of Hearts S1 Ep137",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T21:30:00.000Z",
+              "endISO": "2025-11-01T09:30:00.000Z",
+              "title": "Mehek S2 Ep73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T22:30:00.000Z",
+              "endISO": "2025-11-01T10:30:00.000Z",
+              "title": "Mehek S2 Ep74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T23:30:00.000Z",
+              "endISO": "2025-11-01T11:30:00.000Z",
+              "title": "Mehek S2 Ep75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T00:30:00.000Z",
+              "endISO": "2025-11-01T12:30:00.000Z",
+              "title": "Mehek S2 Ep76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T01:30:00.000Z",
+              "endISO": "2025-11-01T13:30:00.000Z",
+              "title": "Betrayal S1 EP 291",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T02:00:00.000Z",
+              "endISO": "2025-11-01T14:00:00.000Z",
+              "title": "Secrets S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T02:30:00.000Z",
+              "endISO": "2025-11-01T14:30:00.000Z",
+              "title": "Taxi S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T03:00:00.000Z",
+              "endISO": "2025-11-01T15:00:00.000Z",
+              "title": "Secrets S1 EP 72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T03:30:00.000Z",
+              "endISO": "2025-11-01T15:30:00.000Z",
+              "title": "Secrets S1 EP 73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T04:00:00.000Z",
+              "endISO": "2025-11-01T16:00:00.000Z",
+              "title": "Secrets S1 EP 74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T04:30:00.000Z",
+              "endISO": "2025-11-01T16:30:00.000Z",
+              "title": "Secrets S1 EP 75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T05:00:00.000Z",
+              "endISO": "2025-11-01T17:00:00.000Z",
+              "title": "Secrets S1 EP 76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T05:30:00.000Z",
+              "endISO": "2025-11-01T17:30:00.000Z",
+              "title": "Taxi S1 EP 72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T06:00:00.000Z",
+              "endISO": "2025-11-01T18:00:00.000Z",
+              "title": "Taxi S1 EP 73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T06:30:00.000Z",
+              "endISO": "2025-11-01T18:30:00.000Z",
+              "title": "Taxi S1 EP 74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T07:00:00.000Z",
+              "endISO": "2025-11-01T19:00:00.000Z",
+              "title": "Taxi S1 EP 75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T07:30:00.000Z",
+              "endISO": "2025-11-01T19:30:00.000Z",
+              "title": "Taxi S1 EP 76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T08:00:00.000Z",
+              "endISO": "2025-11-01T20:00:00.000Z",
+              "title": "King of Hearts S1 Ep141",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T09:00:00.000Z",
+              "endISO": "2025-11-01T21:00:00.000Z",
+              "title": "King of Hearts S1 Ep142",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T21:30:00.000Z",
+              "endISO": "2025-11-01T09:30:00.000Z",
+              "title": "Mehek S2 Ep78",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T22:30:00.000Z",
+              "endISO": "2025-11-01T10:30:00.000Z",
+              "title": "Mehek S2 Ep79",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-31T23:30:00.000Z",
+              "endISO": "2025-11-01T11:30:00.000Z",
+              "title": "Mehek S2 Ep80",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T00:30:00.000Z",
+              "endISO": "2025-11-01T12:30:00.000Z",
+              "title": "Mehek S2 Ep81",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T01:30:00.000Z",
+              "endISO": "2025-11-01T13:30:00.000Z",
+              "title": "Marriage For Duty S1 Ep4",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T02:00:00.000Z",
+              "endISO": "2025-11-01T14:00:00.000Z",
+              "title": "Secrets S1 EP 76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-11-01T02:30:00.000Z",
+              "endISO": "2025-11-01T14:30:00.000Z",
+              "title": "Taxi S1 EP 76",
+              "durationMin": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

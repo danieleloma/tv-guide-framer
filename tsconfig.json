@@ -15,14 +15,17 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    "types": ["node"]
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./app/*"]
+    }
   },
   "include": [
-    "components/**/*",
-    "scripts/**/*",
-    "pages/**/*"
+    "app/**/*",
+    "scripts/**/*"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "public"
   ]
 }

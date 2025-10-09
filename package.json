@@ -1,30 +1,37 @@
 {
   "name": "tv-guide-framer",
   "version": "1.0.0",
-  "description": "TV Guide Framer Component with Excel/CSV data ingestion",
+  "description": "Excel to JSON TV Guide converter with Framer component",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "dev": "ts-node scripts/excel-to-guide.ts",
-    "test": "node verify-results.js",
-    "start": "npx http-server . -p 8080"
+    "dev": "ts-node scripts/excel-to-json.ts",
+    "convert": "ts-node scripts/excel-to-json.ts",
+    "convert:sa": "ts-node scripts/sa-excel-to-json.ts --in \"$SA_EXCEL\" --out \"public/sa-region.json\"",
+    "test": "echo \"No tests specified\" && exit 0"
   },
-  "keywords": ["framer", "tv-guide", "typescript", "react"],
-  "author": "Daniel Eloma",
+  "keywords": [
+    "excel",
+    "json",
+    "tv-guide",
+    "framer",
+    "typescript",
+    "react"
+  ],
+  "author": "TV Guide Team",
   "license": "MIT",
-  "type": "commonjs",
   "dependencies": {
-    "luxon": "^3.4.4",
     "xlsx": "^0.18.5",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "zod": "^3.22.4"
   },
   "devDependencies": {
-    "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.0",
-    "@types/node": "^20.0.0",
-    "@types/luxon": "^3.4.0",
-    "typescript": "^5.0.0",
-    "ts-node": "^10.9.0"
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=16.0.0"
   }
 }

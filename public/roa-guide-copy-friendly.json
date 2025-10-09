@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "channelId": "zee-world-roa",
+    "generatedAt": "2025-10-08T00:45:16.809Z",
+    "defaultRegion": "ROA",
+    "defaultTimezone": "WAT"
+  },
+  "regions": [
+    {
+      "code": "ROA",
+      "label": "Rest of Africa",
+      "timezones": ["WAT", "CAT"],
+      "days": [
+        {
+          "dateISO": "2025-09-28",
+          "timezone": "WAT",
+          "slots": [
+            {
+              "startISO": "2025-09-28T05:00:00",
+              "endISO": "2025-09-28T06:00:00",
+              "title": "Sister Wives",
+              "season": "S1",
+              "episode": "Ep 142",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 60
+            },
+            {
+              "startISO": "2025-09-28T06:00:00",
+              "endISO": "2025-09-28T07:00:00",
+              "title": "Radhe Mohan",
+              "season": "S3",
+              "episode": "EP 68",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 60
+            },
+            {
+              "startISO": "2025-09-28T07:00:00",
+              "endISO": "2025-09-28T08:00:00",
+              "title": "Twist of Fate: New Era",
+              "season": "S10",
+              "episode": "EP 29",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 60
+            },
+            {
+              "startISO": "2025-09-28T08:00:00",
+              "endISO": "2025-09-28T09:00:00",
+              "title": "Hearts Crossed",
+              "season": "S1",
+              "episode": "Ep 9",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 60
+            },
+            {
+              "startISO": "2025-09-28T09:00:00",
+              "endISO": "2025-09-28T10:00:00",
+              "title": "This Is Fate",
+              "season": "S7",
+              "episode": "Ep 90",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 60
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-09-28",
+          "timezone": "CAT",
+          "slots": [
+            {
+              "startISO": "2025-09-28T06:00:00",
+              "endISO": "2025-09-28T07:00:00",
+              "title": "Sister Wives",
+              "season": "S1",
+              "episode": "Ep 142",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 60
+            },
+            {
+              "startISO": "2025-09-28T07:00:00",
+              "endISO": "2025-09-28T08:00:00",
+              "title": "Radhe Mohan",
+              "season": "S3",
+              "episode": "EP 68",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 60
+            },
+            {
+              "startISO": "2025-09-28T08:00:00",
+              "endISO": "2025-09-28T09:00:00",
+              "title": "Twist of Fate: New Era",
+              "season": "S10",
+              "episode": "EP 29",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 60
+            },
+            {
+              "startISO": "2025-09-28T09:00:00",
+              "endISO": "2025-09-28T10:00:00",
+              "title": "Hearts Crossed",
+              "season": "S1",
+              "episode": "Ep 9",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 60
+            },
+            {
+              "startISO": "2025-09-28T10:00:00",
+              "endISO": "2025-09-28T11:00:00",
+              "title": "This Is Fate",
+              "season": "S7",
+              "episode": "Ep 90",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 60
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

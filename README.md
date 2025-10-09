@@ -1,184 +1,225 @@
-# 📺 TV Guide Framer Component
+# TV Guide Framer Component
 
-A fully customizable, horizontally scrollable TV guide component for Framer with Excel/CSV data ingestion support.
-
-## ✨ Features
-
-- **Multi-region & Timezone Support**: Handle different regions (SA, ROA) with timezone switching (WAT, CAT, EST)
-- **Horizontal Scrolling**: Smooth scrolling with virtualized rendering for performance
-- **Excel/CSV Integration**: Convert spreadsheet data to normalized JSON format
-- **Fully Customizable**: All styling, colors, fonts, and behavior configurable via props
-- **Accessibility**: Keyboard navigation, ARIA labels, high contrast mode
-- **Cross-midnight Handling**: Automatically splits shows that span midnight
-- **Responsive Design**: Works on desktop and mobile devices
+A complete mini implementation that converts Excel FPC files to structured JSON and renders them in a Framer component with region/timezone switching and a 7-day schedule grid.
 
 ## 🚀 Quick Start
 
-### 1. Install Dependencies
+### Installation
 
 ```bash
 npm install
 ```
 
-### 2. Convert Excel/CSV Data
+### Convert Excel to JSON
 
 ```bash
-# Convert Excel file to JSON
-npx ts-node scripts/excel-to-guide.ts --in ./data/guide.xlsx --out ./public/guide.json --channelId "zee-world" --defaultRegion "ROA"
-
-# Convert CSV file to JSON
-npx ts-node scripts/excel-to-guide.ts --in ./data/guide.csv --out ./public/guide.json --channelId "zee-world" --defaultRegion "SA"
+npx ts-node scripts/excel-to-json-simple.ts --in "/path/to/your/excel-file.xlsx" --out "public/tv-guide.json"
 ```
 
-### 3. Use in Framer
+### Use in Framer
 
-Copy the `TVGuide` component to your Framer project and configure the props:
+1. Copy the component files to your Framer project
+2. Set the component props in Framer
+3. Either paste JSON data directly or place `tv-guide.json` in your public folder
 
-```tsx
-<TVGuide
-  dataURL="/guide.json"
-  hourWidthPx={220}
-  startHour={5}
-  endHour={24}
-  pageBg="#0a0a0a"
-  cardBg="#1a1a1a"
-  cardText="#ffffff"
-  enableRegionSwitch={true}
-  enableTimezoneSwitch={true}
-/>
+## 📁 File Structure
+
+```
+tv-guide-framer/
+├── app/
+│   ├── lib/
+│   │   ├── tvGuideTypes.ts      # TypeScript types for JSON schema
+│   │   └── tvGuideUtils.ts      # Utility functions for normalization
+│   └── components/
+│       ├── TVGuide.tsx          # Main Framer component
+│       └── TVGuide.framer.tsx   # Framer metadata and enhanced props
+├── scripts/
+│   └── excel-to-json-simple.ts  # Excel to JSON conversion script
+├── public/
+│   ├── tv-guide.json            # Generated JSON data
+│   └── tv-guide.sample.json     # Sample JSON for testing
+└── package.json
 ```
 
-## 📊 Data Format
+## 🔧 Excel Conversion
 
-### Excel/CSV Input
+### Column Mapping
 
-Your spreadsheet should have these columns (case-insensitive):
+Edit the `COL` constant in `scripts/excel-to-json-simple.ts` to match your Excel headers:
 
-| Column | Description | Example | Required |
-|--------|-------------|---------|----------|
-| Region | Region code | SA, ROA | ✅ |
-| Date | Date in YYYY-MM-DD or DD/MM/YYYY | 2025-09-29 | ✅ |
-| Start Time | 24-hour format | 14:30, 7:00 | ✅ |
-| End Time | 24-hour format | 15:00, 7:30 | ⚠️ |
-| Duration (min) | Duration in minutes | 30, 60 | ⚠️ |
-| Local TZ | Timezone code | CAT, WAT, EST | ❌ |
-| Title | Show title | Sister Wives | ✅ |
-| Season | Season number | S1, S10 | ❌ |
-| Episode | Episode number | Ep 145, EP 68 | ❌ |
-| Subtitle | Custom subtitle | S10 EP 31 | ❌ |
-| Text Color | Hex color | #ffffff | ❌ |
-| BG Color | Hex color | #111216 | ❌ |
-
-**Note**: Either `End Time` or `Duration (min)` is required.
-
-## 🎯 Usage Examples
-
-### Single Region Site (SA only)
-
-```tsx
-<TVGuide
-  dataURL="/guide-sa.json"
-  enableRegionSwitch={false}
-  enableTimezoneSwitch={false}
-  initialRegion="SA"
-  pageBg="#000000"
-  cardBg="#1a1a1a"
-/>
+```typescript
+const COL = {
+  region: "Region",
+  timezone: "Timezone", 
+  date: "Date",
+  start: "Start Time",
+  end: "End Time",
+  title: "Title",
+} as const;
 ```
 
-### Multi-Region Site (SA + ROA)
+### Supported Time Windows
 
-```tsx
-<TVGuide
-  dataURL="/guide-multi.json"
-  enableRegionSwitch={true}
-  enableTimezoneSwitch={true}
-  initialRegion="ROA"
-  initialTimezone="WAT"
-  hourWidthPx={240}
-  startHour={6}
-  endHour={23}
-/>
+- **WAT (West Africa Time)**: 05:00 → 04:00 (next day)
+- **CAT (Central Africa Time)**: 06:00 → 05:00 (next day)
+
+### Time Normalization
+
+- Times are automatically rounded to nearest 30-minute slots
+- Shows are clipped to their respective timezone windows
+- Cross-midnight shows are handled correctly
+
+## 📊 JSON Schema
+
+The generated JSON follows a strict schema:
+
+```typescript
+interface TvGuideData {
+  window: {
+    WAT: { start: "05:00"; end: "04:00" };
+    CAT: { start: "06:00"; end: "05:00" };
+    slotMinutes: 30;
+  };
+  regions: Record<Region, RegionSchedule>;
+}
 ```
 
-### Custom Styling
+### Region Support
 
-```tsx
-<TVGuide
-  dataJSON={jsonString}
-  fontFamily="Inter, sans-serif"
-  pageBg="#0f0f0f"
-  cardBg="#2a2a2a"
-  cardText="#e0e0e0"
-  activeRegionBg="#ff6b6b"
-  focusOutline="#ff6b6b"
-  cornerRadiusPx={8}
-  titleFontSize={16}
-  subtitleFontSize={14}
-/>
+- **SA (South Africa)**: CAT timezone only
+- **ROA (Rest of Africa)**: Both WAT and CAT timezones
+
+## 🎨 Framer Component Usage
+
+### Basic Props
+
+```typescript
+interface TVGuideProps {
+  dataSource: "static" | "remote";
+  region: "SA" | "ROA";
+  timezone: "WAT" | "CAT";
+  visibleRegions: { SA: boolean; ROA: boolean };
+  visibleTimezones: { WAT: boolean; CAT: boolean };
+  staticData?: TvGuideData;
+  cellWidth: number;
+  cellHeight: number;
+  fontSize: number;
+  rowGap: number;
+  colGap: number;
+}
 ```
 
-## 🔧 CLI Usage
+### Data Source Options
 
-Convert your own Excel/CSV files using the CLI script:
+1. **Static Data**: Paste JSON directly into the `staticData` prop
+2. **Remote Data**: Place `tv-guide.json` in your public folder and set `dataSource` to "remote"
 
-```bash
-# Convert Excel file
-npx ts-node scripts/excel-to-guide.ts \
-  --in ./your-guide.xlsx \
-  --out ./public/guide.json \
-  --channelId "your-channel" \
-  --defaultRegion "ROA"
+### Layout Controls
 
-# Convert CSV file  
-npx ts-node scripts/excel-to-guide.ts \
-  --in ./your-guide.csv \
-  --out ./public/guide.json \
-  --channelId "your-channel" \
-  --defaultRegion "SA"
-```
+- `cellWidth`: Width of each 30-minute time slot (default: 120px)
+- `cellHeight`: Height of each day row (default: 56px)
+- `fontSize`: Base font size (default: 14px)
+- `rowGap`: Gap between day rows (default: 8px)
+- `colGap`: Gap between time columns (default: 2px)
 
-## 🌍 Timezone Rules
+## ✨ Features
 
-- **SA (South Africa):** Only CAT timezone - timezone switcher hidden
-- **ROA (Rest of Africa):** WAT, CAT, EST timezone switcher shown
-- **Other regions:** Configurable via `allowedTimezones` prop
+### Grid Layout
+
+- **Horizontal (X)**: 30-minute time columns
+- **Vertical (Y)**: 7 rows for Monday-Sunday
+- **Sticky Elements**: Day column and time header remain visible during scroll
+- **Responsive**: Maintains consistent column widths with horizontal scrolling
+
+### Show Rendering
+
+- Shows span multiple columns based on duration
+- Hover effects with tooltips
+- Proper alignment with time grid
+- Truncated titles with ellipsis
+
+### Region/Timezone Switching
+
+- Automatic validation of region/timezone combinations
+- SA region only shows CAT timezone
+- ROA region shows both WAT and CAT timezones
+- Manual toggles for visibility control
+
+## 🎯 Acceptance Tests
+
+All tests pass:
+
+1. **Excel → JSON**: Uses `cellDates: true`, respects Mon→Sun order, clips shows to time windows
+2. **Grid Alignment**: Shows align perfectly with 30-minute slots
+3. **Region/Timezone Logic**: SA only shows CAT, ROA shows both WAT/CAT
+4. **No Time Conversion**: Renders exact times from Excel (post normalization)
+
+## 📝 Example Usage
+
+### In Framer
+
+1. Add the `TVGuide` component to your canvas
+2. Set `dataSource` to "static"
+3. Paste your JSON data into `staticData`
+4. Adjust layout props as needed
+5. Use region/timezone selectors to switch views
+
+### Manual Data Editing
+
+You can manually edit the JSON to:
+- Add shows to specific time slots
+- Modify show metadata (season, episode, etc.)
+- Adjust time windows
+- Add custom styling properties
+
+## 🔍 Debugging
+
+### Common Issues
+
+1. **No shows appearing**: Check that region/timezone combination is valid
+2. **Times not aligning**: Verify Excel times are in correct format
+3. **Missing days**: Ensure Excel has data for all 7 days (Mon-Sun)
+
+### Console Logging
+
+The component includes detailed console logging for:
+- Data loading status
+- Region/timezone validation
+- Show count per day
+- Error messages
+
+## 🚀 Performance
+
+- Precomputed time ticks and slot indexes
+- Memoized layout calculations
+- Efficient show positioning
+- Minimal re-renders on prop changes
 
 ## 📱 Responsive Design
 
-- **Desktop:** Full feature set with all controls visible
-- **Mobile:** Optimized layout with smaller fonts and touch-friendly controls
-- **Tablet:** Balanced layout with appropriate sizing
+- Horizontal scrolling for time columns
+- Sticky day column and time header
+- Consistent cell widths
+- Mobile-friendly touch interactions
 
-## 🔒 Security & Validation
+## 🎨 Customization
 
-- **Input validation:** Comprehensive data structure validation
-- **Error handling:** Graceful fallbacks for missing or invalid data
-- **Type safety:** Full TypeScript coverage with strict mode
-- **Sanitization:** Proper handling of user input and file uploads
+### Themes
 
-## 📚 Documentation
+The enhanced Framer component supports:
+- Dark theme (default)
+- Light theme
+- Custom color schemes
 
-- ✅ **README.md** - Complete usage guide and examples
-- ✅ **TypeScript types** - Full type definitions with JSDoc
-- ✅ **Inline comments** - Detailed code documentation
-- ✅ **Example data** - Sample JSON for testing
-- ✅ **CLI help** - Command-line usage instructions
+### Accessibility
 
-## 🎉 Ready for Production
+- High contrast mode
+- Reduced motion support
+- ARIA labels for screen readers
+- Keyboard navigation
 
-The TV Guide system is **production-ready** and can be immediately integrated into Framer projects. All components are:
+---
 
-- ✅ **Fully typed** with TypeScript
-- ✅ **Well documented** with examples
-- ✅ **Accessibility compliant** with WCAG guidelines
-- ✅ **Performance optimized** for large datasets
-- ✅ **Mobile responsive** for all devices
-- ✅ **Error resilient** with comprehensive validation
+**Ready to use!** 🎉
 
-**Next Steps:**
-1. Copy components to your Framer project
-2. Install dependencies
-3. Test with your Excel/CSV data
-4. Configure props in Framer
-5. Deploy and enjoy! 🚀
+This implementation provides a complete, production-ready TV guide system that converts Excel data to a beautiful, interactive Framer component.

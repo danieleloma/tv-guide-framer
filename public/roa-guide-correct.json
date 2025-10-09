@@ -1,0 +1,5029 @@
+{
+  "metadata": {
+    "channelId": "zee-world-roa",
+    "generatedAt": "2025-10-07T13:36:06.646Z",
+    "defaultRegion": "ROA",
+    "defaultTimezone": "WAT"
+  },
+  "regions": [
+    {
+      "code": "ROA",
+      "label": "Rest of Africa",
+      "timezones": [
+        "WAT",
+        "CAT"
+      ],
+      "days": [
+        {
+          "dateISO": "2025-10-06",
+          "slots": [
+            {
+              "startISO": "2025-10-06T04:00:00.000Z",
+              "endISO": "2025-10-06T16:00:00.000Z",
+              "title": "0.25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T05:00:00.000Z",
+              "endISO": "2025-10-06T17:00:00.000Z",
+              "title": "0.2916666666666667",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T06:00:00.000Z",
+              "endISO": "2025-10-06T18:00:00.000Z",
+              "title": "0.3333333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T07:00:00.000Z",
+              "endISO": "2025-10-06T19:00:00.000Z",
+              "title": "0.375",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T08:00:00.000Z",
+              "endISO": "2025-10-06T20:00:00.000Z",
+              "title": "0.4166666666666667",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T09:00:00.000Z",
+              "endISO": "2025-10-06T21:00:00.000Z",
+              "title": "0.4583333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T10:00:00.000Z",
+              "endISO": "2025-10-06T22:00:00.000Z",
+              "title": "0.5",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T11:00:00.000Z",
+              "endISO": "2025-10-05T23:00:00.000Z",
+              "title": "0.5416666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T12:00:00.000Z",
+              "endISO": "2025-10-06T00:00:00.000Z",
+              "title": "0.5833333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T13:00:00.000Z",
+              "endISO": "2025-10-06T01:00:00.000Z",
+              "title": "0.625",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T14:00:00.000Z",
+              "endISO": "2025-10-06T02:00:00.000Z",
+              "title": "0.6666666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T15:00:00.000Z",
+              "endISO": "2025-10-06T03:00:00.000Z",
+              "title": "0.7083333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T16:00:00.000Z",
+              "endISO": "2025-10-06T04:00:00.000Z",
+              "title": "0.75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T17:00:00.000Z",
+              "endISO": "2025-10-06T05:00:00.000Z",
+              "title": "0.7916666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T18:00:00.000Z",
+              "endISO": "2025-10-06T06:00:00.000Z",
+              "title": "0.8333333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T19:00:00.000Z",
+              "endISO": "2025-10-06T07:00:00.000Z",
+              "title": "0.875",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T20:00:00.000Z",
+              "endISO": "2025-10-06T08:00:00.000Z",
+              "title": "0.9166666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T21:00:00.000Z",
+              "endISO": "2025-10-06T09:00:00.000Z",
+              "title": "0.9583333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-05T23:00:00.000Z",
+              "endISO": "2025-10-06T11:00:00.000Z",
+              "title": "0.041666666666666664",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T00:00:00.000Z",
+              "endISO": "2025-10-06T12:00:00.000Z",
+              "title": "0.08333333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T01:00:00.000Z",
+              "endISO": "2025-10-06T13:00:00.000Z",
+              "title": "0.125",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T02:00:00.000Z",
+              "endISO": "2025-10-06T14:00:00.000Z",
+              "title": "0.16666666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T03:00:00.000Z",
+              "endISO": "2025-10-06T15:00:00.000Z",
+              "title": "0.20833333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T04:00:00.000Z",
+              "endISO": "2025-10-06T16:00:00.000Z",
+              "title": "0.25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T05:00:00.000Z",
+              "endISO": "2025-10-06T17:00:00.000Z",
+              "title": "0.2916666666666667",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T06:00:00.000Z",
+              "endISO": "2025-10-06T18:00:00.000Z",
+              "title": "0.3333333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T07:00:00.000Z",
+              "endISO": "2025-10-06T19:00:00.000Z",
+              "title": "0.375",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T08:00:00.000Z",
+              "endISO": "2025-10-06T20:00:00.000Z",
+              "title": "0.4166666666666667",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T09:00:00.000Z",
+              "endISO": "2025-10-06T21:00:00.000Z",
+              "title": "0.4583333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T10:00:00.000Z",
+              "endISO": "2025-10-06T22:00:00.000Z",
+              "title": "0.5",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T11:00:00.000Z",
+              "endISO": "2025-10-05T23:00:00.000Z",
+              "title": "0.5416666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T12:00:00.000Z",
+              "endISO": "2025-10-06T00:00:00.000Z",
+              "title": "0.5833333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T13:00:00.000Z",
+              "endISO": "2025-10-06T01:00:00.000Z",
+              "title": "0.625",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T14:00:00.000Z",
+              "endISO": "2025-10-06T02:00:00.000Z",
+              "title": "0.6666666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T15:00:00.000Z",
+              "endISO": "2025-10-06T03:00:00.000Z",
+              "title": "0.7083333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T16:00:00.000Z",
+              "endISO": "2025-10-06T04:00:00.000Z",
+              "title": "0.75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T17:00:00.000Z",
+              "endISO": "2025-10-06T05:00:00.000Z",
+              "title": "0.7916666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T18:00:00.000Z",
+              "endISO": "2025-10-06T06:00:00.000Z",
+              "title": "0.8333333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T19:00:00.000Z",
+              "endISO": "2025-10-06T07:00:00.000Z",
+              "title": "0.875",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T20:00:00.000Z",
+              "endISO": "2025-10-06T08:00:00.000Z",
+              "title": "0.9166666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T21:00:00.000Z",
+              "endISO": "2025-10-06T09:00:00.000Z",
+              "title": "0.9583333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-05T23:00:00.000Z",
+              "endISO": "2025-10-06T11:00:00.000Z",
+              "title": "0.041666666666666664",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T00:00:00.000Z",
+              "endISO": "2025-10-06T12:00:00.000Z",
+              "title": "0.08333333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T01:00:00.000Z",
+              "endISO": "2025-10-06T13:00:00.000Z",
+              "title": "0.125",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T02:00:00.000Z",
+              "endISO": "2025-10-06T14:00:00.000Z",
+              "title": "0.16666666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T03:00:00.000Z",
+              "endISO": "2025-10-06T15:00:00.000Z",
+              "title": "0.20833333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T04:00:00.000Z",
+              "endISO": "2025-10-06T16:00:00.000Z",
+              "title": "0.25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T05:00:00.000Z",
+              "endISO": "2025-10-06T17:00:00.000Z",
+              "title": "0.2916666666666667",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T06:00:00.000Z",
+              "endISO": "2025-10-06T18:00:00.000Z",
+              "title": "0.3333333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T07:00:00.000Z",
+              "endISO": "2025-10-06T19:00:00.000Z",
+              "title": "0.375",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T08:00:00.000Z",
+              "endISO": "2025-10-06T20:00:00.000Z",
+              "title": "0.4166666666666667",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T09:00:00.000Z",
+              "endISO": "2025-10-06T21:00:00.000Z",
+              "title": "0.4583333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T10:00:00.000Z",
+              "endISO": "2025-10-06T22:00:00.000Z",
+              "title": "0.5",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T11:00:00.000Z",
+              "endISO": "2025-10-05T23:00:00.000Z",
+              "title": "0.5416666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T12:00:00.000Z",
+              "endISO": "2025-10-06T00:00:00.000Z",
+              "title": "0.5833333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T13:00:00.000Z",
+              "endISO": "2025-10-06T01:00:00.000Z",
+              "title": "0.625",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T14:00:00.000Z",
+              "endISO": "2025-10-06T02:00:00.000Z",
+              "title": "0.6666666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T15:00:00.000Z",
+              "endISO": "2025-10-06T03:00:00.000Z",
+              "title": "0.7083333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T16:00:00.000Z",
+              "endISO": "2025-10-06T04:00:00.000Z",
+              "title": "0.75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T17:00:00.000Z",
+              "endISO": "2025-10-06T05:00:00.000Z",
+              "title": "0.7916666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T18:00:00.000Z",
+              "endISO": "2025-10-06T06:00:00.000Z",
+              "title": "0.8333333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T19:00:00.000Z",
+              "endISO": "2025-10-06T07:00:00.000Z",
+              "title": "0.875",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T20:00:00.000Z",
+              "endISO": "2025-10-06T08:00:00.000Z",
+              "title": "0.9166666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T21:00:00.000Z",
+              "endISO": "2025-10-06T09:00:00.000Z",
+              "title": "0.9583333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-05T23:00:00.000Z",
+              "endISO": "2025-10-06T11:00:00.000Z",
+              "title": "0.041666666666666664",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T00:00:00.000Z",
+              "endISO": "2025-10-06T12:00:00.000Z",
+              "title": "0.08333333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T01:00:00.000Z",
+              "endISO": "2025-10-06T13:00:00.000Z",
+              "title": "0.125",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T02:00:00.000Z",
+              "endISO": "2025-10-06T14:00:00.000Z",
+              "title": "0.16666666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T03:00:00.000Z",
+              "endISO": "2025-10-06T15:00:00.000Z",
+              "title": "0.20833333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T04:00:00.000Z",
+              "endISO": "2025-10-06T16:00:00.000Z",
+              "title": "0.25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T05:00:00.000Z",
+              "endISO": "2025-10-06T17:00:00.000Z",
+              "title": "0.2916666666666667",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T06:00:00.000Z",
+              "endISO": "2025-10-06T18:00:00.000Z",
+              "title": "0.3333333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T07:00:00.000Z",
+              "endISO": "2025-10-06T19:00:00.000Z",
+              "title": "0.375",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T08:00:00.000Z",
+              "endISO": "2025-10-06T20:00:00.000Z",
+              "title": "0.4166666666666667",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T09:00:00.000Z",
+              "endISO": "2025-10-06T21:00:00.000Z",
+              "title": "0.4583333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T10:00:00.000Z",
+              "endISO": "2025-10-06T22:00:00.000Z",
+              "title": "0.5",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T11:00:00.000Z",
+              "endISO": "2025-10-05T23:00:00.000Z",
+              "title": "0.5416666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T12:00:00.000Z",
+              "endISO": "2025-10-06T00:00:00.000Z",
+              "title": "0.5833333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T13:00:00.000Z",
+              "endISO": "2025-10-06T01:00:00.000Z",
+              "title": "0.625",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T14:00:00.000Z",
+              "endISO": "2025-10-06T02:00:00.000Z",
+              "title": "0.6666666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T15:00:00.000Z",
+              "endISO": "2025-10-06T03:00:00.000Z",
+              "title": "0.7083333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T16:00:00.000Z",
+              "endISO": "2025-10-06T04:00:00.000Z",
+              "title": "0.75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T17:00:00.000Z",
+              "endISO": "2025-10-06T05:00:00.000Z",
+              "title": "0.7916666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T18:00:00.000Z",
+              "endISO": "2025-10-06T06:00:00.000Z",
+              "title": "0.8333333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T19:00:00.000Z",
+              "endISO": "2025-10-06T07:00:00.000Z",
+              "title": "0.875",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T20:00:00.000Z",
+              "endISO": "2025-10-06T08:00:00.000Z",
+              "title": "0.9166666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T21:00:00.000Z",
+              "endISO": "2025-10-06T09:00:00.000Z",
+              "title": "0.9583333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-05T23:00:00.000Z",
+              "endISO": "2025-10-06T11:00:00.000Z",
+              "title": "0.041666666666666664",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T00:00:00.000Z",
+              "endISO": "2025-10-06T12:00:00.000Z",
+              "title": "0.08333333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T01:00:00.000Z",
+              "endISO": "2025-10-06T13:00:00.000Z",
+              "title": "0.125",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T02:00:00.000Z",
+              "endISO": "2025-10-06T14:00:00.000Z",
+              "title": "0.16666666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T03:00:00.000Z",
+              "endISO": "2025-10-06T15:00:00.000Z",
+              "title": "0.20833333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T04:00:00.000Z",
+              "endISO": "2025-10-06T16:00:00.000Z",
+              "title": "0.25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T05:00:00.000Z",
+              "endISO": "2025-10-06T17:00:00.000Z",
+              "title": "0.2916666666666667",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T06:00:00.000Z",
+              "endISO": "2025-10-06T18:00:00.000Z",
+              "title": "0.3333333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T07:00:00.000Z",
+              "endISO": "2025-10-06T19:00:00.000Z",
+              "title": "0.375",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T08:00:00.000Z",
+              "endISO": "2025-10-06T20:00:00.000Z",
+              "title": "0.4166666666666667",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T09:00:00.000Z",
+              "endISO": "2025-10-06T21:00:00.000Z",
+              "title": "0.4583333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T10:00:00.000Z",
+              "endISO": "2025-10-06T22:00:00.000Z",
+              "title": "0.5",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T11:00:00.000Z",
+              "endISO": "2025-10-05T23:00:00.000Z",
+              "title": "0.5416666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T12:00:00.000Z",
+              "endISO": "2025-10-06T00:00:00.000Z",
+              "title": "0.5833333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T13:00:00.000Z",
+              "endISO": "2025-10-06T01:00:00.000Z",
+              "title": "0.625",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T13:30:00.000Z",
+              "endISO": "2025-10-06T01:30:00.000Z",
+              "title": "0.6458333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T14:00:00.000Z",
+              "endISO": "2025-10-06T02:00:00.000Z",
+              "title": "0.6666666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T14:30:00.000Z",
+              "endISO": "2025-10-06T02:30:00.000Z",
+              "title": "0.6875",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T15:00:00.000Z",
+              "endISO": "2025-10-06T03:00:00.000Z",
+              "title": "0.7083333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T15:30:00.000Z",
+              "endISO": "2025-10-06T03:30:00.000Z",
+              "title": "0.7291666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T16:00:00.000Z",
+              "endISO": "2025-10-06T04:00:00.000Z",
+              "title": "0.75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T16:30:00.000Z",
+              "endISO": "2025-10-06T04:30:00.000Z",
+              "title": "0.7708333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T17:00:00.000Z",
+              "endISO": "2025-10-06T05:00:00.000Z",
+              "title": "0.7916666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T18:00:00.000Z",
+              "endISO": "2025-10-06T06:00:00.000Z",
+              "title": "0.8333333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T19:00:00.000Z",
+              "endISO": "2025-10-06T07:00:00.000Z",
+              "title": "0.875",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T20:00:00.000Z",
+              "endISO": "2025-10-06T08:00:00.000Z",
+              "title": "0.9166666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T21:00:00.000Z",
+              "endISO": "2025-10-06T09:00:00.000Z",
+              "title": "0.9583333333333334",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-05T23:00:00.000Z",
+              "endISO": "2025-10-06T11:00:00.000Z",
+              "title": "0.041666666666666664",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T00:00:00.000Z",
+              "endISO": "2025-10-06T12:00:00.000Z",
+              "title": "0.08333333333333333",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T01:00:00.000Z",
+              "endISO": "2025-10-06T13:00:00.000Z",
+              "title": "0.125",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T02:00:00.000Z",
+              "endISO": "2025-10-06T14:00:00.000Z",
+              "title": "0.16666666666666666",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T03:00:00.000Z",
+              "endISO": "2025-10-06T15:00:00.000Z",
+              "title": "0.20833333333333334",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-07",
+          "slots": [
+            {
+              "startISO": "2025-10-07T04:00:00.000Z",
+              "endISO": "2025-10-07T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 142",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T05:00:00.000Z",
+              "endISO": "2025-10-07T17:00:00.000Z",
+              "title": "Radhe Mohan S3 EP 68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T06:00:00.000Z",
+              "endISO": "2025-10-07T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 29",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T07:00:00.000Z",
+              "endISO": "2025-10-07T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 9",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T08:00:00.000Z",
+              "endISO": "2025-10-07T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 90",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T09:00:00.000Z",
+              "endISO": "2025-10-07T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S3 Ep 1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T10:00:00.000Z",
+              "endISO": "2025-10-07T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T11:00:00.000Z",
+              "endISO": "2025-10-06T23:00:00.000Z",
+              "title": "Radhe Mohan S3 EP 68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T12:00:00.000Z",
+              "endISO": "2025-10-07T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 29",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T13:00:00.000Z",
+              "endISO": "2025-10-07T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 9",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T14:00:00.000Z",
+              "endISO": "2025-10-07T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T15:00:00.000Z",
+              "endISO": "2025-10-07T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 143",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T16:00:00.000Z",
+              "endISO": "2025-10-07T04:00:00.000Z",
+              "title": "Mehek S2 Ep 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T17:00:00.000Z",
+              "endISO": "2025-10-07T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T18:00:00.000Z",
+              "endISO": "2025-10-07T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 30",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T19:00:00.000Z",
+              "endISO": "2025-10-07T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T20:00:00.000Z",
+              "endISO": "2025-10-07T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 91",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T21:00:00.000Z",
+              "endISO": "2025-10-07T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T22:00:00.000Z",
+              "endISO": "2025-10-07T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 143",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T23:00:00.000Z",
+              "endISO": "2025-10-07T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T00:00:00.000Z",
+              "endISO": "2025-10-07T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 30",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T01:00:00.000Z",
+              "endISO": "2025-10-07T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T02:00:00.000Z",
+              "endISO": "2025-10-07T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 91",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T03:00:00.000Z",
+              "endISO": "2025-10-07T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T04:00:00.000Z",
+              "endISO": "2025-10-07T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 149",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T05:00:00.000Z",
+              "endISO": "2025-10-07T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 7",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T06:00:00.000Z",
+              "endISO": "2025-10-07T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T07:00:00.000Z",
+              "endISO": "2025-10-07T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 16",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T08:00:00.000Z",
+              "endISO": "2025-10-07T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 97",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T09:00:00.000Z",
+              "endISO": "2025-10-07T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S3 Ep 8",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T10:00:00.000Z",
+              "endISO": "2025-10-07T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 82",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T11:00:00.000Z",
+              "endISO": "2025-10-06T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 7",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T12:00:00.000Z",
+              "endISO": "2025-10-07T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T13:00:00.000Z",
+              "endISO": "2025-10-07T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 16",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T14:00:00.000Z",
+              "endISO": "2025-10-07T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 83",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T15:00:00.000Z",
+              "endISO": "2025-10-07T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 150",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T16:00:00.000Z",
+              "endISO": "2025-10-07T04:00:00.000Z",
+              "title": "Mehek S2 Ep 37",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T17:00:00.000Z",
+              "endISO": "2025-10-07T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 8",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T18:00:00.000Z",
+              "endISO": "2025-10-07T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 35",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T19:00:00.000Z",
+              "endISO": "2025-10-07T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 17",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T20:00:00.000Z",
+              "endISO": "2025-10-07T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 98",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T21:00:00.000Z",
+              "endISO": "2025-10-07T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T22:00:00.000Z",
+              "endISO": "2025-10-07T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 150",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T23:00:00.000Z",
+              "endISO": "2025-10-07T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 8",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T00:00:00.000Z",
+              "endISO": "2025-10-07T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 35",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T01:00:00.000Z",
+              "endISO": "2025-10-07T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 17",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T02:00:00.000Z",
+              "endISO": "2025-10-07T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 98",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T03:00:00.000Z",
+              "endISO": "2025-10-07T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 64",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T04:00:00.000Z",
+              "endISO": "2025-10-07T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 156",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T05:00:00.000Z",
+              "endISO": "2025-10-07T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 14",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T06:00:00.000Z",
+              "endISO": "2025-10-07T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 39",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T07:00:00.000Z",
+              "endISO": "2025-10-07T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 23",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T08:00:00.000Z",
+              "endISO": "2025-10-07T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 104",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T09:00:00.000Z",
+              "endISO": "2025-10-07T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 70",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T10:00:00.000Z",
+              "endISO": "2025-10-07T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 89",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T11:00:00.000Z",
+              "endISO": "2025-10-06T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 14",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T12:00:00.000Z",
+              "endISO": "2025-10-07T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 39",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T13:00:00.000Z",
+              "endISO": "2025-10-07T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 23",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T14:00:00.000Z",
+              "endISO": "2025-10-07T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 90",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T15:00:00.000Z",
+              "endISO": "2025-10-07T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 157",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T16:00:00.000Z",
+              "endISO": "2025-10-07T04:00:00.000Z",
+              "title": "Mehek S2 Ep 42",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T17:00:00.000Z",
+              "endISO": "2025-10-07T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 15",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T18:00:00.000Z",
+              "endISO": "2025-10-07T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 40",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T19:00:00.000Z",
+              "endISO": "2025-10-07T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 24",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T20:00:00.000Z",
+              "endISO": "2025-10-07T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 105",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T21:00:00.000Z",
+              "endISO": "2025-10-07T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T22:00:00.000Z",
+              "endISO": "2025-10-07T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 157",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T23:00:00.000Z",
+              "endISO": "2025-10-07T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 15",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T00:00:00.000Z",
+              "endISO": "2025-10-07T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 40",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T01:00:00.000Z",
+              "endISO": "2025-10-07T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 24",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T02:00:00.000Z",
+              "endISO": "2025-10-07T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 105",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T03:00:00.000Z",
+              "endISO": "2025-10-07T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T04:00:00.000Z",
+              "endISO": "2025-10-07T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 163",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T05:00:00.000Z",
+              "endISO": "2025-10-07T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 21",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T06:00:00.000Z",
+              "endISO": "2025-10-07T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 44",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T07:00:00.000Z",
+              "endISO": "2025-10-07T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 30",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T08:00:00.000Z",
+              "endISO": "2025-10-07T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 111",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T09:00:00.000Z",
+              "endISO": "2025-10-07T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 77",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T10:00:00.000Z",
+              "endISO": "2025-10-07T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 96",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T11:00:00.000Z",
+              "endISO": "2025-10-06T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 21",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T12:00:00.000Z",
+              "endISO": "2025-10-07T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 44",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T13:00:00.000Z",
+              "endISO": "2025-10-07T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 30",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T14:00:00.000Z",
+              "endISO": "2025-10-07T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 97",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T15:00:00.000Z",
+              "endISO": "2025-10-07T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 164",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T16:00:00.000Z",
+              "endISO": "2025-10-07T04:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T17:00:00.000Z",
+              "endISO": "2025-10-07T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 22",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T18:00:00.000Z",
+              "endISO": "2025-10-07T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 45",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T19:00:00.000Z",
+              "endISO": "2025-10-07T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T20:00:00.000Z",
+              "endISO": "2025-10-07T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 112",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T21:00:00.000Z",
+              "endISO": "2025-10-07T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 78",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T22:00:00.000Z",
+              "endISO": "2025-10-07T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 164",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T23:00:00.000Z",
+              "endISO": "2025-10-07T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 22",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T00:00:00.000Z",
+              "endISO": "2025-10-07T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 45",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T01:00:00.000Z",
+              "endISO": "2025-10-07T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T02:00:00.000Z",
+              "endISO": "2025-10-07T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 112",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T03:00:00.000Z",
+              "endISO": "2025-10-07T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 78",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T04:00:00.000Z",
+              "endISO": "2025-10-07T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 170",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T05:00:00.000Z",
+              "endISO": "2025-10-07T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 28",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T06:00:00.000Z",
+              "endISO": "2025-10-07T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 51",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T07:00:00.000Z",
+              "endISO": "2025-10-07T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 37",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T08:00:00.000Z",
+              "endISO": "2025-10-07T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 118",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T09:00:00.000Z",
+              "endISO": "2025-10-07T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 84",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T10:00:00.000Z",
+              "endISO": "2025-10-07T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 103",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T11:00:00.000Z",
+              "endISO": "2025-10-06T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 28",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T12:00:00.000Z",
+              "endISO": "2025-10-07T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 51",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T13:00:00.000Z",
+              "endISO": "2025-10-07T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 37",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T14:00:00.000Z",
+              "endISO": "2025-10-07T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 104",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T15:00:00.000Z",
+              "endISO": "2025-10-07T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 171",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T16:00:00.000Z",
+              "endISO": "2025-10-07T04:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 4",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T17:00:00.000Z",
+              "endISO": "2025-10-07T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 29",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T18:00:00.000Z",
+              "endISO": "2025-10-07T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 52",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T19:00:00.000Z",
+              "endISO": "2025-10-07T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 38",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T20:00:00.000Z",
+              "endISO": "2025-10-07T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 119",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T21:00:00.000Z",
+              "endISO": "2025-10-07T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 85",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T22:00:00.000Z",
+              "endISO": "2025-10-07T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 171",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T23:00:00.000Z",
+              "endISO": "2025-10-07T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 29",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T00:00:00.000Z",
+              "endISO": "2025-10-07T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 52",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T01:00:00.000Z",
+              "endISO": "2025-10-07T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 38",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T02:00:00.000Z",
+              "endISO": "2025-10-07T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 119",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T03:00:00.000Z",
+              "endISO": "2025-10-07T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 85",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-08",
+          "slots": [
+            {
+              "startISO": "2025-10-08T04:00:00.000Z",
+              "endISO": "2025-10-08T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 143",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T05:00:00.000Z",
+              "endISO": "2025-10-08T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T06:00:00.000Z",
+              "endISO": "2025-10-08T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 30",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T07:00:00.000Z",
+              "endISO": "2025-10-08T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T08:00:00.000Z",
+              "endISO": "2025-10-08T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 91",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T09:00:00.000Z",
+              "endISO": "2025-10-08T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S3 Ep 2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T10:00:00.000Z",
+              "endISO": "2025-10-08T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T11:00:00.000Z",
+              "endISO": "2025-10-07T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T12:00:00.000Z",
+              "endISO": "2025-10-08T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 30",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T13:00:00.000Z",
+              "endISO": "2025-10-08T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T14:00:00.000Z",
+              "endISO": "2025-10-08T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 77",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T15:00:00.000Z",
+              "endISO": "2025-10-08T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 144",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T16:00:00.000Z",
+              "endISO": "2025-10-08T04:00:00.000Z",
+              "title": "Mehek S2 Ep 33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T17:00:00.000Z",
+              "endISO": "2025-10-08T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T18:00:00.000Z",
+              "endISO": "2025-10-08T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T19:00:00.000Z",
+              "endISO": "2025-10-08T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 11",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T20:00:00.000Z",
+              "endISO": "2025-10-08T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 92",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T21:00:00.000Z",
+              "endISO": "2025-10-08T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T22:00:00.000Z",
+              "endISO": "2025-10-08T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 144",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T23:00:00.000Z",
+              "endISO": "2025-10-08T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T00:00:00.000Z",
+              "endISO": "2025-10-08T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T01:00:00.000Z",
+              "endISO": "2025-10-08T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 11",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T02:00:00.000Z",
+              "endISO": "2025-10-08T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 92",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T03:00:00.000Z",
+              "endISO": "2025-10-08T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 58",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T04:00:00.000Z",
+              "endISO": "2025-10-08T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 150",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T05:00:00.000Z",
+              "endISO": "2025-10-08T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 8",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T06:00:00.000Z",
+              "endISO": "2025-10-08T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 35",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T07:00:00.000Z",
+              "endISO": "2025-10-08T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 17",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T08:00:00.000Z",
+              "endISO": "2025-10-08T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 98",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T09:00:00.000Z",
+              "endISO": "2025-10-08T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S3 Ep 9",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T10:00:00.000Z",
+              "endISO": "2025-10-08T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 83",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T11:00:00.000Z",
+              "endISO": "2025-10-07T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 8",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T12:00:00.000Z",
+              "endISO": "2025-10-08T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 35",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T13:00:00.000Z",
+              "endISO": "2025-10-08T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 17",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T14:00:00.000Z",
+              "endISO": "2025-10-08T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 84",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T15:00:00.000Z",
+              "endISO": "2025-10-08T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 151",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T16:00:00.000Z",
+              "endISO": "2025-10-08T04:00:00.000Z",
+              "title": "Mehek S2 Ep 38",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T17:00:00.000Z",
+              "endISO": "2025-10-08T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 9",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T18:00:00.000Z",
+              "endISO": "2025-10-08T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 36",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T19:00:00.000Z",
+              "endISO": "2025-10-08T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 18",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T20:00:00.000Z",
+              "endISO": "2025-10-08T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 99",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T21:00:00.000Z",
+              "endISO": "2025-10-08T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T22:00:00.000Z",
+              "endISO": "2025-10-08T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 151",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T23:00:00.000Z",
+              "endISO": "2025-10-08T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 9",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T00:00:00.000Z",
+              "endISO": "2025-10-08T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 36",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T01:00:00.000Z",
+              "endISO": "2025-10-08T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 18",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T02:00:00.000Z",
+              "endISO": "2025-10-08T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 99",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T03:00:00.000Z",
+              "endISO": "2025-10-08T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 65",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T04:00:00.000Z",
+              "endISO": "2025-10-08T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 157",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T05:00:00.000Z",
+              "endISO": "2025-10-08T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 15",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T06:00:00.000Z",
+              "endISO": "2025-10-08T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 40",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T07:00:00.000Z",
+              "endISO": "2025-10-08T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 24",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T08:00:00.000Z",
+              "endISO": "2025-10-08T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 105",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T09:00:00.000Z",
+              "endISO": "2025-10-08T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 71",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T10:00:00.000Z",
+              "endISO": "2025-10-08T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 90",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T11:00:00.000Z",
+              "endISO": "2025-10-07T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 15",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T12:00:00.000Z",
+              "endISO": "2025-10-08T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 40",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T13:00:00.000Z",
+              "endISO": "2025-10-08T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 24",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T14:00:00.000Z",
+              "endISO": "2025-10-08T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 91",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T15:00:00.000Z",
+              "endISO": "2025-10-08T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 158",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T16:00:00.000Z",
+              "endISO": "2025-10-08T04:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T17:00:00.000Z",
+              "endISO": "2025-10-08T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 16",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T18:00:00.000Z",
+              "endISO": "2025-10-08T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 41",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T19:00:00.000Z",
+              "endISO": "2025-10-08T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T20:00:00.000Z",
+              "endISO": "2025-10-08T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 106",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T21:00:00.000Z",
+              "endISO": "2025-10-08T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T22:00:00.000Z",
+              "endISO": "2025-10-08T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 158",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T23:00:00.000Z",
+              "endISO": "2025-10-08T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 16",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T00:00:00.000Z",
+              "endISO": "2025-10-08T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 41",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T01:00:00.000Z",
+              "endISO": "2025-10-08T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T02:00:00.000Z",
+              "endISO": "2025-10-08T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 106",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T03:00:00.000Z",
+              "endISO": "2025-10-08T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T04:00:00.000Z",
+              "endISO": "2025-10-08T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 164",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T05:00:00.000Z",
+              "endISO": "2025-10-08T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 22",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T06:00:00.000Z",
+              "endISO": "2025-10-08T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 45",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T07:00:00.000Z",
+              "endISO": "2025-10-08T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T08:00:00.000Z",
+              "endISO": "2025-10-08T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 112",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T09:00:00.000Z",
+              "endISO": "2025-10-08T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 78",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T10:00:00.000Z",
+              "endISO": "2025-10-08T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 97",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T11:00:00.000Z",
+              "endISO": "2025-10-07T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 22",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T12:00:00.000Z",
+              "endISO": "2025-10-08T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 45",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T13:00:00.000Z",
+              "endISO": "2025-10-08T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T14:00:00.000Z",
+              "endISO": "2025-10-08T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 98",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T15:00:00.000Z",
+              "endISO": "2025-10-08T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 165",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T16:00:00.000Z",
+              "endISO": "2025-10-08T04:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 3",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T17:00:00.000Z",
+              "endISO": "2025-10-08T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 23",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T18:00:00.000Z",
+              "endISO": "2025-10-08T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 46",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T19:00:00.000Z",
+              "endISO": "2025-10-08T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T20:00:00.000Z",
+              "endISO": "2025-10-08T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 113",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T21:00:00.000Z",
+              "endISO": "2025-10-08T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 79",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T22:00:00.000Z",
+              "endISO": "2025-10-08T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 165",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T23:00:00.000Z",
+              "endISO": "2025-10-08T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 23",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T00:00:00.000Z",
+              "endISO": "2025-10-08T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 46",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T01:00:00.000Z",
+              "endISO": "2025-10-08T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T02:00:00.000Z",
+              "endISO": "2025-10-08T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 113",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T03:00:00.000Z",
+              "endISO": "2025-10-08T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 79",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T04:00:00.000Z",
+              "endISO": "2025-10-08T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 171",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T05:00:00.000Z",
+              "endISO": "2025-10-08T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 29",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T06:00:00.000Z",
+              "endISO": "2025-10-08T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 52",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T07:00:00.000Z",
+              "endISO": "2025-10-08T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 38",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T08:00:00.000Z",
+              "endISO": "2025-10-08T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 119",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T09:00:00.000Z",
+              "endISO": "2025-10-08T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 85",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T10:00:00.000Z",
+              "endISO": "2025-10-08T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 104",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T11:00:00.000Z",
+              "endISO": "2025-10-07T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 29",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T12:00:00.000Z",
+              "endISO": "2025-10-08T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 52",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T13:00:00.000Z",
+              "endISO": "2025-10-08T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 38",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T14:00:00.000Z",
+              "endISO": "2025-10-08T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 105",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T15:00:00.000Z",
+              "endISO": "2025-10-08T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 172",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T16:00:00.000Z",
+              "endISO": "2025-10-08T04:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 5",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T17:00:00.000Z",
+              "endISO": "2025-10-08T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 30",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T18:00:00.000Z",
+              "endISO": "2025-10-08T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 53",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T19:00:00.000Z",
+              "endISO": "2025-10-08T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 39",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T20:00:00.000Z",
+              "endISO": "2025-10-08T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 120",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T21:00:00.000Z",
+              "endISO": "2025-10-08T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 86",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T22:00:00.000Z",
+              "endISO": "2025-10-08T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 172",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T23:00:00.000Z",
+              "endISO": "2025-10-08T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 30",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T00:00:00.000Z",
+              "endISO": "2025-10-08T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 53",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T01:00:00.000Z",
+              "endISO": "2025-10-08T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 39",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T02:00:00.000Z",
+              "endISO": "2025-10-08T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 120",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T03:00:00.000Z",
+              "endISO": "2025-10-08T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 86",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-09",
+          "slots": [
+            {
+              "startISO": "2025-10-09T04:00:00.000Z",
+              "endISO": "2025-10-09T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 144",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T05:00:00.000Z",
+              "endISO": "2025-10-09T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T06:00:00.000Z",
+              "endISO": "2025-10-09T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T07:00:00.000Z",
+              "endISO": "2025-10-09T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 11",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T08:00:00.000Z",
+              "endISO": "2025-10-09T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 92",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T09:00:00.000Z",
+              "endISO": "2025-10-09T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S3 Ep 3",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T10:00:00.000Z",
+              "endISO": "2025-10-09T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 77",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T11:00:00.000Z",
+              "endISO": "2025-10-08T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T12:00:00.000Z",
+              "endISO": "2025-10-09T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T13:00:00.000Z",
+              "endISO": "2025-10-09T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 11",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T14:00:00.000Z",
+              "endISO": "2025-10-09T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 78",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T15:00:00.000Z",
+              "endISO": "2025-10-09T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 145",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T16:00:00.000Z",
+              "endISO": "2025-10-09T04:00:00.000Z",
+              "title": "Dance Naija Dance S4 Ep6",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T17:00:00.000Z",
+              "endISO": "2025-10-09T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 3",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T18:00:00.000Z",
+              "endISO": "2025-10-09T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T19:00:00.000Z",
+              "endISO": "2025-10-09T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 12",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T20:00:00.000Z",
+              "endISO": "2025-10-09T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 93",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T21:00:00.000Z",
+              "endISO": "2025-10-09T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T22:00:00.000Z",
+              "endISO": "2025-10-09T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 145",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T23:00:00.000Z",
+              "endISO": "2025-10-09T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 3",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T00:00:00.000Z",
+              "endISO": "2025-10-09T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T01:00:00.000Z",
+              "endISO": "2025-10-09T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 12",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T02:00:00.000Z",
+              "endISO": "2025-10-09T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 93",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T03:00:00.000Z",
+              "endISO": "2025-10-09T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 59",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T04:00:00.000Z",
+              "endISO": "2025-10-09T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 151",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T05:00:00.000Z",
+              "endISO": "2025-10-09T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 9",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T06:00:00.000Z",
+              "endISO": "2025-10-09T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 36",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T07:00:00.000Z",
+              "endISO": "2025-10-09T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 18",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T08:00:00.000Z",
+              "endISO": "2025-10-09T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 99",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T09:00:00.000Z",
+              "endISO": "2025-10-09T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S3 Ep 10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T10:00:00.000Z",
+              "endISO": "2025-10-09T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 84",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T11:00:00.000Z",
+              "endISO": "2025-10-08T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 9",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T12:00:00.000Z",
+              "endISO": "2025-10-09T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 36",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T13:00:00.000Z",
+              "endISO": "2025-10-09T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 18",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T14:00:00.000Z",
+              "endISO": "2025-10-09T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 85",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T15:00:00.000Z",
+              "endISO": "2025-10-09T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 152",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T16:00:00.000Z",
+              "endISO": "2025-10-09T04:00:00.000Z",
+              "title": "Dance Naija Dance S4 Ep8",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T17:00:00.000Z",
+              "endISO": "2025-10-09T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T18:00:00.000Z",
+              "endISO": "2025-10-09T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 37",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T19:00:00.000Z",
+              "endISO": "2025-10-09T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 19",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T20:00:00.000Z",
+              "endISO": "2025-10-09T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 100",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T21:00:00.000Z",
+              "endISO": "2025-10-09T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T22:00:00.000Z",
+              "endISO": "2025-10-09T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 152",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T23:00:00.000Z",
+              "endISO": "2025-10-09T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T00:00:00.000Z",
+              "endISO": "2025-10-09T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 37",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T01:00:00.000Z",
+              "endISO": "2025-10-09T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 19",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T02:00:00.000Z",
+              "endISO": "2025-10-09T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 100",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T03:00:00.000Z",
+              "endISO": "2025-10-09T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 66",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T04:00:00.000Z",
+              "endISO": "2025-10-09T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 158",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T05:00:00.000Z",
+              "endISO": "2025-10-09T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 16",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T06:00:00.000Z",
+              "endISO": "2025-10-09T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 41",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T07:00:00.000Z",
+              "endISO": "2025-10-09T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T08:00:00.000Z",
+              "endISO": "2025-10-09T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 106",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T09:00:00.000Z",
+              "endISO": "2025-10-09T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 72",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T10:00:00.000Z",
+              "endISO": "2025-10-09T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 91",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T11:00:00.000Z",
+              "endISO": "2025-10-08T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 16",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T12:00:00.000Z",
+              "endISO": "2025-10-09T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 41",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T13:00:00.000Z",
+              "endISO": "2025-10-09T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T14:00:00.000Z",
+              "endISO": "2025-10-09T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 92",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T15:00:00.000Z",
+              "endISO": "2025-10-09T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 159",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T16:00:00.000Z",
+              "endISO": "2025-10-09T04:00:00.000Z",
+              "title": "Dance Naija Dance S4 Ep10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T17:00:00.000Z",
+              "endISO": "2025-10-09T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 17",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T18:00:00.000Z",
+              "endISO": "2025-10-09T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 42",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T19:00:00.000Z",
+              "endISO": "2025-10-09T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 26",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T20:00:00.000Z",
+              "endISO": "2025-10-09T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 107",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T21:00:00.000Z",
+              "endISO": "2025-10-09T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T22:00:00.000Z",
+              "endISO": "2025-10-09T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 159",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T23:00:00.000Z",
+              "endISO": "2025-10-09T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 17",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T00:00:00.000Z",
+              "endISO": "2025-10-09T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 42",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T01:00:00.000Z",
+              "endISO": "2025-10-09T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 26",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T02:00:00.000Z",
+              "endISO": "2025-10-09T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 107",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T03:00:00.000Z",
+              "endISO": "2025-10-09T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T04:00:00.000Z",
+              "endISO": "2025-10-09T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 165",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T05:00:00.000Z",
+              "endISO": "2025-10-09T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 23",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T06:00:00.000Z",
+              "endISO": "2025-10-09T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 46",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T07:00:00.000Z",
+              "endISO": "2025-10-09T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T08:00:00.000Z",
+              "endISO": "2025-10-09T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 113",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T09:00:00.000Z",
+              "endISO": "2025-10-09T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 79",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T10:00:00.000Z",
+              "endISO": "2025-10-09T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 98",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T11:00:00.000Z",
+              "endISO": "2025-10-08T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 23",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T12:00:00.000Z",
+              "endISO": "2025-10-09T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 46",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T13:00:00.000Z",
+              "endISO": "2025-10-09T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T14:00:00.000Z",
+              "endISO": "2025-10-09T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 99",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T15:00:00.000Z",
+              "endISO": "2025-10-09T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 166",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T16:00:00.000Z",
+              "endISO": "2025-10-09T04:00:00.000Z",
+              "title": "Dance Naija Dance S4 Ep12",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T17:00:00.000Z",
+              "endISO": "2025-10-09T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 24",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T18:00:00.000Z",
+              "endISO": "2025-10-09T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 47",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T19:00:00.000Z",
+              "endISO": "2025-10-09T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T20:00:00.000Z",
+              "endISO": "2025-10-09T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 114",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T21:00:00.000Z",
+              "endISO": "2025-10-09T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 80",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T22:00:00.000Z",
+              "endISO": "2025-10-09T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 166",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T23:00:00.000Z",
+              "endISO": "2025-10-09T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 24",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T00:00:00.000Z",
+              "endISO": "2025-10-09T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 47",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T01:00:00.000Z",
+              "endISO": "2025-10-09T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T02:00:00.000Z",
+              "endISO": "2025-10-09T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 114",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T03:00:00.000Z",
+              "endISO": "2025-10-09T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 80",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T04:00:00.000Z",
+              "endISO": "2025-10-09T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 172",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T05:00:00.000Z",
+              "endISO": "2025-10-09T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 30",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T06:00:00.000Z",
+              "endISO": "2025-10-09T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 53",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T07:00:00.000Z",
+              "endISO": "2025-10-09T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 39",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T08:00:00.000Z",
+              "endISO": "2025-10-09T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 120",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T09:00:00.000Z",
+              "endISO": "2025-10-09T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 86",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T10:00:00.000Z",
+              "endISO": "2025-10-09T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 105",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T11:00:00.000Z",
+              "endISO": "2025-10-08T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 30",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T12:00:00.000Z",
+              "endISO": "2025-10-09T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 53",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T13:00:00.000Z",
+              "endISO": "2025-10-09T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 39",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T14:00:00.000Z",
+              "endISO": "2025-10-09T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 106",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T15:00:00.000Z",
+              "endISO": "2025-10-09T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 173",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T16:00:00.000Z",
+              "endISO": "2025-10-09T04:00:00.000Z",
+              "title": "Mehek S2 Ep 49",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T17:00:00.000Z",
+              "endISO": "2025-10-09T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T18:00:00.000Z",
+              "endISO": "2025-10-09T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 54",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T19:00:00.000Z",
+              "endISO": "2025-10-09T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 40",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T20:00:00.000Z",
+              "endISO": "2025-10-09T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 121",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T21:00:00.000Z",
+              "endISO": "2025-10-09T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 87",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T22:00:00.000Z",
+              "endISO": "2025-10-09T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 173",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-08T23:00:00.000Z",
+              "endISO": "2025-10-09T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T00:00:00.000Z",
+              "endISO": "2025-10-09T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 54",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T01:00:00.000Z",
+              "endISO": "2025-10-09T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 40",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T02:00:00.000Z",
+              "endISO": "2025-10-09T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 121",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T03:00:00.000Z",
+              "endISO": "2025-10-09T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 87",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-10",
+          "slots": [
+            {
+              "startISO": "2025-10-10T04:00:00.000Z",
+              "endISO": "2025-10-10T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 145",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T05:00:00.000Z",
+              "endISO": "2025-10-10T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 3",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T06:00:00.000Z",
+              "endISO": "2025-10-10T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T07:00:00.000Z",
+              "endISO": "2025-10-10T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 12",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T08:00:00.000Z",
+              "endISO": "2025-10-10T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 93",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T09:00:00.000Z",
+              "endISO": "2025-10-10T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S3 Ep 4",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T10:00:00.000Z",
+              "endISO": "2025-10-10T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 78",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T11:00:00.000Z",
+              "endISO": "2025-10-09T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 3",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T12:00:00.000Z",
+              "endISO": "2025-10-10T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T13:00:00.000Z",
+              "endISO": "2025-10-10T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 12",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T14:00:00.000Z",
+              "endISO": "2025-10-10T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 79",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T15:00:00.000Z",
+              "endISO": "2025-10-10T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 146",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T16:00:00.000Z",
+              "endISO": "2025-10-10T04:00:00.000Z",
+              "title": "Dance Naija Dance S4 Ep7",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T17:00:00.000Z",
+              "endISO": "2025-10-10T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 4",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T18:00:00.000Z",
+              "endISO": "2025-10-10T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T19:00:00.000Z",
+              "endISO": "2025-10-10T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 13",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T20:00:00.000Z",
+              "endISO": "2025-10-10T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 94",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T21:00:00.000Z",
+              "endISO": "2025-10-10T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T22:00:00.000Z",
+              "endISO": "2025-10-10T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 146",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T23:00:00.000Z",
+              "endISO": "2025-10-10T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 4",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T00:00:00.000Z",
+              "endISO": "2025-10-10T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T01:00:00.000Z",
+              "endISO": "2025-10-10T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 13",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T02:00:00.000Z",
+              "endISO": "2025-10-10T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 94",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T03:00:00.000Z",
+              "endISO": "2025-10-10T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 60",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T04:00:00.000Z",
+              "endISO": "2025-10-10T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 152",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T05:00:00.000Z",
+              "endISO": "2025-10-10T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T06:00:00.000Z",
+              "endISO": "2025-10-10T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 37",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T07:00:00.000Z",
+              "endISO": "2025-10-10T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 19",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T08:00:00.000Z",
+              "endISO": "2025-10-10T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 100",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T09:00:00.000Z",
+              "endISO": "2025-10-10T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S3 Ep 11",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T10:00:00.000Z",
+              "endISO": "2025-10-10T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 85",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T11:00:00.000Z",
+              "endISO": "2025-10-09T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T12:00:00.000Z",
+              "endISO": "2025-10-10T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 37",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T13:00:00.000Z",
+              "endISO": "2025-10-10T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 19",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T14:00:00.000Z",
+              "endISO": "2025-10-10T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 86",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T15:00:00.000Z",
+              "endISO": "2025-10-10T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 153",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T16:00:00.000Z",
+              "endISO": "2025-10-10T04:00:00.000Z",
+              "title": "Dance Naija Dance S4 Ep9",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T17:00:00.000Z",
+              "endISO": "2025-10-10T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 11",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T18:00:00.000Z",
+              "endISO": "2025-10-10T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 38",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T19:00:00.000Z",
+              "endISO": "2025-10-10T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 20",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T20:00:00.000Z",
+              "endISO": "2025-10-10T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 101",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T21:00:00.000Z",
+              "endISO": "2025-10-10T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 67",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T22:00:00.000Z",
+              "endISO": "2025-10-10T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 153",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T23:00:00.000Z",
+              "endISO": "2025-10-10T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 11",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T00:00:00.000Z",
+              "endISO": "2025-10-10T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 38",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T01:00:00.000Z",
+              "endISO": "2025-10-10T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 20",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T02:00:00.000Z",
+              "endISO": "2025-10-10T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 101",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T03:00:00.000Z",
+              "endISO": "2025-10-10T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 67",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T04:00:00.000Z",
+              "endISO": "2025-10-10T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 159",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T05:00:00.000Z",
+              "endISO": "2025-10-10T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 17",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T06:00:00.000Z",
+              "endISO": "2025-10-10T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 42",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T07:00:00.000Z",
+              "endISO": "2025-10-10T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 26",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T08:00:00.000Z",
+              "endISO": "2025-10-10T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 107",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T09:00:00.000Z",
+              "endISO": "2025-10-10T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 73",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T10:00:00.000Z",
+              "endISO": "2025-10-10T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 92",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T11:00:00.000Z",
+              "endISO": "2025-10-09T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 17",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T12:00:00.000Z",
+              "endISO": "2025-10-10T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 42",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T13:00:00.000Z",
+              "endISO": "2025-10-10T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 26",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T14:00:00.000Z",
+              "endISO": "2025-10-10T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 93",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T15:00:00.000Z",
+              "endISO": "2025-10-10T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 160",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T16:00:00.000Z",
+              "endISO": "2025-10-10T04:00:00.000Z",
+              "title": "Dance Naija Dance S4 Ep11",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T17:00:00.000Z",
+              "endISO": "2025-10-10T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 18",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T18:00:00.000Z",
+              "endISO": "2025-10-10T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 43",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T19:00:00.000Z",
+              "endISO": "2025-10-10T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 27",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T20:00:00.000Z",
+              "endISO": "2025-10-10T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 108",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T21:00:00.000Z",
+              "endISO": "2025-10-10T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T22:00:00.000Z",
+              "endISO": "2025-10-10T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 160",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T23:00:00.000Z",
+              "endISO": "2025-10-10T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 18",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T00:00:00.000Z",
+              "endISO": "2025-10-10T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 43",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T01:00:00.000Z",
+              "endISO": "2025-10-10T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 27",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T02:00:00.000Z",
+              "endISO": "2025-10-10T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 108",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T03:00:00.000Z",
+              "endISO": "2025-10-10T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T04:00:00.000Z",
+              "endISO": "2025-10-10T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 166",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T05:00:00.000Z",
+              "endISO": "2025-10-10T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 24",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T06:00:00.000Z",
+              "endISO": "2025-10-10T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 47",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T07:00:00.000Z",
+              "endISO": "2025-10-10T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T08:00:00.000Z",
+              "endISO": "2025-10-10T20:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T09:00:00.000Z",
+              "endISO": "2025-10-10T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 80",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T10:00:00.000Z",
+              "endISO": "2025-10-10T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 99",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T11:00:00.000Z",
+              "endISO": "2025-10-09T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 24",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T12:00:00.000Z",
+              "endISO": "2025-10-10T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 47",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T13:00:00.000Z",
+              "endISO": "2025-10-10T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T14:00:00.000Z",
+              "endISO": "2025-10-10T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 100",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T15:00:00.000Z",
+              "endISO": "2025-10-10T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 167",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T16:00:00.000Z",
+              "endISO": "2025-10-10T04:00:00.000Z",
+              "title": "Dance Naija Dance S4 Ep13",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T17:00:00.000Z",
+              "endISO": "2025-10-10T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T18:00:00.000Z",
+              "endISO": "2025-10-10T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 48",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T19:00:00.000Z",
+              "endISO": "2025-10-10T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T20:00:00.000Z",
+              "endISO": "2025-10-10T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 115",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T21:00:00.000Z",
+              "endISO": "2025-10-10T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 81",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T22:00:00.000Z",
+              "endISO": "2025-10-10T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 167",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T23:00:00.000Z",
+              "endISO": "2025-10-10T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T00:00:00.000Z",
+              "endISO": "2025-10-10T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 48",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T01:00:00.000Z",
+              "endISO": "2025-10-10T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T02:00:00.000Z",
+              "endISO": "2025-10-10T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 115",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T03:00:00.000Z",
+              "endISO": "2025-10-10T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 81",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T04:00:00.000Z",
+              "endISO": "2025-10-10T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 173",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T05:00:00.000Z",
+              "endISO": "2025-10-10T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T06:00:00.000Z",
+              "endISO": "2025-10-10T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 54",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T07:00:00.000Z",
+              "endISO": "2025-10-10T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 40",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T08:00:00.000Z",
+              "endISO": "2025-10-10T20:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 4",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T09:00:00.000Z",
+              "endISO": "2025-10-10T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 87",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T10:00:00.000Z",
+              "endISO": "2025-10-10T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 106",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T11:00:00.000Z",
+              "endISO": "2025-10-09T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 31",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T12:00:00.000Z",
+              "endISO": "2025-10-10T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 54",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T13:00:00.000Z",
+              "endISO": "2025-10-10T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 40",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T14:00:00.000Z",
+              "endISO": "2025-10-10T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 107",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T15:00:00.000Z",
+              "endISO": "2025-10-10T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 174",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T16:00:00.000Z",
+              "endISO": "2025-10-10T04:00:00.000Z",
+              "title": "Mehek S2 Ep 50",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T17:00:00.000Z",
+              "endISO": "2025-10-10T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T18:00:00.000Z",
+              "endISO": "2025-10-10T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 55",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T19:00:00.000Z",
+              "endISO": "2025-10-10T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 41",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T20:00:00.000Z",
+              "endISO": "2025-10-10T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 122",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T21:00:00.000Z",
+              "endISO": "2025-10-10T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 88",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T22:00:00.000Z",
+              "endISO": "2025-10-10T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 174",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-09T23:00:00.000Z",
+              "endISO": "2025-10-10T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T00:00:00.000Z",
+              "endISO": "2025-10-10T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 55",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T01:00:00.000Z",
+              "endISO": "2025-10-10T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 41",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T02:00:00.000Z",
+              "endISO": "2025-10-10T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 122",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T03:00:00.000Z",
+              "endISO": "2025-10-10T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 88",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-11",
+          "slots": [
+            {
+              "startISO": "2025-10-11T04:00:00.000Z",
+              "endISO": "2025-10-11T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 146",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T05:00:00.000Z",
+              "endISO": "2025-10-11T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 4",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T06:00:00.000Z",
+              "endISO": "2025-10-11T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T07:00:00.000Z",
+              "endISO": "2025-10-11T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 13",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T08:00:00.000Z",
+              "endISO": "2025-10-11T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 94",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T09:00:00.000Z",
+              "endISO": "2025-10-11T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S3 Ep 5",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T10:00:00.000Z",
+              "endISO": "2025-10-11T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 79",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T11:00:00.000Z",
+              "endISO": "2025-10-10T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 4",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T12:00:00.000Z",
+              "endISO": "2025-10-11T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T13:00:00.000Z",
+              "endISO": "2025-10-11T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 13",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T14:00:00.000Z",
+              "endISO": "2025-10-11T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 80",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T15:00:00.000Z",
+              "endISO": "2025-10-11T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 147",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T16:00:00.000Z",
+              "endISO": "2025-10-11T04:00:00.000Z",
+              "title": "Mehek S2 Ep 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T17:00:00.000Z",
+              "endISO": "2025-10-11T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 5",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T18:00:00.000Z",
+              "endISO": "2025-10-11T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T19:00:00.000Z",
+              "endISO": "2025-10-11T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 14",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T20:00:00.000Z",
+              "endISO": "2025-10-11T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 95",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T21:00:00.000Z",
+              "endISO": "2025-10-11T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T22:00:00.000Z",
+              "endISO": "2025-10-11T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 147",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T23:00:00.000Z",
+              "endISO": "2025-10-11T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 5",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T00:00:00.000Z",
+              "endISO": "2025-10-11T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T01:00:00.000Z",
+              "endISO": "2025-10-11T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 14",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T02:00:00.000Z",
+              "endISO": "2025-10-11T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 95",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T03:00:00.000Z",
+              "endISO": "2025-10-11T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 61",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T04:00:00.000Z",
+              "endISO": "2025-10-11T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 153",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T05:00:00.000Z",
+              "endISO": "2025-10-11T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 11",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T06:00:00.000Z",
+              "endISO": "2025-10-11T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 38",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T07:00:00.000Z",
+              "endISO": "2025-10-11T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 20",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T08:00:00.000Z",
+              "endISO": "2025-10-11T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 101",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T09:00:00.000Z",
+              "endISO": "2025-10-11T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S3 Ep 12",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T10:00:00.000Z",
+              "endISO": "2025-10-11T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 86",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T11:00:00.000Z",
+              "endISO": "2025-10-10T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 11",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T12:00:00.000Z",
+              "endISO": "2025-10-11T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 38",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T13:00:00.000Z",
+              "endISO": "2025-10-11T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 20",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T14:00:00.000Z",
+              "endISO": "2025-10-11T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 87",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T15:00:00.000Z",
+              "endISO": "2025-10-11T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 154",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T16:00:00.000Z",
+              "endISO": "2025-10-11T04:00:00.000Z",
+              "title": "Mehek S2 Ep 39",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T17:00:00.000Z",
+              "endISO": "2025-10-11T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 12",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T18:00:00.000Z",
+              "endISO": "2025-10-11T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 39",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T19:00:00.000Z",
+              "endISO": "2025-10-11T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 21",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T20:00:00.000Z",
+              "endISO": "2025-10-11T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 102",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T21:00:00.000Z",
+              "endISO": "2025-10-11T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T22:00:00.000Z",
+              "endISO": "2025-10-11T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 154",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T23:00:00.000Z",
+              "endISO": "2025-10-11T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 12",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T00:00:00.000Z",
+              "endISO": "2025-10-11T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 39",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T01:00:00.000Z",
+              "endISO": "2025-10-11T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 21",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T02:00:00.000Z",
+              "endISO": "2025-10-11T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 102",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T03:00:00.000Z",
+              "endISO": "2025-10-11T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 68",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T04:00:00.000Z",
+              "endISO": "2025-10-11T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 160",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T05:00:00.000Z",
+              "endISO": "2025-10-11T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 18",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T06:00:00.000Z",
+              "endISO": "2025-10-11T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 43",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T07:00:00.000Z",
+              "endISO": "2025-10-11T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 27",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T08:00:00.000Z",
+              "endISO": "2025-10-11T20:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T09:00:00.000Z",
+              "endISO": "2025-10-11T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 74",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T10:00:00.000Z",
+              "endISO": "2025-10-11T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 93",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T11:00:00.000Z",
+              "endISO": "2025-10-10T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 18",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T12:00:00.000Z",
+              "endISO": "2025-10-11T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 43",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T13:00:00.000Z",
+              "endISO": "2025-10-11T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 27",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T14:00:00.000Z",
+              "endISO": "2025-10-11T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 94",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T15:00:00.000Z",
+              "endISO": "2025-10-11T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 161",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T16:00:00.000Z",
+              "endISO": "2025-10-11T04:00:00.000Z",
+              "title": "Mehek S2 Ep 43",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T17:00:00.000Z",
+              "endISO": "2025-10-11T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 19",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T18:00:00.000Z",
+              "endISO": "2025-10-11T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 44",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T19:00:00.000Z",
+              "endISO": "2025-10-11T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 28",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T20:00:00.000Z",
+              "endISO": "2025-10-11T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 109",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T21:00:00.000Z",
+              "endISO": "2025-10-11T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T22:00:00.000Z",
+              "endISO": "2025-10-11T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 161",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T23:00:00.000Z",
+              "endISO": "2025-10-11T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 19",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T00:00:00.000Z",
+              "endISO": "2025-10-11T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 44",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T01:00:00.000Z",
+              "endISO": "2025-10-11T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 28",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T02:00:00.000Z",
+              "endISO": "2025-10-11T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 109",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T03:00:00.000Z",
+              "endISO": "2025-10-11T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 75",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T04:00:00.000Z",
+              "endISO": "2025-10-11T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 167",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T05:00:00.000Z",
+              "endISO": "2025-10-11T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T06:00:00.000Z",
+              "endISO": "2025-10-11T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 48",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T07:00:00.000Z",
+              "endISO": "2025-10-11T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T08:00:00.000Z",
+              "endISO": "2025-10-11T20:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 3",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T09:00:00.000Z",
+              "endISO": "2025-10-11T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 81",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T10:00:00.000Z",
+              "endISO": "2025-10-11T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 100",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T11:00:00.000Z",
+              "endISO": "2025-10-10T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 25",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T12:00:00.000Z",
+              "endISO": "2025-10-11T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 48",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T13:00:00.000Z",
+              "endISO": "2025-10-11T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T14:00:00.000Z",
+              "endISO": "2025-10-11T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 101",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T15:00:00.000Z",
+              "endISO": "2025-10-11T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 168",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T16:00:00.000Z",
+              "endISO": "2025-10-11T04:00:00.000Z",
+              "title": "Mehek S2 Ep 46",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T17:00:00.000Z",
+              "endISO": "2025-10-11T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 26",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T18:00:00.000Z",
+              "endISO": "2025-10-11T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 49",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T19:00:00.000Z",
+              "endISO": "2025-10-11T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 35",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T20:00:00.000Z",
+              "endISO": "2025-10-11T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 116",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T21:00:00.000Z",
+              "endISO": "2025-10-11T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 82",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T22:00:00.000Z",
+              "endISO": "2025-10-11T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 168",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T23:00:00.000Z",
+              "endISO": "2025-10-11T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 26",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T00:00:00.000Z",
+              "endISO": "2025-10-11T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 49",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T01:00:00.000Z",
+              "endISO": "2025-10-11T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 35",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T02:00:00.000Z",
+              "endISO": "2025-10-11T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 116",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T03:00:00.000Z",
+              "endISO": "2025-10-11T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 82",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T04:00:00.000Z",
+              "endISO": "2025-10-11T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 174",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T05:00:00.000Z",
+              "endISO": "2025-10-11T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T06:00:00.000Z",
+              "endISO": "2025-10-11T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 55",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T07:00:00.000Z",
+              "endISO": "2025-10-11T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 41",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T08:00:00.000Z",
+              "endISO": "2025-10-11T20:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 5",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T09:00:00.000Z",
+              "endISO": "2025-10-11T21:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 88",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T10:00:00.000Z",
+              "endISO": "2025-10-11T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 107",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T11:00:00.000Z",
+              "endISO": "2025-10-10T23:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 32",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T12:00:00.000Z",
+              "endISO": "2025-10-11T00:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 55",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T13:00:00.000Z",
+              "endISO": "2025-10-11T01:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 41",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T14:00:00.000Z",
+              "endISO": "2025-10-11T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 108",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T15:00:00.000Z",
+              "endISO": "2025-10-11T03:00:00.000Z",
+              "title": "I Do S4 Ep1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T16:00:00.000Z",
+              "endISO": "2025-10-11T04:00:00.000Z",
+              "title": "Mehek S2 Ep 51",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T17:00:00.000Z",
+              "endISO": "2025-10-11T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T18:00:00.000Z",
+              "endISO": "2025-10-11T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 56",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T19:00:00.000Z",
+              "endISO": "2025-10-11T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 42",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T20:00:00.000Z",
+              "endISO": "2025-10-11T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 123",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T21:00:00.000Z",
+              "endISO": "2025-10-11T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 89",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T22:00:00.000Z",
+              "endISO": "2025-10-11T10:00:00.000Z",
+              "title": "I Do S4 Ep1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-10T23:00:00.000Z",
+              "endISO": "2025-10-11T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T00:00:00.000Z",
+              "endISO": "2025-10-11T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 56",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T01:00:00.000Z",
+              "endISO": "2025-10-11T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 42",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T02:00:00.000Z",
+              "endISO": "2025-10-11T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 123",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T03:00:00.000Z",
+              "endISO": "2025-10-11T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 89",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-12",
+          "slots": [
+            {
+              "startISO": "2025-10-12T04:00:00.000Z",
+              "endISO": "2025-10-12T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 147",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T05:00:00.000Z",
+              "endISO": "2025-10-12T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 5",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T06:00:00.000Z",
+              "endISO": "2025-10-12T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T07:00:00.000Z",
+              "endISO": "2025-10-12T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 14",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T08:00:00.000Z",
+              "endISO": "2025-10-12T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 95",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T09:00:00.000Z",
+              "endISO": "2025-10-12T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S3 Ep 6",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T10:00:00.000Z",
+              "endISO": "2025-10-12T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 80",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T11:00:00.000Z",
+              "endISO": "2025-10-11T23:00:00.000Z",
+              "title": "Mrs Chatterjee vs Norway",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T14:00:00.000Z",
+              "endISO": "2025-10-12T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 81",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T15:00:00.000Z",
+              "endISO": "2025-10-12T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 148",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T16:00:00.000Z",
+              "endISO": "2025-10-12T04:00:00.000Z",
+              "title": "Mehek S2 Ep 35",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T17:00:00.000Z",
+              "endISO": "2025-10-12T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 6",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T18:00:00.000Z",
+              "endISO": "2025-10-12T06:00:00.000Z",
+              "title": "Dance Naija Dance S4 Ep8",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T19:00:00.000Z",
+              "endISO": "2025-10-12T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 15",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T20:00:00.000Z",
+              "endISO": "2025-10-12T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 96",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T21:00:00.000Z",
+              "endISO": "2025-10-12T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 62",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T22:00:00.000Z",
+              "endISO": "2025-10-12T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 148",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T23:00:00.000Z",
+              "endISO": "2025-10-12T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 6",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T00:00:00.000Z",
+              "endISO": "2025-10-12T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T01:00:00.000Z",
+              "endISO": "2025-10-12T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 15",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T02:00:00.000Z",
+              "endISO": "2025-10-12T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 96",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T03:00:00.000Z",
+              "endISO": "2025-10-12T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 62",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T04:00:00.000Z",
+              "endISO": "2025-10-12T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 154",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T05:00:00.000Z",
+              "endISO": "2025-10-12T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 12",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T06:00:00.000Z",
+              "endISO": "2025-10-12T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 39",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T07:00:00.000Z",
+              "endISO": "2025-10-12T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 21",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T08:00:00.000Z",
+              "endISO": "2025-10-12T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 102",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T09:00:00.000Z",
+              "endISO": "2025-10-12T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S3 Ep 13",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T10:00:00.000Z",
+              "endISO": "2025-10-12T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 87",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T11:00:00.000Z",
+              "endISO": "2025-10-11T23:00:00.000Z",
+              "title": "Khanna & Iyer",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T14:00:00.000Z",
+              "endISO": "2025-10-12T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 88",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T15:00:00.000Z",
+              "endISO": "2025-10-12T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 155",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T16:00:00.000Z",
+              "endISO": "2025-10-12T04:00:00.000Z",
+              "title": "Mehek S2 Ep 40",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T17:00:00.000Z",
+              "endISO": "2025-10-12T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 13",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T18:00:00.000Z",
+              "endISO": "2025-10-12T06:00:00.000Z",
+              "title": "Dance Naija Dance S4 Ep10",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T19:00:00.000Z",
+              "endISO": "2025-10-12T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 22",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T20:00:00.000Z",
+              "endISO": "2025-10-12T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 103",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T21:00:00.000Z",
+              "endISO": "2025-10-12T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T22:00:00.000Z",
+              "endISO": "2025-10-12T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 155",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T23:00:00.000Z",
+              "endISO": "2025-10-12T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 13",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T00:00:00.000Z",
+              "endISO": "2025-10-12T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 39",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T01:00:00.000Z",
+              "endISO": "2025-10-12T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 22",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T02:00:00.000Z",
+              "endISO": "2025-10-12T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 103",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T03:00:00.000Z",
+              "endISO": "2025-10-12T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 69",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T04:00:00.000Z",
+              "endISO": "2025-10-12T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 161",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T05:00:00.000Z",
+              "endISO": "2025-10-12T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 19",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T06:00:00.000Z",
+              "endISO": "2025-10-12T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 44",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T07:00:00.000Z",
+              "endISO": "2025-10-12T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 28",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T08:00:00.000Z",
+              "endISO": "2025-10-12T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 109",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T09:00:00.000Z",
+              "endISO": "2025-10-12T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T10:00:00.000Z",
+              "endISO": "2025-10-12T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 94",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T11:00:00.000Z",
+              "endISO": "2025-10-11T23:00:00.000Z",
+              "title": "Shaadi Mein Zairoor Aana",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T14:00:00.000Z",
+              "endISO": "2025-10-12T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 95",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T15:00:00.000Z",
+              "endISO": "2025-10-12T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 162",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T16:00:00.000Z",
+              "endISO": "2025-10-12T04:00:00.000Z",
+              "title": "Mehek S2 Ep 44",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T17:00:00.000Z",
+              "endISO": "2025-10-12T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 20",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T18:00:00.000Z",
+              "endISO": "2025-10-12T06:00:00.000Z",
+              "title": "Dance Naija Dance S4 Ep12",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T19:00:00.000Z",
+              "endISO": "2025-10-12T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 29",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T20:00:00.000Z",
+              "endISO": "2025-10-12T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 110",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T21:00:00.000Z",
+              "endISO": "2025-10-12T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T22:00:00.000Z",
+              "endISO": "2025-10-12T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 162",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T23:00:00.000Z",
+              "endISO": "2025-10-12T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 20",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T00:00:00.000Z",
+              "endISO": "2025-10-12T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 44",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T01:00:00.000Z",
+              "endISO": "2025-10-12T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 29",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T02:00:00.000Z",
+              "endISO": "2025-10-12T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 110",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T03:00:00.000Z",
+              "endISO": "2025-10-12T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 76",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T04:00:00.000Z",
+              "endISO": "2025-10-12T16:00:00.000Z",
+              "title": "Sister Wives S1 Ep 168",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T05:00:00.000Z",
+              "endISO": "2025-10-12T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 26",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T06:00:00.000Z",
+              "endISO": "2025-10-12T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 49",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T07:00:00.000Z",
+              "endISO": "2025-10-12T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 35",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T08:00:00.000Z",
+              "endISO": "2025-10-12T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 116",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T09:00:00.000Z",
+              "endISO": "2025-10-12T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 4",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T10:00:00.000Z",
+              "endISO": "2025-10-12T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 101",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T11:00:00.000Z",
+              "endISO": "2025-10-11T23:00:00.000Z",
+              "title": "Sooryavanshi",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T14:00:00.000Z",
+              "endISO": "2025-10-12T02:00:00.000Z",
+              "title": "King of Hearts S1 Ep 102",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T15:00:00.000Z",
+              "endISO": "2025-10-12T03:00:00.000Z",
+              "title": "Sister Wives S1 Ep 169",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T16:00:00.000Z",
+              "endISO": "2025-10-12T04:00:00.000Z",
+              "title": "Mehek S2 Ep 47",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T17:00:00.000Z",
+              "endISO": "2025-10-12T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 27",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T18:00:00.000Z",
+              "endISO": "2025-10-12T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 50",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T19:00:00.000Z",
+              "endISO": "2025-10-12T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 36",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T20:00:00.000Z",
+              "endISO": "2025-10-12T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 117",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T21:00:00.000Z",
+              "endISO": "2025-10-12T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 83",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T22:00:00.000Z",
+              "endISO": "2025-10-12T10:00:00.000Z",
+              "title": "Sister Wives S1 Ep 169",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T23:00:00.000Z",
+              "endISO": "2025-10-12T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 27",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T00:00:00.000Z",
+              "endISO": "2025-10-12T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 50",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T01:00:00.000Z",
+              "endISO": "2025-10-12T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 36",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T02:00:00.000Z",
+              "endISO": "2025-10-12T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 117",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T03:00:00.000Z",
+              "endISO": "2025-10-12T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 83",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T04:00:00.000Z",
+              "endISO": "2025-10-12T16:00:00.000Z",
+              "title": "I Do S4 Ep1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T05:00:00.000Z",
+              "endISO": "2025-10-12T17:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 33",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T06:00:00.000Z",
+              "endISO": "2025-10-12T18:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 56",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T07:00:00.000Z",
+              "endISO": "2025-10-12T19:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 42",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T08:00:00.000Z",
+              "endISO": "2025-10-12T20:00:00.000Z",
+              "title": "This Is Fate S7 Ep 123",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T09:00:00.000Z",
+              "endISO": "2025-10-12T21:00:00.000Z",
+              "title": "Kelloggs Superstar Quiz Show S4 Ep 6",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T10:00:00.000Z",
+              "endISO": "2025-10-12T22:00:00.000Z",
+              "title": "King of Hearts S1 Ep 108",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T13:30:00.000Z",
+              "endISO": "2025-10-12T01:30:00.000Z",
+              "title": "King of Hearts S1 Ep 109",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T14:30:00.000Z",
+              "endISO": "2025-10-12T02:30:00.000Z",
+              "title": "I Do S4 Ep2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T15:30:00.000Z",
+              "endISO": "2025-10-12T03:30:00.000Z",
+              "title": "Mehek S2 Ep 52",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T16:30:00.000Z",
+              "endISO": "2025-10-12T04:30:00.000Z",
+              "title": "Fusion Bites S2 Ep 1",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T17:00:00.000Z",
+              "endISO": "2025-10-12T05:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T18:00:00.000Z",
+              "endISO": "2025-10-12T06:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T19:00:00.000Z",
+              "endISO": "2025-10-12T07:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 43",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T20:00:00.000Z",
+              "endISO": "2025-10-12T08:00:00.000Z",
+              "title": "This Is Fate S7 Ep 124",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T21:00:00.000Z",
+              "endISO": "2025-10-12T09:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 90",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T22:00:00.000Z",
+              "endISO": "2025-10-12T10:00:00.000Z",
+              "title": "I Do S4 Ep2",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-11T23:00:00.000Z",
+              "endISO": "2025-10-12T11:00:00.000Z",
+              "title": "Radhe Mohan S4 EP 34",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T00:00:00.000Z",
+              "endISO": "2025-10-12T12:00:00.000Z",
+              "title": "Twist of Fate: New Era  S10 EP 57",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T01:00:00.000Z",
+              "endISO": "2025-10-12T13:00:00.000Z",
+              "title": "Hearts Crossed S1 Ep 43",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T02:00:00.000Z",
+              "endISO": "2025-10-12T14:00:00.000Z",
+              "title": "This Is Fate S7 Ep 124",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-12T03:00:00.000Z",
+              "endISO": "2025-10-12T15:00:00.000Z",
+              "title": "Hidden Intentions S1 EP 90",
+              "durationMin": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3140 @@
+{
+  "window": {
+    "WAT": {
+      "start": "05:00",
+      "end": "04:00"
+    },
+    "CAT": {
+      "start": "06:00",
+      "end": "05:00"
+    },
+    "slotMinutes": 30
+  },
+  "regions": {
+    "SA": {
+      "region": "SA",
+      "timezones": {
+        "WAT": null,
+        "CAT": {
+          "timezone": "CAT",
+          "days": {
+            "Mon": {
+              "date": "2025-10-06",
+              "day": "Mon",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "S1",
+                      "episode": "Ep 283"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "06:30",
+                      "end": "07:30",
+                      "season": "S10",
+                      "episode": "Ep 78"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": []
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "07:30",
+                      "end": "08:30",
+                      "season": "S1",
+                      "episode": "EP 62"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": []
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "S1",
+                      "episode": "EP 276"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "S1",
+                      "episode": "EP 56"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "S1",
+                      "episode": "EP 56"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "S1",
+                      "episode": "EP 125"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "S4",
+                      "episode": "Ep 61"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "S10",
+                      "episode": "Ep 78"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "S1",
+                      "episode": "Ep 56"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "S1",
+                      "episode": "Ep 56"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "S1",
+                      "episode": "Ep 126"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "S2",
+                      "episode": "Ep 62"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "S1",
+                      "episode": "EP 15"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "S1",
+                      "episode": "EP 284"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "S4",
+                      "episode": "EP 62"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "S10",
+                      "episode": "EP 79"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "S1",
+                      "episode": "EP 57"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "S1",
+                      "episode": "EP 57"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "S1",
+                      "episode": "EP 277"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "S1",
+                      "episode": "EP 63"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "S1",
+                      "episode": "EP 126"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "23:00",
+                      "end": "23:30",
+                      "season": "S1",
+                      "episode": "EP 284"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "S4",
+                      "episode": "EP 62"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "S10",
+                      "episode": "EP 79"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "S1",
+                      "episode": "EP 63"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "02:30",
+                      "end": "03:00",
+                      "season": "S1",
+                      "episode": "EP 277"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "03:00",
+                      "end": "03:30",
+                      "season": "S1",
+                      "episode": "EP 57"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "03:30",
+                      "end": "04:00",
+                      "season": "S1",
+                      "episode": "EP 57"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "S1",
+                      "episode": "EP 15"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "S2",
+                      "episode": "EP 62"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Tue": {
+              "date": "2025-10-07",
+              "day": "Tue",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "S1",
+                      "episode": "Ep 284"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "06:30",
+                      "end": "07:30",
+                      "season": "S10",
+                      "episode": "Ep 79"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": []
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "07:30",
+                      "end": "08:30",
+                      "season": "S1",
+                      "episode": "EP 63"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": []
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "S1",
+                      "episode": "EP 277"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "S1",
+                      "episode": "EP 57"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "S1",
+                      "episode": "EP 57"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "S1",
+                      "episode": "EP 126"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "S4",
+                      "episode": "Ep 62"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "S10",
+                      "episode": "Ep 79"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "S1",
+                      "episode": "Ep 57"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "S1",
+                      "episode": "Ep 57"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "S1",
+                      "episode": "Ep 127"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "S2",
+                      "episode": "Ep 63"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "S1",
+                      "episode": "EP 16"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "S1",
+                      "episode": "EP 285"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "S4",
+                      "episode": "EP 63"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "S10",
+                      "episode": "EP 80"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "S1",
+                      "episode": "EP 58"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "S1",
+                      "episode": "EP 58"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "S1",
+                      "episode": "EP 278"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "S1",
+                      "episode": "EP 64"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "S1",
+                      "episode": "EP 127"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "23:00",
+                      "end": "23:30",
+                      "season": "S1",
+                      "episode": "EP 285"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "S4",
+                      "episode": "EP 63"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "S10",
+                      "episode": "EP 80"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "S1",
+                      "episode": "EP 64"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "02:30",
+                      "end": "03:00",
+                      "season": "S1",
+                      "episode": "EP 278"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "03:00",
+                      "end": "03:30",
+                      "season": "S1",
+                      "episode": "EP 58"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "03:30",
+                      "end": "04:00",
+                      "season": "S1",
+                      "episode": "EP 58"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "S1",
+                      "episode": "EP 16"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "S2",
+                      "episode": "EP 63"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Wed": {
+              "date": "2025-10-08",
+              "day": "Wed",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "S1",
+                      "episode": "Ep 285"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "06:30",
+                      "end": "07:30",
+                      "season": "S10",
+                      "episode": "Ep 80"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": []
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "07:30",
+                      "end": "08:30",
+                      "season": "S1",
+                      "episode": "EP 64"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": []
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "S1",
+                      "episode": "EP 278"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "S1",
+                      "episode": "EP 58"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "S1",
+                      "episode": "EP 58"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "S1",
+                      "episode": "EP 127"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "S4",
+                      "episode": "Ep 63"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "S10",
+                      "episode": "Ep 80"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "S1",
+                      "episode": "Ep 58"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "S1",
+                      "episode": "Ep 58"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "S1",
+                      "episode": "Ep 128"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "S2",
+                      "episode": "Ep 64"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "S1",
+                      "episode": "EP 17"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "S1",
+                      "episode": "EP 286"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "S4",
+                      "episode": "EP 64"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "S10",
+                      "episode": "EP 81"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "S1",
+                      "episode": "EP 59"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "S1",
+                      "episode": "EP 59"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "S1",
+                      "episode": "EP 279"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "S1",
+                      "episode": "EP 65"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "S1",
+                      "episode": "EP 128"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "23:00",
+                      "end": "23:30",
+                      "season": "S1",
+                      "episode": "EP 286"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "S4",
+                      "episode": "EP 64"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "S10",
+                      "episode": "EP 81"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "S1",
+                      "episode": "EP 65"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "02:30",
+                      "end": "03:00",
+                      "season": "S1",
+                      "episode": "EP 279"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "03:00",
+                      "end": "03:30",
+                      "season": "S1",
+                      "episode": "EP 59"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "03:30",
+                      "end": "04:00",
+                      "season": "S1",
+                      "episode": "EP 59"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "S1",
+                      "episode": "EP 17"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "S2",
+                      "episode": "EP 64"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Thu": {
+              "date": "2025-10-09",
+              "day": "Thu",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "S1",
+                      "episode": "Ep 286"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "06:30",
+                      "end": "07:30",
+                      "season": "S10",
+                      "episode": "Ep 81"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": []
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "07:30",
+                      "end": "08:30",
+                      "season": "S1",
+                      "episode": "EP 65"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": []
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "S1",
+                      "episode": "EP 279"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "S1",
+                      "episode": "EP 59"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "S1",
+                      "episode": "EP 59"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "S1",
+                      "episode": "EP 128"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "S4",
+                      "episode": "Ep 64"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "S10",
+                      "episode": "Ep 81"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "S1",
+                      "episode": "Ep 59"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "S1",
+                      "episode": "Ep 59"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "S1",
+                      "episode": "Ep 129"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "S2",
+                      "episode": "Ep 65"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "S1",
+                      "episode": "EP 18"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "S1",
+                      "episode": "EP 287"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "S4",
+                      "episode": "EP 65"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "S10",
+                      "episode": "EP 82"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "S1",
+                      "episode": "EP 60"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "S1",
+                      "episode": "EP 60"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "S1",
+                      "episode": "EP 280"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "S1",
+                      "episode": "EP 66"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "S1",
+                      "episode": "EP 129"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "23:00",
+                      "end": "23:30",
+                      "season": "S1",
+                      "episode": "EP 287"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "S4",
+                      "episode": "EP 65"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "S10",
+                      "episode": "EP 82"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "S1",
+                      "episode": "EP 66"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "02:30",
+                      "end": "03:00",
+                      "season": "S1",
+                      "episode": "EP 280"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "03:00",
+                      "end": "03:30",
+                      "season": "S1",
+                      "episode": "EP 60"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "03:30",
+                      "end": "04:00",
+                      "season": "S1",
+                      "episode": "EP 60"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "S1",
+                      "episode": "EP 18"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "S2",
+                      "episode": "EP 65"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Fri": {
+              "date": "2025-10-10",
+              "day": "Fri",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "S1",
+                      "episode": "Ep 287"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "06:30",
+                      "end": "07:30",
+                      "season": "S10",
+                      "episode": "Ep 82"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": []
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "07:30",
+                      "end": "08:30",
+                      "season": "S1",
+                      "episode": "EP 66"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": []
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "S1",
+                      "episode": "EP 280"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "S1",
+                      "episode": "EP 60"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "S1",
+                      "episode": "EP 50"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "S1",
+                      "episode": "EP 129"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "S4",
+                      "episode": "Ep 65"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "S10",
+                      "episode": "Ep 82"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "S1",
+                      "episode": "Ep 60"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "S1",
+                      "episode": "Ep 60"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "S1",
+                      "episode": "Ep 130"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "S2",
+                      "episode": "Ep 66"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "S1",
+                      "episode": "EP 19"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "S1",
+                      "episode": "EP 288"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "S4",
+                      "episode": "EP 66"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "S10",
+                      "episode": "EP 83"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "S1",
+                      "episode": "EP 61"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "S1",
+                      "episode": "EP 61"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "S1",
+                      "episode": "EP 281"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "S1",
+                      "episode": "EP 67"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "S1",
+                      "episode": "EP 130"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "23:00",
+                      "end": "23:30",
+                      "season": "S1",
+                      "episode": "EP 288"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "S4",
+                      "episode": "EP 66"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "S10",
+                      "episode": "EP 83"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "S1",
+                      "episode": "EP 67"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "02:30",
+                      "end": "03:00",
+                      "season": "S1",
+                      "episode": "EP 281"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "03:00",
+                      "end": "03:30",
+                      "season": "S1",
+                      "episode": "EP 61"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "03:30",
+                      "end": "04:00",
+                      "season": "S1",
+                      "episode": "EP 61"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "S1",
+                      "episode": "EP 19"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "S2",
+                      "episode": "EP 66"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Sat": {
+              "date": "2025-10-11",
+              "day": "Sat",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "S1",
+                      "episode": "Ep 15"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "S1",
+                      "episode": "Ep 16"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "S1",
+                      "episode": "Ep 17"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "S1",
+                      "episode": "Ep 18"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "S1",
+                      "episode": "Ep 19"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "11:00",
+                      "end": "11:30",
+                      "season": "S1",
+                      "episode": "EP 284"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "11:30",
+                      "end": "12:00",
+                      "season": "S1",
+                      "episode": "EP 285"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "12:00",
+                      "end": "12:30",
+                      "season": "S1",
+                      "episode": "EP 286"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "12:30",
+                      "end": "13:00",
+                      "season": "S1",
+                      "episode": "EP 287"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "S1",
+                      "episode": "EP 288"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "13:30",
+                      "end": "14:30",
+                      "season": "S4",
+                      "episode": "Ep 62"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": []
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "14:30",
+                      "end": "15:30",
+                      "season": "S4",
+                      "episode": "Ep 63"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": []
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "15:30",
+                      "end": "16:30",
+                      "season": "S4",
+                      "episode": "Ep 64"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": []
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "S4",
+                      "episode": "Ep 65"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": []
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan: First Name of Love",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "S4",
+                      "episode": "Ep 66"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "S10",
+                      "episode": "EP 79"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "19:30",
+                      "end": "20:30",
+                      "season": "S10",
+                      "episode": "EP 80"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": []
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "20:30",
+                      "end": "21:30",
+                      "season": "S10",
+                      "episode": "EP 81"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": []
+                },
+                {
+                  "time": "21:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "21:30",
+                      "end": "22:30",
+                      "season": "S10",
+                      "episode": "EP 82"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": []
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "S10",
+                      "episode": "EP 83"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": []
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "S1",
+                      "episode": "EP 126"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "S1",
+                      "episode": "EP 127"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "S1",
+                      "episode": "EP 128"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "02:30",
+                      "end": "03:30",
+                      "season": "S1",
+                      "episode": "EP 129"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": []
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:30",
+                      "end": "04:30",
+                      "season": "S1",
+                      "episode": "EP 130"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": []
+                },
+                {
+                  "time": "04:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "04:30",
+                      "end": "05:00",
+                      "season": "S1",
+                      "episode": "EP 279"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "05:00",
+                      "end": "05:30",
+                      "season": "S1",
+                      "episode": "EP 280"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "05:30",
+                      "end": "06:00",
+                      "season": "S1",
+                      "episode": "EP 281"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Sun": {
+              "date": "2025-10-12",
+              "day": "Sun",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "S1",
+                      "episode": "Ep 57"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "06:30",
+                      "end": "07:00",
+                      "season": "S1",
+                      "episode": "Ep 58"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "07:00",
+                      "end": "07:30",
+                      "season": "S1",
+                      "episode": "Ep 59"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "07:30",
+                      "end": "08:00",
+                      "season": "S1",
+                      "episode": "Ep 60"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "08:00",
+                      "end": "08:30",
+                      "season": "S1",
+                      "episode": "Ep 61"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "S1",
+                      "episode": "EP 57"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "S1",
+                      "episode": "EP 58"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "S1",
+                      "episode": "EP 59"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "10:00",
+                      "end": "10:30",
+                      "season": "S1",
+                      "episode": "EP 60"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "10:30",
+                      "end": "11:00",
+                      "season": "S1",
+                      "episode": "EP 61"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "S1",
+                      "episode": "Ep 126"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "S1",
+                      "episode": "Ep 127"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "S1",
+                      "episode": "Ep 128"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "S1",
+                      "episode": "Ep 129"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "S1",
+                      "episode": "Ep 130"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "16:00",
+                      "end": "16:30",
+                      "season": "S1",
+                      "episode": "EP 284"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "16:30",
+                      "end": "17:00",
+                      "season": "S1",
+                      "episode": "EP 285"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "S1",
+                      "episode": "EP 286"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:30",
+                      "end": "18:00",
+                      "season": "S1",
+                      "episode": "EP 287"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "18:00",
+                      "end": "18:30",
+                      "season": "S1",
+                      "episode": "EP 288"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "S1",
+                      "episode": "EP 63"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "19:30",
+                      "end": "20:30",
+                      "season": "S1",
+                      "episode": "EP 64"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": []
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "20:30",
+                      "end": "21:30",
+                      "season": "S1",
+                      "episode": "EP 65"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": []
+                },
+                {
+                  "time": "21:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "21:30",
+                      "end": "22:30",
+                      "season": "S1",
+                      "episode": "EP 66"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": []
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "S1",
+                      "episode": "EP 67"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": []
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "S2",
+                      "episode": "EP 62"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "S2",
+                      "episode": "EP 63"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "S2",
+                      "episode": "EP 64"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "02:30",
+                      "end": "03:30",
+                      "season": "S2",
+                      "episode": "EP 65"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": []
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "03:30",
+                      "end": "04:30",
+                      "season": "S2",
+                      "episode": "EP 66"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": []
+                },
+                {
+                  "time": "04:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "04:30",
+                      "end": "05:00",
+                      "season": "S1",
+                      "episode": "EP 281"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "05:00",
+                      "end": "05:30",
+                      "season": "S1",
+                      "episode": "EP 61"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "05:30",
+                      "end": "06:00",
+                      "season": "S1",
+                      "episode": "EP 61"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

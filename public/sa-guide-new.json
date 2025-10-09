@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "channelId": "zee-world-sa-new",
+    "generatedAt": "2025-10-07T15:41:23.177Z",
+    "defaultRegion": "SA",
+    "defaultTimezone": "CAT"
+  },
+  "regions": [
+    {
+      "code": "SA",
+      "label": "South Africa",
+      "timezones": [
+        "CAT"
+      ],
+      "days": [
+        {
+          "dateISO": "2025-10-06",
+          "slots": [
+            {
+              "startISO": "2025-10-06T06:00:00.000Z",
+              "endISO": "2025-10-06T06:30:00.000Z",
+              "title": "Ringside Rebel",
+              "durationMin": 30,
+              "season": "S1",
+              "episode": "EP 283",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

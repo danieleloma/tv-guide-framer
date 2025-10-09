@@ -247,7 +247,10 @@ export default function TVGuideFramer(props: TVGuideProps) {
           backgroundColor: '#111111',
           borderRight: '1px solid #1a1a1a',
           display: 'flex',
-          flexDirection: 'column'
+          flexDirection: 'column',
+          position: 'sticky',
+          left: 0,
+          zIndex: 20
         }}>
           <div style={{
             padding: '12px',
@@ -289,20 +292,24 @@ export default function TVGuideFramer(props: TVGuideProps) {
             top: 0,
             zIndex: 10
           }}>
-            {timeTicks.map((tick, index) => (
-              <div
-                key={index}
-                style={{
-                  width: tick.isMajor ? (props.hourWidthPx || 220) : (props.hourWidthPx || 220) / 2,
-                  padding: '12px 8px',
-                  textAlign: 'center',
-                  fontSize: props.subtitleFontSize || 12,
-                  fontWeight: tick.isMajor ? 600 : 400,
-                  borderRight: '1px solid #1a1a1a',
-                  opacity: tick.isMajor ? 1 : 0.7
-                }}
-              >
-                {tick.label}
+            {currentRegionData?.days.map((day, dayIndex) => (
+              <div key={day.dateISO} style={{ display: 'flex' }}>
+                {timeTicks.map((tick, index) => (
+                  <div
+                    key={`${dayIndex}-${index}`}
+                    style={{
+                      width: tick.isMajor ? (props.hourWidthPx || 220) : (props.hourWidthPx || 220) / 2,
+                      padding: '12px 8px',
+                      textAlign: 'center',
+                      fontSize: props.subtitleFontSize || 12,
+                      fontWeight: tick.isMajor ? 600 : 400,
+                      borderRight: '1px solid #1a1a1a',
+                      opacity: tick.isMajor ? 1 : 0.7
+                    }}
+                  >
+                    {tick.label}
+                  </div>
+                ))}
               </div>
             ))}
           </div>

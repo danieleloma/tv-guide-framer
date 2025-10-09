@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "channelId": "zee-world-roa",
+    "generatedAt": "2025-10-08T00:14:56.892Z",
+    "defaultRegion": "ROA",
+    "defaultTimezone": "WAT"
+  },
+  "regions": [
+    {
+      "code": "ROA",
+      "label": "Rest of Africa",
+      "timezones": ["WAT", "CAT"],
+      "days": [
+        {
+          "dateISO": "2025-10-06",
+          "timezone": "WAT",
+          "slots": [
+            {
+              "startISO": "2025-10-06T05:00:00",
+              "endISO": "2025-10-06T05:30:00",
+              "title": "Sister Wives",
+              "season": "S1",
+              "episode": "Ep 143",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T05:30:00",
+              "endISO": "2025-10-06T06:00:00",
+              "title": "Radhe Mohan",
+              "season": "S4",
+              "episode": "Ep 1",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T06:00:00",
+              "endISO": "2025-10-06T06:30:00",
+              "title": "Twist of Fate: New Era",
+              "season": "S10",
+              "episode": "Ep 29",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T06:30:00",
+              "endISO": "2025-10-06T07:00:00",
+              "title": "Hearts Crossed",
+              "season": "S1",
+              "episode": "Ep 9",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T07:00:00",
+              "endISO": "2025-10-06T07:30:00",
+              "title": "This Is Fate",
+              "season": "S7",
+              "episode": "Ep 90",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T07:30:00",
+              "endISO": "2025-10-06T08:00:00",
+              "title": "Kelloggs Superstar Quiz Show",
+              "season": "S3",
+              "episode": "Ep 1",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T08:00:00",
+              "endISO": "2025-10-06T08:30:00",
+              "title": "King of Hearts",
+              "season": "S1",
+              "episode": "Ep 75",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-06",
+          "timezone": "CAT",
+          "slots": [
+            {
+              "startISO": "2025-10-06T06:00:00",
+              "endISO": "2025-10-06T06:30:00",
+              "title": "Sister Wives",
+              "season": "S1",
+              "episode": "Ep 143",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T06:30:00",
+              "endISO": "2025-10-06T07:00:00",
+              "title": "Radhe Mohan",
+              "season": "S4",
+              "episode": "Ep 1",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T07:00:00",
+              "endISO": "2025-10-06T07:30:00",
+              "title": "Twist of Fate: New Era",
+              "season": "S10",
+              "episode": "Ep 29",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T07:30:00",
+              "endISO": "2025-10-06T08:00:00",
+              "title": "Hearts Crossed",
+              "season": "S1",
+              "episode": "Ep 9",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T08:00:00",
+              "endISO": "2025-10-06T08:30:00",
+              "title": "This Is Fate",
+              "season": "S7",
+              "episode": "Ep 90",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T08:30:00",
+              "endISO": "2025-10-06T09:00:00",
+              "title": "Kelloggs Superstar Quiz Show",
+              "season": "S3",
+              "episode": "Ep 1",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-06T09:00:00",
+              "endISO": "2025-10-06T09:30:00",
+              "title": "King of Hearts",
+              "season": "S1",
+              "episode": "Ep 75",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-07",
+          "timezone": "WAT",
+          "slots": [
+            {
+              "startISO": "2025-10-07T05:00:00",
+              "endISO": "2025-10-07T05:30:00",
+              "title": "Sister Wives",
+              "season": "S1",
+              "episode": "Ep 144",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T05:30:00",
+              "endISO": "2025-10-07T06:00:00",
+              "title": "Radhe Mohan",
+              "season": "S4",
+              "episode": "Ep 2",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            }
+          ]
+        },
+        {
+          "dateISO": "2025-10-07",
+          "timezone": "CAT",
+          "slots": [
+            {
+              "startISO": "2025-10-07T06:00:00",
+              "endISO": "2025-10-07T06:30:00",
+              "title": "Sister Wives",
+              "season": "S1",
+              "episode": "Ep 144",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            },
+            {
+              "startISO": "2025-10-07T06:30:00",
+              "endISO": "2025-10-07T07:00:00",
+              "title": "Radhe Mohan",
+              "season": "S4",
+              "episode": "Ep 2",
+              "subtitle": "",
+              "textColor": "#FFFFFF",
+              "bgColor": "#1A1A1A",
+              "durationMin": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
