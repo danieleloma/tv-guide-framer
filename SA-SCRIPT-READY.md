@@ -296,3 +296,5 @@ Then paste the JSON into Framer's "SA Data JSON" prop!
 **Breaking Changes**: ❌ **NONE**  
 **Component Compatible**: ✅ **YES** (TVGuideFinal)
 
+
+

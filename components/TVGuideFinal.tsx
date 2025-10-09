@@ -10,7 +10,7 @@ import { addPropertyControls, ControlType } from 'framer';
 
 // Types
 type Region = "SA" | "ROA";
-type Tz = "WAT" | "CAT";
+type Tz = "WAT" | "CAT" | "EAT";
 type Weekday = "Mon" | "Tue" | "Wed" | "Thu" | "Fri" | "Sat" | "Sun";
 type TimeLabel = `${string}:${"00"|"30"}`;
 type FontFamily = "Inter" | "Roboto" | "DMSans" | "Poppins" | "Lato" | "SpaceGrotesk" | "OpenSans" | "NunitoSans" | "WorkSans" | "Montserrat";
@@ -49,6 +49,7 @@ interface TvGuideData {
   window: {
     WAT: { start: "05:00"; end: "04:00" };
     CAT: { start: "06:00"; end: "05:00" };
+    EAT: { start: "06:00"; end: "05:00" };
     slotMinutes: 30;
   };
   regions: Record<Region, RegionSchedule>;
@@ -59,6 +60,7 @@ interface TVGuideFinalProps {
   dataSource: "static" | "remote";
   saJson: string;
   roaJson: string;
+  generalJson: string;
   
   // Toggles (Initial defaults)
   region: Region;
@@ -96,6 +98,7 @@ interface TVGuideFinalProps {
   
   // User Controls
   showUserControls?: boolean;
+  showHeader?: boolean;
   onChangeRegion?: (region: Region) => void;
   onChangeTimezone?: (timezone: Tz) => void;
 }
@@ -152,11 +155,12 @@ function generateTimeTicks(timezone: Tz): TimeLabel[] {
   // Build ticks from [start, end) where end is same time next day (24h)
   // WAT: 05:00 → 05:00 (next day) = 24 hours = 48 intervals (49 labels)
   // CAT: 06:00 → 06:00 (next day) = 24 hours = 48 intervals (49 labels)
+  // EAT: 06:00 → 06:00 (next day) = 24 hours = 48 intervals (49 labels)
   
   const DAY = 24 * 60; // minutes in a day
   const step = 30;
   
-  const startLabel = timezone === 'WAT' ? '05:00' : '06:00';
+  const startLabel = timezone === 'WAT' ? '05:00' : '06:00'; // EAT also starts at 06:00
   const endLabel = startLabel; // same time next day
   
   const tToMin = (t: string): number => {
@@ -234,6 +238,7 @@ function parseJsonData(jsonString: string): TvGuideData | null {
 export default function TVGuideFinal(props: TVGuideFinalProps) {
   const [saData, setSaData] = useState<TvGuideData | null>(null);
   const [roaData, setRoaData] = useState<TvGuideData | null>(null);
+  const [generalData, setGeneralData] = useState<TvGuideData | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -259,6 +264,10 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
     setRoaData(parseJsonData(props.roaJson));
   }, [props.roaJson]);
 
+  useEffect(() => {
+    setGeneralData(parseJsonData(props.generalJson));
+  }, [props.generalJson]);
+
   // Load remote data if needed
   useEffect(() => {
     if (props.dataSource === 'remote') {
@@ -272,7 +281,7 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
 
   // Timezone options based on region
   const tzOptionsForSA: Array<"CAT"> = ["CAT"];
-  const tzOptionsForROA: Array<"WAT"|"CAT"> = ["WAT", "CAT"];
+  const tzOptionsForROA: Array<"WAT"|"CAT"|"EAT"> = ["WAT", "CAT", "EAT"];
 
   // Auto-correct region if SA is selected but not available
   useEffect(() => {
@@ -316,12 +325,13 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
     }
   }, []);
 
-  // Get current data based on active region
+  // Get current data based on active region (general data takes priority if no region-specific data)
   const currentData = useMemo(() => {
-    if (activeRegion === 'SA') return saData;
-    if (activeRegion === 'ROA') return roaData;
-    return null;
-  }, [activeRegion, saData, roaData]);
+    if (activeRegion === 'SA' && saData) return saData;
+    if (activeRegion === 'ROA' && roaData) return roaData;
+    // Fallback to general data if region-specific data is not available
+    return generalData;
+  }, [activeRegion, saData, roaData, generalData]);
 
   // Get available regions (only show regions that have data)
   const availableRegions = useMemo(() => {
@@ -489,7 +499,8 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
           overflow: 'hidden'
         }}
       >
-        {/* Header with segmented buttons */}
+        {/* Header with segmented buttons (conditionally visible) */}
+        {props.showHeader !== false && (
         <div style={{
           display: 'flex',
           alignItems: 'center',
@@ -614,6 +625,7 @@ export default function TVGuideFinal(props: TVGuideFinalProps) {
             </div>
           )}
         </div>
+        )}
 
         {/* Main Grid Container */}
         <div style={{
@@ -872,6 +884,15 @@ addPropertyControls(TVGuideFinal, {
     displayTextArea: true,
     group: 'Data'
   },
+  generalJson: {
+    type: ControlType.String,
+    title: 'General Channel JSON',
+    description: 'JSON data for general channels (no region)',
+    defaultValue: '{}',
+    multiline: true,
+    displayTextArea: true,
+    group: 'Data'
+  },
 
   // Toggles Section
   region: {
@@ -884,7 +905,7 @@ addPropertyControls(TVGuideFinal, {
   timezone: {
     type: ControlType.Enum,
     title: 'Timezone',
-    options: ['WAT', 'CAT'],
+    options: ['WAT', 'CAT', 'EAT'],
     defaultValue: 'WAT',
     group: 'Toggles'
   },
@@ -1047,6 +1068,13 @@ addPropertyControls(TVGuideFinal, {
     type: ControlType.Boolean,
     title: 'Show User Controls',
     description: 'Show runtime region/timezone toggle buttons',
+    defaultValue: true,
+    group: 'User Controls'
+  },
+  showHeader: {
+    type: ControlType.Boolean,
+    title: 'Show Header',
+    description: 'Show/hide the header with region and timezone buttons',
     defaultValue: true,
     group: 'User Controls'
   }
