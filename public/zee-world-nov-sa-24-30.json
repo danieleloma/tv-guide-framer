@@ -1,0 +1,4389 @@
+{
+  "window": {
+    "CAT": {
+      "start": "00:00",
+      "end": "23:30"
+    },
+    "slotMinutes": 30
+  },
+  "regions": {
+    "SA": {
+      "region": "SA",
+      "timezones": {
+        "CAT": {
+          "timezone": "CAT",
+          "days": {
+            "Mon": {
+              "date": "2025-11-24",
+              "day": "Mon",
+              "slots": [
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "00:30",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "92",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "01:00",
+                      "end": "01:30",
+                      "season": "1",
+                      "episode": "92",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "01:30",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "21",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "98",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "98",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "161",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "161",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "3",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "3",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "50",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "50",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "20",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:30",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "318",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "113",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "113",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "91",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "91",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "10:00",
+                      "end": "10:30",
+                      "season": "1",
+                      "episode": "318",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "10:30",
+                      "end": "11:30",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "10:30",
+                      "end": "11:30",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate",
+                      "start": "11:30",
+                      "end": "12:30",
+                      "season": "10",
+                      "episode": "113",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate",
+                      "start": "11:30",
+                      "end": "12:30",
+                      "season": "10",
+                      "episode": "113",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "12:30",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "91",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "91",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "20",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "161",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "161",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "3",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "3",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "50",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "50",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "319",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "114",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "114",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "92",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "1",
+                      "episode": "92",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "21",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "22:00",
+                      "end": "22:30",
+                      "season": "1",
+                      "episode": "319",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Tue": {
+              "date": "2025-11-25",
+              "day": "Tue",
+              "slots": [
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "00:30",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "93",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "01:00",
+                      "end": "01:30",
+                      "season": "1",
+                      "episode": "93",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "01:30",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "22",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "99",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "99",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "162",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "162",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "3",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "3",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "51",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "51",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "21",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:30",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "319",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "114",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "114",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "92",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "92",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "10:00",
+                      "end": "10:30",
+                      "season": "1",
+                      "episode": "319",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "10:30",
+                      "end": "11:30",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "10:30",
+                      "end": "11:30",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "11:30",
+                      "end": "12:30",
+                      "season": "10",
+                      "episode": "114",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "11:30",
+                      "end": "12:30",
+                      "season": "10",
+                      "episode": "114",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "12:30",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "92",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "92",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "21",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "162",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "162",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "3",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "3",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "51",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "51",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "320",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "115",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "115",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "93",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "1",
+                      "episode": "93",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "22",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "22:00",
+                      "end": "22:30",
+                      "season": "1",
+                      "episode": "320",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Wed": {
+              "date": "2025-11-26",
+              "day": "Wed",
+              "slots": [
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "00:30",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "94",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "01:00",
+                      "end": "01:30",
+                      "season": "1",
+                      "episode": "94",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "01:30",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "100",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "100",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "163",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "163",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "3",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "3",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "52",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "52",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "22",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:30",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "320",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "115",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "115",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "93",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "93",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "10:00",
+                      "end": "10:30",
+                      "season": "1",
+                      "episode": "320",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "10:30",
+                      "end": "11:30",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "10:30",
+                      "end": "11:30",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "11:30",
+                      "end": "12:30",
+                      "season": "10",
+                      "episode": "115",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "11:30",
+                      "end": "12:30",
+                      "season": "10",
+                      "episode": "115",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "12:30",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "93",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "93",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "22",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "163",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "163",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "3",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "3",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "52",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "52",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "321",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "116",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "116",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "94",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "1",
+                      "episode": "94",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "22:00",
+                      "end": "22:30",
+                      "season": "1",
+                      "episode": "321",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Thu": {
+              "date": "2025-11-27",
+              "day": "Thu",
+              "slots": [
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "00:30",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "95",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "01:00",
+                      "end": "01:30",
+                      "season": "1",
+                      "episode": "95",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "01:30",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "101",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "101",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "164",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "164",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "3",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "3",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "53",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "53",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:30",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "321",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "116",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "116",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "94",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "94",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "10:00",
+                      "end": "10:30",
+                      "season": "1",
+                      "episode": "321",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "10:30",
+                      "end": "11:30",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "10:30",
+                      "end": "11:30",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "11:30",
+                      "end": "12:30",
+                      "season": "10",
+                      "episode": "116",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "11:30",
+                      "end": "12:30",
+                      "season": "10",
+                      "episode": "116",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "12:30",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "94",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "94",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "164",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "164",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "3",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "3",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "53",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "53",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "322",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "117",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "117",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "95",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "1",
+                      "episode": "95",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "22:00",
+                      "end": "22:30",
+                      "season": "1",
+                      "episode": "322",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Fri": {
+              "date": "2025-11-28",
+              "day": "Fri",
+              "slots": [
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "00:30",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "96",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "01:00",
+                      "end": "01:30",
+                      "season": "1",
+                      "episode": "96",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "01:30",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "102",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "102",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "165",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "165",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "3",
+                      "episode": "14",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "3",
+                      "episode": "14",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "54",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "54",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:30",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "322",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "117",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "117",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "95",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "95",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "10:00",
+                      "end": "10:30",
+                      "season": "1",
+                      "episode": "322",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "10:30",
+                      "end": "11:30",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "10:30",
+                      "end": "11:30",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "11:30",
+                      "end": "12:30",
+                      "season": "10",
+                      "episode": "117",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "11:30",
+                      "end": "12:30",
+                      "season": "10",
+                      "episode": "117",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "12:30",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "95",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "95",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "165",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "165",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "3",
+                      "episode": "14",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "3",
+                      "episode": "14",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "54",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "54",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "323",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "118",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "118",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "96",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "1",
+                      "episode": "96",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "22:00",
+                      "end": "22:30",
+                      "season": "1",
+                      "episode": "323",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Sat": {
+              "date": "2025-11-29",
+              "day": "Sat",
+              "slots": [
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "100",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "100",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "101",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "101",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "102",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "102",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "163",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "163",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "164",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "164",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "165",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "165",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "92",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "06:30",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "93",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "07:00",
+                      "end": "07:30",
+                      "season": "1",
+                      "episode": "94",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "07:30",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "95",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "08:00",
+                      "end": "08:30",
+                      "season": "1",
+                      "episode": "96",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "319",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "320",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "321",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "10:00",
+                      "end": "10:30",
+                      "season": "1",
+                      "episode": "322",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "10:30",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "323",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "11:00",
+                      "end": "11:30",
+                      "season": "1",
+                      "episode": "92",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "11:30",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "93",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "12:00",
+                      "end": "12:30",
+                      "season": "1",
+                      "episode": "94",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "12:30",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "95",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "96",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "13:30",
+                      "end": "14:30",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "13:30",
+                      "end": "14:30",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "14:30",
+                      "end": "15:30",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "14:30",
+                      "end": "15:30",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "15:30",
+                      "end": "16:30",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "15:30",
+                      "end": "16:30",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "18:30",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "21",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "19:00",
+                      "end": "19:30",
+                      "season": "1",
+                      "episode": "22",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Miss India-South Africa 2025",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Miss India-South Africa 2025",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "98",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "98",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Sun": {
+              "date": "2025-11-30",
+              "day": "Sun",
+              "slots": [
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "00:00",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "323",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "00:30",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "92",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "01:00",
+                      "end": "01:30",
+                      "season": "1",
+                      "episode": "93",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "01:30",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "94",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "02:00",
+                      "end": "02:30",
+                      "season": "1",
+                      "episode": "95",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "02:30",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "96",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "3",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "3",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "3",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "3",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "3",
+                      "episode": "14",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "3",
+                      "episode": "14",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "21",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "06:30",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "22",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "07:00",
+                      "end": "07:30",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "07:30",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "08:00",
+                      "end": "08:30",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "92",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "93",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "94",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "10:00",
+                      "end": "10:30",
+                      "season": "1",
+                      "episode": "95",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "10:30",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "96",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "161",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "161",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "162",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "162",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "163",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "163",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Miss India-South Africa 2025",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "Miss India-South Africa 2025",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "164",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "164",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "165",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "165",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "10",
+                      "episode": "114",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "10",
+                      "episode": "114",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "10",
+                      "episode": "115",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "10",
+                      "episode": "115",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "10",
+                      "episode": "116",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "10",
+                      "episode": "116",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "10",
+                      "episode": "117",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "10",
+                      "episode": "117",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "22:00",
+                      "end": "22:30",
+                      "season": "1",
+                      "episode": "319",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "22:30",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "320",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "23:00",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "321",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

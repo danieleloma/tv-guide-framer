@@ -1,0 +1,3089 @@
+{
+  "window": {
+    "WAT": {
+      "start": "05:00",
+      "end": "05:00"
+    },
+    "CAT": {
+      "start": "06:00",
+      "end": "06:00"
+    },
+    "EAT": {
+      "start": "06:00",
+      "end": "06:00"
+    },
+    "slotMinutes": 30
+  },
+  "regions": {
+    "SA": {
+      "region": "SA",
+      "timezones": {
+        "WAT": null,
+        "CAT": {
+          "timezone": "CAT",
+          "days": {
+            "Mon": {
+              "date": "2025-10-27",
+              "day": "Mon",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "298"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "06:30",
+                      "end": "07:30",
+                      "season": "10",
+                      "episode": "93"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": []
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "07:30",
+                      "end": "08:30",
+                      "season": "1",
+                      "episode": "77"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": []
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "291"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "71"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "71"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "140"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "3"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "10",
+                      "episode": "93"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "71"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "71"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "141"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "2",
+                      "episode": "77"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "30"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "299"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "94"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "72"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "1",
+                      "episode": "72"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "292"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": []
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "141"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "23:00",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "299"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "10",
+                      "episode": "94"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "1",
+                      "episode": "78"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "02:30",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "292"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "03:00",
+                      "end": "03:30",
+                      "season": "1",
+                      "episode": "72"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "03:30",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "72"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "30"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "2",
+                      "episode": "77"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Tue": {
+              "date": "2025-10-28",
+              "day": "Tue",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "299"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "06:30",
+                      "end": "07:30",
+                      "season": "10",
+                      "episode": "94"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": []
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "07:30",
+                      "end": "08:30",
+                      "season": "1",
+                      "episode": "78"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": []
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Betrayal",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "292"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "72"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "72"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "141"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "10",
+                      "episode": "94"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "72"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "72"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "142"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "2",
+                      "episode": "78"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "31"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "300"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "95"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "73"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "1",
+                      "episode": "73"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "1"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": []
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "142"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "23:00",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "300"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "10",
+                      "episode": "95"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "1",
+                      "episode": "79"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "02:30",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "1"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "03:00",
+                      "end": "03:30",
+                      "season": "1",
+                      "episode": "73"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "03:30",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "73"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "31"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "2",
+                      "episode": "78"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Wed": {
+              "date": "2025-10-29",
+              "day": "Wed",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "300"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "06:30",
+                      "end": "07:30",
+                      "season": "10",
+                      "episode": "95"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": []
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "07:30",
+                      "end": "08:30",
+                      "season": "1",
+                      "episode": "79"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": []
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "1"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "73"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "73"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "142"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "10",
+                      "episode": "95"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "73"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "73"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "143"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "2",
+                      "episode": "79"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "32"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "301"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "6"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "96"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "74"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "1",
+                      "episode": "74"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "2"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": []
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "143"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "23:00",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "301"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "6"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "10",
+                      "episode": "96"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "1",
+                      "episode": "80"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "02:30",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "2"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "03:00",
+                      "end": "03:30",
+                      "season": "1",
+                      "episode": "74"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "03:30",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "74"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "32"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "2",
+                      "episode": "79"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Thu": {
+              "date": "2025-10-30",
+              "day": "Thu",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "301"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "06:30",
+                      "end": "07:30",
+                      "season": "10",
+                      "episode": "96"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": []
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "07:30",
+                      "end": "08:30",
+                      "season": "1",
+                      "episode": "80"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": []
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "2"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "74"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "74"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "143"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "6"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "10",
+                      "episode": "96"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "74"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "74"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "144"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "2",
+                      "episode": "80"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "33"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "302"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "7"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "97"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "75"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "1",
+                      "episode": "75"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "3"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": []
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "144"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "23:00",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "302"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "7"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "10",
+                      "episode": "97"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "1",
+                      "episode": "81"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "02:30",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "3"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "03:00",
+                      "end": "03:30",
+                      "season": "1",
+                      "episode": "75"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "03:30",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "75"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "33"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "2",
+                      "episode": "80"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Fri": {
+              "date": "2025-10-31",
+              "day": "Fri",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "302"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "06:30",
+                      "end": "07:30",
+                      "season": "10",
+                      "episode": "97"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": []
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "07:30",
+                      "end": "08:30",
+                      "season": "1",
+                      "episode": "81"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": []
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "3"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "75"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "75"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "144"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "7"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "10",
+                      "episode": "97"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "75"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "13:30",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "75"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "145"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "2",
+                      "episode": "81"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "34"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "303"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "8"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "98"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "19:30",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "76"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "20:00",
+                      "end": "20:30",
+                      "season": "1",
+                      "episode": "76"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "20:30",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": []
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "145"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "23:00",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "303"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "8"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "10",
+                      "episode": "98"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "1",
+                      "episode": "82"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "02:30",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "03:00",
+                      "end": "03:30",
+                      "season": "1",
+                      "episode": "76"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "03:30",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "76"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "34"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "2",
+                      "episode": "81"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Sat": {
+              "date": "2025-11-01",
+              "day": "Sat",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "30"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "31"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "32"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "33"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Married Again",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "34"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "11:00",
+                      "end": "11:30",
+                      "season": "1",
+                      "episode": "299"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "11:30",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "300"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "12:00",
+                      "end": "12:30",
+                      "season": "1",
+                      "episode": "301"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "12:30",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "302"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "13:00",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "303"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "13:30",
+                      "end": "14:30",
+                      "season": "1",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": []
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "14:30",
+                      "end": "15:30",
+                      "season": "1",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": []
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "15:30",
+                      "end": "16:30",
+                      "season": "1",
+                      "episode": "6"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": []
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "7"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": []
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "8"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "10",
+                      "episode": "94"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "19:30",
+                      "end": "20:30",
+                      "season": "10",
+                      "episode": "95"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": []
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "20:30",
+                      "end": "21:30",
+                      "season": "10",
+                      "episode": "96"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": []
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": []
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "10",
+                      "episode": "98"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": []
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "141"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "1",
+                      "episode": "142"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "1",
+                      "episode": "143"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "02:30",
+                      "end": "03:30",
+                      "season": "1",
+                      "episode": "144"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": []
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "03:30",
+                      "end": "04:30",
+                      "season": "1",
+                      "episode": "145"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": []
+                },
+                {
+                  "time": "04:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "04:30",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "2"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "05:00",
+                      "end": "05:30",
+                      "season": "1",
+                      "episode": "3"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "05:30",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Sun": {
+              "date": "2025-11-02",
+              "day": "Sun",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "06:00",
+                      "end": "06:30",
+                      "season": "1",
+                      "episode": "72"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "06:30",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "73"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "07:00",
+                      "end": "07:30",
+                      "season": "1",
+                      "episode": "74"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "07:30",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "75"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "08:00",
+                      "end": "08:30",
+                      "season": "1",
+                      "episode": "76"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "08:30",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "72"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:00",
+                      "end": "09:30",
+                      "season": "1",
+                      "episode": "73"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "09:30",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "74"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "10:00",
+                      "end": "10:30",
+                      "season": "1",
+                      "episode": "75"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "10:30",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "76"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "141"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "142"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "143"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "144"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "145"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "16:00",
+                      "end": "16:30",
+                      "season": "1",
+                      "episode": "299"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "16:30",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "300"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:00",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "301"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "17:30",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "302"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Ringside Rebel",
+                      "start": "18:00",
+                      "end": "18:30",
+                      "season": "1",
+                      "episode": "303"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "1",
+                      "episode": "78"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": []
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "19:30",
+                      "end": "20:30",
+                      "season": "1",
+                      "episode": "79"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": []
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "20:30",
+                      "end": "21:30",
+                      "season": "1",
+                      "episode": "80"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": []
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": []
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Hidden intentions",
+                      "start": "22:30",
+                      "end": "23:30",
+                      "season": "1",
+                      "episode": "82"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": []
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "2",
+                      "episode": "77"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": []
+                },
+                {
+                  "time": "00:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "00:30",
+                      "end": "01:30",
+                      "season": "2",
+                      "episode": "78"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:00",
+                  "shows": []
+                },
+                {
+                  "time": "01:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "01:30",
+                      "end": "02:30",
+                      "season": "2",
+                      "episode": "79"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:00",
+                  "shows": []
+                },
+                {
+                  "time": "02:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "02:30",
+                      "end": "03:30",
+                      "season": "2",
+                      "episode": "80"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:00",
+                  "shows": []
+                },
+                {
+                  "time": "03:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "03:30",
+                      "end": "04:30",
+                      "season": "2",
+                      "episode": "81"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:00",
+                  "shows": []
+                },
+                {
+                  "time": "04:30",
+                  "shows": [
+                    {
+                      "title": "Marriage For Duty",
+                      "start": "04:30",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Secrets",
+                      "start": "05:00",
+                      "end": "05:30",
+                      "season": "1",
+                      "episode": "76"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": [
+                    {
+                      "title": "Taxi",
+                      "start": "05:30",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "76"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "EAT": null
+      }
+    }
+  }
+}

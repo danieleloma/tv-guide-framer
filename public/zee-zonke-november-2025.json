@@ -1,0 +1,4419 @@
+{
+  "window": {
+    "CAT": {
+      "start": "06:00",
+      "end": "05:00"
+    },
+    "slotMinutes": 30
+  },
+  "regions": {
+    "ROA": {
+      "region": "ROA",
+      "timezones": {
+        "CAT": {
+          "timezone": "CAT",
+          "days": {
+            "Mon": {
+              "date": "2025-11-24",
+              "day": "Mon",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "40",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "40",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "40",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "40",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "40",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "6",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "40",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "6",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "6",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "6",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "6",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "6",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "6",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "21",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "6",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "21",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "22",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "22",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakhwapeni",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "6",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Umakhwapeni",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "6",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "41",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "41",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "We Mamezala",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "45",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "We Mamezala",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "45",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Tue": {
+              "date": "2025-11-25",
+              "day": "Tue",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "41",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "41",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "41",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "41",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "41",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "7",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "41",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "7",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "7",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "7",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "7",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "7",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "7",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "7",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakhwapeni",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "7",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Umakhwapeni",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "7",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "42",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "42",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "We Mamezala",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "46",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "We Mamezala",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "46",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Wed": {
+              "date": "2025-11-26",
+              "day": "Wed",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "42",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "42",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "42",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "42",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "42",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "8",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "42",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "8",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "8",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "8",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "8",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "8",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "8",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "8",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakhwapeni",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "8",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Umakhwapeni",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "8",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "43",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "43",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "We Mamezala",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "47",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "We Mamezala",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "47",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Thu": {
+              "date": "2025-11-27",
+              "day": "Thu",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "43",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "43",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "43",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "43",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "43",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "43",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakhwapeni",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Umakhwapeni",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "9",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "44",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "44",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "We Mamezala",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "48",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "We Mamezala",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "48",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Fri": {
+              "date": "2025-11-28",
+              "day": "Fri",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "44",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "44",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "10:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "11:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "44",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "44",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "44",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "13:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "44",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Umakoti Oyintandokazi",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "30",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "30",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Umakhwapeni",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Umakhwapeni",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "30",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "30",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "14",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "14",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "45",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": [
+                    {
+                      "title": "Ngi uPaaru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "45",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "We Mamezala",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "49",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "We Mamezala",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "49",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "30",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "30",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Sat": {
+              "date": "2025-11-29",
+              "day": "Sat",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Izithembiso",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "29",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "26",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "27",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "10:30",
+                      "end": "12:30",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "10:30",
+                      "end": "12:30",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "10:30",
+                      "end": "12:30",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "11:30",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Ukuzibophezela",
+                      "start": "10:30",
+                      "end": "12:30",
+                      "season": "1",
+                      "episode": "28",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "11:30",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "11:30",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:30",
+                      "end": "14:30",
+                      "season": "1",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "11:30",
+                      "end": "13:30",
+                      "season": "1",
+                      "episode": "10",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:30",
+                      "end": "14:30",
+                      "season": "1",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:30",
+                      "end": "14:30",
+                      "season": "1",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "13:30",
+                      "end": "15:30",
+                      "season": "1",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "12:30",
+                      "end": "14:30",
+                      "season": "1",
+                      "episode": "11",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "13:30",
+                      "end": "15:30",
+                      "season": "1",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "13:30",
+                      "end": "15:30",
+                      "season": "1",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "14:30",
+                      "end": "16:30",
+                      "season": "1",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "13:30",
+                      "end": "15:30",
+                      "season": "1",
+                      "episode": "12",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "14:30",
+                      "end": "16:30",
+                      "season": "1",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "14:30",
+                      "end": "16:30",
+                      "season": "1",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "15:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "14",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "14:30",
+                      "end": "16:30",
+                      "season": "1",
+                      "episode": "13",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Inkohliso",
+                      "start": "15:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "14",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "15:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "14",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Fusion Bites",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Inkohliso",
+                      "start": "15:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "14",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Fusion Bites",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "DND",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "3",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "DND",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "3",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "MISA",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "MISA",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Mrs Chatterjee vs Norway",
+                      "start": "19:00",
+                      "end": "22:00",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Mrs Chatterjee vs Norway",
+                      "start": "19:00",
+                      "end": "22:00",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Mrs Chatterjee vs Norway",
+                      "start": "19:00",
+                      "end": "22:00",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Mrs Chatterjee vs Norway",
+                      "start": "19:00",
+                      "end": "22:00",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Mrs Chatterjee vs Norway",
+                      "start": "19:00",
+                      "end": "22:00",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": [
+                    {
+                      "title": "Mrs Chatterjee vs Norway",
+                      "start": "19:00",
+                      "end": "22:00",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Amandla Wothando",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "33",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Amandla Wothando",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "33",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ikhaya Lezimanga",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "episode": "59",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Ikhaya Lezimanga",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "episode": "59",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Sun": {
+              "date": "2025-11-30",
+              "day": "Sun",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "21",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "21",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "22",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "22",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "23",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "24",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": [
+                    {
+                      "title": "Imfihlo",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "25",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Paaru",
+                      "start": "10:30",
+                      "end": "12:30",
+                      "episode": "41",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Paaru",
+                      "start": "10:30",
+                      "end": "12:30",
+                      "episode": "41",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": [
+                    {
+                      "title": "Paaru",
+                      "start": "10:30",
+                      "end": "12:30",
+                      "episode": "41",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Paaru",
+                      "start": "11:30",
+                      "end": "13:30",
+                      "episode": "42",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Paaru",
+                      "start": "10:30",
+                      "end": "12:30",
+                      "episode": "41",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Paaru",
+                      "start": "11:30",
+                      "end": "13:30",
+                      "episode": "42",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": [
+                    {
+                      "title": "Paaru",
+                      "start": "11:30",
+                      "end": "13:30",
+                      "episode": "42",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Paaru",
+                      "start": "12:30",
+                      "end": "14:30",
+                      "episode": "43",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Paaru",
+                      "start": "11:30",
+                      "end": "13:30",
+                      "episode": "42",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Paaru",
+                      "start": "12:30",
+                      "end": "14:30",
+                      "episode": "43",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": [
+                    {
+                      "title": "Paaru",
+                      "start": "12:30",
+                      "end": "14:30",
+                      "episode": "43",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Paaru",
+                      "start": "13:30",
+                      "end": "15:30",
+                      "episode": "44",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Paaru",
+                      "start": "12:30",
+                      "end": "14:30",
+                      "episode": "43",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Paaru",
+                      "start": "13:30",
+                      "end": "15:30",
+                      "episode": "44",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "Paaru",
+                      "start": "13:30",
+                      "end": "15:30",
+                      "episode": "44",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Paaru",
+                      "start": "14:30",
+                      "end": "16:30",
+                      "episode": "45",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Paaru",
+                      "start": "13:30",
+                      "end": "15:30",
+                      "episode": "44",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Paaru",
+                      "start": "14:30",
+                      "end": "16:30",
+                      "episode": "45",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "Paaru",
+                      "start": "14:30",
+                      "end": "16:30",
+                      "episode": "45",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "MISA",
+                      "start": "15:30",
+                      "end": "17:30",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Paaru",
+                      "start": "14:30",
+                      "end": "16:30",
+                      "episode": "45",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "MISA",
+                      "start": "15:30",
+                      "end": "17:30",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "MISA",
+                      "start": "15:30",
+                      "end": "17:30",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Fusion Bites",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "3",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "MISA",
+                      "start": "15:30",
+                      "end": "17:30",
+                      "episode": "2",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "Fusion Bites",
+                      "start": "16:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "3",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    },
+                    {
+                      "title": "DND",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "3",
+                      "episode": "3",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "DND",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "3",
+                      "episode": "3",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Bawaal",
+                      "start": "18:00",
+                      "end": "21:00",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Bawaal",
+                      "start": "18:00",
+                      "end": "21:00",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Bawaal",
+                      "start": "18:00",
+                      "end": "21:00",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": [
+                    {
+                      "title": "Bawaal",
+                      "start": "18:00",
+                      "end": "21:00",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Bawaal",
+                      "start": "18:00",
+                      "end": "21:00",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": [
+                    {
+                      "title": "Bawaal",
+                      "start": "18:00",
+                      "end": "21:00",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Amandla Wothando",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "34",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": [
+                    {
+                      "title": "Amandla Wothando",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "34",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Ikhaya Lezimanga",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "episode": "60",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": [
+                    {
+                      "title": "Ikhaya Lezimanga",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "episode": "60",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "6",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "Ukube Ngangazi",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "6",
+                      "textColor": "#FFFFFF",
+                      "bgColor": "#1A1A1A"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

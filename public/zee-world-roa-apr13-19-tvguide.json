@@ -1,0 +1,5399 @@
+{
+  "window": {
+    "WAT": {
+      "start": "05:00",
+      "end": "05:00"
+    },
+    "CAT": {
+      "start": "06:00",
+      "end": "06:00"
+    },
+    "EAT": {
+      "start": "06:00",
+      "end": "06:00"
+    },
+    "slotMinutes": 30
+  },
+  "regions": {
+    "ROA": {
+      "region": "ROA",
+      "timezones": {
+        "WAT": {
+          "timezone": "WAT",
+          "days": {
+            "Mon": {
+              "date": "2026-04-13",
+              "day": "Mon",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "63"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "115"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "5",
+                      "episode": "22"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "36"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "2",
+                      "episode": "52"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "22"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "115"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "5",
+                      "episode": "22"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "36"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "2",
+                      "episode": "23"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "64"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "15"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "116"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "5",
+                      "episode": "23"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "37"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "2",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": []
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "64"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "116"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "5",
+                      "episode": "23"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "37"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "2",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Tue": {
+              "date": "2026-04-14",
+              "day": "Tue",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "64"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "116"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "5",
+                      "episode": "23"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "37"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "2",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "23"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "116"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "5",
+                      "episode": "23"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "37"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "2",
+                      "episode": "24"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "65"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "16"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "117"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "5",
+                      "episode": "24"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "6"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "2",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": []
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "65"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "117"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "5",
+                      "episode": "24"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "6"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "2",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Wed": {
+              "date": "2026-04-15",
+              "day": "Wed",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "65"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "117"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "5",
+                      "episode": "24"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "6"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "2",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "24"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "117"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "5",
+                      "episode": "24"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "2",
+                      "episode": "25"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "66"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "17"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "118"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "5",
+                      "episode": "25"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "7"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "2",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": []
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "66"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "118"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "5",
+                      "episode": "25"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "7"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "2",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Thu": {
+              "date": "2026-04-16",
+              "day": "Thu",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "66"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "118"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "5",
+                      "episode": "25"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "7"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "2",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "25"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "118"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "5",
+                      "episode": "25"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "2",
+                      "episode": "26"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "67"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "18"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "5",
+                      "episode": "26"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "8"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "2",
+                      "episode": "56"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": []
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "67"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "5",
+                      "episode": "26"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "8"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "2",
+                      "episode": "56"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Fri": {
+              "date": "2026-04-17",
+              "day": "Fri",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "67"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "5",
+                      "episode": "26"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "8"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "2",
+                      "episode": "56"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "26"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "5",
+                      "episode": "26"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "2",
+                      "episode": "27"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "68"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "19"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "120"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "5",
+                      "episode": "27"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "9"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "2",
+                      "episode": "57"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": []
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "68"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "120"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "5",
+                      "episode": "27"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "9"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "2",
+                      "episode": "57"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Sat": {
+              "date": "2026-04-18",
+              "day": "Sat",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "68"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "120"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "5",
+                      "episode": "27"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "9"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "2",
+                      "episode": "57"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "27"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": []
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": []
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": []
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "2",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "69"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "20"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "121"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "5",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "42"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "10"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "2",
+                      "episode": "58"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": []
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "69"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "121"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "5",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "42"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "10"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "2",
+                      "episode": "58"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Sun": {
+              "date": "2026-04-19",
+              "day": "Sun",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "69"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "121"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "5",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "42"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "10"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "2",
+                      "episode": "58"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": []
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": []
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": []
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "2",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "70"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "21"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "122"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "5",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "43"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "11"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "2",
+                      "episode": "59"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": []
+                },
+                {
+                  "time": "23:30",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "23:30",
+                      "end": "00:30",
+                      "season": "1",
+                      "episode": "70"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "122"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "5",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "43"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "11"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "2",
+                      "episode": "59"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            }
+          }
+        },
+        "CAT": {
+          "timezone": "CAT",
+          "days": {
+            "Mon": {
+              "date": "2026-04-13",
+              "day": "Mon",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "63"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "115"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "5",
+                      "episode": "22"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "36"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "52"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "2",
+                      "episode": "22"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "115"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "5",
+                      "episode": "22"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "36"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "2",
+                      "episode": "23"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "64"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "15"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "116"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "5",
+                      "episode": "23"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "37"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "2",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "64"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "116"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "5",
+                      "episode": "23"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "37"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "2",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Tue": {
+              "date": "2026-04-14",
+              "day": "Tue",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "64"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "116"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "5",
+                      "episode": "23"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "37"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "2",
+                      "episode": "23"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "116"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "5",
+                      "episode": "23"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "37"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "2",
+                      "episode": "24"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "65"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "16"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "117"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "5",
+                      "episode": "24"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "6"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "2",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "65"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "117"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "5",
+                      "episode": "24"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "6"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "2",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Wed": {
+              "date": "2026-04-15",
+              "day": "Wed",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "65"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "117"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "5",
+                      "episode": "24"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "6"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "2",
+                      "episode": "24"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "117"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "5",
+                      "episode": "24"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "2",
+                      "episode": "25"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "66"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "17"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "118"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "5",
+                      "episode": "25"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "7"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "2",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "66"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "118"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "5",
+                      "episode": "25"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "7"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "2",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Thu": {
+              "date": "2026-04-16",
+              "day": "Thu",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "66"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "118"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "5",
+                      "episode": "25"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "7"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "2",
+                      "episode": "25"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "118"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "5",
+                      "episode": "25"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "2",
+                      "episode": "26"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "67"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "18"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "5",
+                      "episode": "26"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "8"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "2",
+                      "episode": "56"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "67"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "5",
+                      "episode": "26"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "8"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "2",
+                      "episode": "56"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Fri": {
+              "date": "2026-04-17",
+              "day": "Fri",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "67"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "5",
+                      "episode": "26"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "8"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "56"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "2",
+                      "episode": "26"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "1",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "5",
+                      "episode": "26"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "15:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "2",
+                      "episode": "27"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "68"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "19"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "120"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "5",
+                      "episode": "27"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "9"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "2",
+                      "episode": "57"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "68"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "120"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "5",
+                      "episode": "27"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "9"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "2",
+                      "episode": "57"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Sat": {
+              "date": "2026-04-18",
+              "day": "Sat",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "68"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "120"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "5",
+                      "episode": "27"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "9"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "57"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "2",
+                      "episode": "27"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": []
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": []
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": []
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "2",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "69"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "20"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "121"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "5",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "42"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "10"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "2",
+                      "episode": "58"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "69"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "121"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "5",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "42"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "10"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "2",
+                      "episode": "58"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Sun": {
+              "date": "2026-04-19",
+              "day": "Sun",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "69"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "1",
+                      "episode": "121"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "5",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "42"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "10"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "2",
+                      "episode": "58"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "2",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": []
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": []
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": []
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "17:00",
+                      "season": "2",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "17:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "70"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Broken Bonds",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "21"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "1",
+                      "episode": "122"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "5",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "43"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "11"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "2",
+                      "episode": "59"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "His Mistress's Child",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "70"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Jagriti Empowered",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "1",
+                      "episode": "122"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Unfortunate Love",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "5",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Ideal Son-In-Law",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "43"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Saru",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "11"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "My Journey To You",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "2",
+                      "episode": "59"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            }
+          }
+        },
+        "EAT": null
+      }
+    }
+  }
+}

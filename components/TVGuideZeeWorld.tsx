@@ -506,7 +506,7 @@ export default function TVGuideZeeWorld(props: TVGuideProps) {
   const availableTimezones = currentRegionData?.timezones || [];
 
   // Generate time ticks
-  const timeTicks = [];
+  const timeTicks: Array<{ hour: number; minute: number; label: string; xPosition: number; isMajor: boolean }> = [];
   const startHour = props.startHour || 5;
   const endHour = props.endHour || 23;
   

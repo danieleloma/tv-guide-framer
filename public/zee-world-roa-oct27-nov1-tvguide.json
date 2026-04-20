@@ -1,0 +1,5431 @@
+{
+  "window": {
+    "WAT": {
+      "start": "05:00",
+      "end": "05:00"
+    },
+    "CAT": {
+      "start": "06:00",
+      "end": "06:00"
+    },
+    "EAT": {
+      "start": "06:00",
+      "end": "06:00"
+    },
+    "slotMinutes": 30
+  },
+  "regions": {
+    "ROA": {
+      "region": "ROA",
+      "timezones": {
+        "WAT": {
+          "timezone": "WAT",
+          "days": {
+            "Mon": {
+              "date": "2025-10-27",
+              "day": "Mon",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "170"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "4",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "10",
+                      "episode": "51"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "37"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "7",
+                      "episode": "118"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "84"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "103"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "4",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "10",
+                      "episode": "51"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "37"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "104"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "171"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Kelloggs Superstar Quiz Show",
+                      "start": "17:00",
+                      "end": "19:00",
+                      "season": "4",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "4",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "10",
+                      "episode": "52"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "7",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "85"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "171"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "4",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "10",
+                      "episode": "52"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "7",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "85"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Tue": {
+              "date": "2025-10-28",
+              "day": "Tue",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "171"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "4",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "10",
+                      "episode": "52"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "7",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "85"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "104"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "4",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "10",
+                      "episode": "52"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "105"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "172"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Kelloggs Superstar Quiz Show",
+                      "start": "17:00",
+                      "end": "19:00",
+                      "season": "4",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "4",
+                      "episode": "30"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "10",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "7",
+                      "episode": "120"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "86"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "172"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "4",
+                      "episode": "30"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "10",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "7",
+                      "episode": "120"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "86"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Wed": {
+              "date": "2025-10-29",
+              "day": "Wed",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "172"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "4",
+                      "episode": "30"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "10",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "7",
+                      "episode": "120"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "86"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "105"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "4",
+                      "episode": "30"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "10",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "106"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "173"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "17:00",
+                      "end": "19:00",
+                      "season": "2",
+                      "episode": "49"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "4",
+                      "episode": "31"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "10",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "7",
+                      "episode": "121"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "87"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "173"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "4",
+                      "episode": "31"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "10",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "7",
+                      "episode": "121"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "87"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Thu": {
+              "date": "2025-10-30",
+              "day": "Thu",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "173"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "4",
+                      "episode": "31"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "10",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Kelloggs Superstar Quiz Show",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "4",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "87"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "106"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "4",
+                      "episode": "31"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "10",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "107"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "174"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "17:00",
+                      "end": "19:00",
+                      "season": "2",
+                      "episode": "50"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "4",
+                      "episode": "32"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "10",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "7",
+                      "episode": "122"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "88"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "174"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "4",
+                      "episode": "32"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "10",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "7",
+                      "episode": "122"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "88"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Fri": {
+              "date": "2025-10-31",
+              "day": "Fri",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "174"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "4",
+                      "episode": "32"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "10",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Kelloggs Superstar Quiz Show",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "4",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "1",
+                      "episode": "88"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "107"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "4",
+                      "episode": "32"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "10",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "14:00",
+                      "end": "16:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "108"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "season": "4",
+                      "episode": "1"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "17:00",
+                      "end": "19:00",
+                      "season": "2",
+                      "episode": "51"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "4",
+                      "episode": "33"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "10",
+                      "episode": "56"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "42"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "7",
+                      "episode": "123"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "89"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "4",
+                      "episode": "1"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "4",
+                      "episode": "33"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "10",
+                      "episode": "56"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "42"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "7",
+                      "episode": "123"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "89"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Sat": {
+              "date": "2025-11-01",
+              "day": "Sat",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "4",
+                      "episode": "1"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "4",
+                      "episode": "33"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "10",
+                      "episode": "56"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "42"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "7",
+                      "episode": "123"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Kelloggs Superstar Quiz Show",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "4",
+                      "episode": "6"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "108"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": []
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": []
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": []
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:30",
+                      "end": "16:30",
+                      "season": "1",
+                      "episode": "109"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": []
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "15:30",
+                      "end": "17:30",
+                      "season": "4",
+                      "episode": "2"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": []
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "16:30",
+                      "end": "18:30",
+                      "season": "2",
+                      "episode": "52"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": []
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Fusion Bites",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "2",
+                      "episode": "1"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "4",
+                      "episode": "34"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "10",
+                      "episode": "57"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "43"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "7",
+                      "episode": "124"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "90"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "4",
+                      "episode": "2"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "4",
+                      "episode": "34"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "10",
+                      "episode": "57"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "43"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "7",
+                      "episode": "124"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "90"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Sun": {
+              "date": "2025-11-02",
+              "day": "Sun",
+              "slots": [
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "4",
+                      "episode": "2"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                },
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "4",
+                      "episode": "34"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "10",
+                      "episode": "57"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "1",
+                      "episode": "43"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "7",
+                      "episode": "124"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Kelloggs Superstar Quiz Show",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "4",
+                      "episode": "7"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "109"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": []
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": []
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": []
+                },
+                {
+                  "time": "14:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "14:30",
+                      "end": "16:30",
+                      "season": "1",
+                      "episode": "110"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:00",
+                  "shows": []
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "15:30",
+                      "end": "17:30",
+                      "season": "4",
+                      "episode": "3"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": []
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "16:30",
+                      "end": "18:30",
+                      "season": "2",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": []
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Fusion Bites",
+                      "start": "17:30",
+                      "end": "18:30",
+                      "season": "2",
+                      "episode": "2"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "18:00",
+                      "end": "19:00",
+                      "season": "4",
+                      "episode": "35"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "10",
+                      "episode": "58"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "1",
+                      "episode": "44"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "7",
+                      "episode": "125"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "1",
+                      "episode": "91"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "4",
+                      "episode": "3"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "4",
+                      "episode": "35"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "10",
+                      "episode": "58"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "1",
+                      "episode": "44"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "7",
+                      "episode": "125"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "1",
+                      "episode": "91"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                }
+              ]
+            }
+          }
+        },
+        "CAT": {
+          "timezone": "CAT",
+          "days": {
+            "Mon": {
+              "date": "2025-10-27",
+              "day": "Mon",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "170"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "4",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "51"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "37"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "7",
+                      "episode": "118"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "84"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "103"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "4",
+                      "episode": "28"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "10",
+                      "episode": "51"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "37"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "104"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "17:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "171"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Kelloggs Superstar Quiz Show",
+                      "start": "18:00",
+                      "end": "20:00",
+                      "season": "4",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "4",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "10",
+                      "episode": "52"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "7",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "85"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "171"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "4",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "10",
+                      "episode": "52"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "7",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "85"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Tue": {
+              "date": "2025-10-28",
+              "day": "Tue",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "171"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "4",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "52"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "7",
+                      "episode": "119"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "85"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "104"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "4",
+                      "episode": "29"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "10",
+                      "episode": "52"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "38"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "105"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "17:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "172"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Kelloggs Superstar Quiz Show",
+                      "start": "18:00",
+                      "end": "20:00",
+                      "season": "4",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "4",
+                      "episode": "30"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "10",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "7",
+                      "episode": "120"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "86"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "172"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "4",
+                      "episode": "30"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "10",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "7",
+                      "episode": "120"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "86"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Wed": {
+              "date": "2025-10-29",
+              "day": "Wed",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "172"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "4",
+                      "episode": "30"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "7",
+                      "episode": "120"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "86"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "105"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "4",
+                      "episode": "30"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "10",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "39"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "106"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "17:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "173"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "18:00",
+                      "end": "20:00",
+                      "season": "2",
+                      "episode": "49"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "4",
+                      "episode": "31"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "10",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "7",
+                      "episode": "121"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "87"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "173"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "4",
+                      "episode": "31"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "10",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "7",
+                      "episode": "121"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "87"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Thu": {
+              "date": "2025-10-30",
+              "day": "Thu",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "173"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "4",
+                      "episode": "31"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Kelloggs Superstar Quiz Show",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "4",
+                      "episode": "4"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "87"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "106"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "4",
+                      "episode": "31"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "10",
+                      "episode": "54"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "40"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "107"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "17:00",
+                      "end": "19:00",
+                      "season": "1",
+                      "episode": "174"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "18:00",
+                      "end": "20:00",
+                      "season": "2",
+                      "episode": "50"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "4",
+                      "episode": "32"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "10",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "7",
+                      "episode": "122"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "88"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "1",
+                      "episode": "174"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "4",
+                      "episode": "32"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "10",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "7",
+                      "episode": "122"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "88"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Fri": {
+              "date": "2025-10-31",
+              "day": "Fri",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "Sister Wives",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "1",
+                      "episode": "174"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "4",
+                      "episode": "32"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "Kelloggs Superstar Quiz Show",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "4",
+                      "episode": "5"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "1",
+                      "episode": "88"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "107"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "13:00",
+                      "end": "14:00",
+                      "season": "4",
+                      "episode": "32"
+                    }
+                  ]
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "14:00",
+                      "end": "15:00",
+                      "season": "10",
+                      "episode": "55"
+                    }
+                  ]
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "15:00",
+                      "end": "17:00",
+                      "season": "1",
+                      "episode": "41"
+                    }
+                  ]
+                },
+                {
+                  "time": "15:30",
+                  "shows": []
+                },
+                {
+                  "time": "16:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "16:00",
+                      "end": "18:00",
+                      "season": "1",
+                      "episode": "108"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:30",
+                  "shows": []
+                },
+                {
+                  "time": "17:00",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "17:00",
+                      "end": "19:00",
+                      "season": "4",
+                      "episode": "1"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:30",
+                  "shows": []
+                },
+                {
+                  "time": "18:00",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "18:00",
+                      "end": "20:00",
+                      "season": "2",
+                      "episode": "51"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:30",
+                  "shows": []
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "4",
+                      "episode": "33"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "10",
+                      "episode": "56"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "42"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "7",
+                      "episode": "123"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "89"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "4",
+                      "episode": "1"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "4",
+                      "episode": "33"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "10",
+                      "episode": "56"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "42"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "7",
+                      "episode": "123"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "89"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Sat": {
+              "date": "2025-11-01",
+              "day": "Sat",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "4",
+                      "episode": "1"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "4",
+                      "episode": "33"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "56"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "42"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "7",
+                      "episode": "123"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Kelloggs Superstar Quiz Show",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "4",
+                      "episode": "6"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "108"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": []
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": []
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": []
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "109"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": []
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "16:30",
+                      "end": "18:30",
+                      "season": "4",
+                      "episode": "2"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": []
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "17:30",
+                      "end": "19:30",
+                      "season": "2",
+                      "episode": "52"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Fusion Bites",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "2",
+                      "episode": "1"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "4",
+                      "episode": "34"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "10",
+                      "episode": "57"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "43"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "7",
+                      "episode": "124"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "90"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "4",
+                      "episode": "2"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "4",
+                      "episode": "34"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "10",
+                      "episode": "57"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "43"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "7",
+                      "episode": "124"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "90"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            },
+            "Sun": {
+              "date": "2025-11-02",
+              "day": "Sun",
+              "slots": [
+                {
+                  "time": "06:00",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "06:00",
+                      "end": "07:00",
+                      "season": "4",
+                      "episode": "2"
+                    }
+                  ]
+                },
+                {
+                  "time": "06:30",
+                  "shows": []
+                },
+                {
+                  "time": "07:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "07:00",
+                      "end": "08:00",
+                      "season": "4",
+                      "episode": "34"
+                    }
+                  ]
+                },
+                {
+                  "time": "07:30",
+                  "shows": []
+                },
+                {
+                  "time": "08:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "08:00",
+                      "end": "09:00",
+                      "season": "10",
+                      "episode": "57"
+                    }
+                  ]
+                },
+                {
+                  "time": "08:30",
+                  "shows": []
+                },
+                {
+                  "time": "09:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "09:00",
+                      "end": "10:00",
+                      "season": "1",
+                      "episode": "43"
+                    }
+                  ]
+                },
+                {
+                  "time": "09:30",
+                  "shows": []
+                },
+                {
+                  "time": "10:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "10:00",
+                      "end": "11:00",
+                      "season": "7",
+                      "episode": "124"
+                    }
+                  ]
+                },
+                {
+                  "time": "10:30",
+                  "shows": []
+                },
+                {
+                  "time": "11:00",
+                  "shows": [
+                    {
+                      "title": "Kelloggs Superstar Quiz Show",
+                      "start": "11:00",
+                      "end": "12:00",
+                      "season": "4",
+                      "episode": "7"
+                    }
+                  ]
+                },
+                {
+                  "time": "11:30",
+                  "shows": []
+                },
+                {
+                  "time": "12:00",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "12:00",
+                      "end": "13:00",
+                      "season": "1",
+                      "episode": "109"
+                    }
+                  ]
+                },
+                {
+                  "time": "12:30",
+                  "shows": []
+                },
+                {
+                  "time": "13:00",
+                  "shows": []
+                },
+                {
+                  "time": "13:30",
+                  "shows": []
+                },
+                {
+                  "time": "14:00",
+                  "shows": []
+                },
+                {
+                  "time": "14:30",
+                  "shows": []
+                },
+                {
+                  "time": "15:00",
+                  "shows": []
+                },
+                {
+                  "time": "15:30",
+                  "shows": [
+                    {
+                      "title": "King of Hearts",
+                      "start": "15:30",
+                      "end": "17:30",
+                      "season": "1",
+                      "episode": "110"
+                    }
+                  ]
+                },
+                {
+                  "time": "16:00",
+                  "shows": []
+                },
+                {
+                  "time": "16:30",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "16:30",
+                      "end": "18:30",
+                      "season": "4",
+                      "episode": "3"
+                    }
+                  ]
+                },
+                {
+                  "time": "17:00",
+                  "shows": []
+                },
+                {
+                  "time": "17:30",
+                  "shows": [
+                    {
+                      "title": "Mehek",
+                      "start": "17:30",
+                      "end": "19:30",
+                      "season": "2",
+                      "episode": "53"
+                    }
+                  ]
+                },
+                {
+                  "time": "18:00",
+                  "shows": []
+                },
+                {
+                  "time": "18:30",
+                  "shows": [
+                    {
+                      "title": "Fusion Bites",
+                      "start": "18:30",
+                      "end": "19:30",
+                      "season": "2",
+                      "episode": "2"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "19:00",
+                      "end": "20:00",
+                      "season": "4",
+                      "episode": "35"
+                    }
+                  ]
+                },
+                {
+                  "time": "19:30",
+                  "shows": []
+                },
+                {
+                  "time": "20:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "20:00",
+                      "end": "21:00",
+                      "season": "10",
+                      "episode": "58"
+                    }
+                  ]
+                },
+                {
+                  "time": "20:30",
+                  "shows": []
+                },
+                {
+                  "time": "21:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "21:00",
+                      "end": "22:00",
+                      "season": "1",
+                      "episode": "44"
+                    }
+                  ]
+                },
+                {
+                  "time": "21:30",
+                  "shows": []
+                },
+                {
+                  "time": "22:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "22:00",
+                      "end": "23:00",
+                      "season": "7",
+                      "episode": "125"
+                    }
+                  ]
+                },
+                {
+                  "time": "22:30",
+                  "shows": []
+                },
+                {
+                  "time": "23:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "23:00",
+                      "end": "00:00",
+                      "season": "1",
+                      "episode": "91"
+                    }
+                  ]
+                },
+                {
+                  "time": "23:30",
+                  "shows": []
+                },
+                {
+                  "time": "00:00",
+                  "shows": [
+                    {
+                      "title": "I Do",
+                      "start": "00:00",
+                      "end": "01:00",
+                      "season": "4",
+                      "episode": "3"
+                    }
+                  ]
+                },
+                {
+                  "time": "00:30",
+                  "shows": []
+                },
+                {
+                  "time": "01:00",
+                  "shows": [
+                    {
+                      "title": "Radhe Mohan",
+                      "start": "01:00",
+                      "end": "02:00",
+                      "season": "4",
+                      "episode": "35"
+                    }
+                  ]
+                },
+                {
+                  "time": "01:30",
+                  "shows": []
+                },
+                {
+                  "time": "02:00",
+                  "shows": [
+                    {
+                      "title": "Twist of Fate: New Era",
+                      "start": "02:00",
+                      "end": "03:00",
+                      "season": "10",
+                      "episode": "58"
+                    }
+                  ]
+                },
+                {
+                  "time": "02:30",
+                  "shows": []
+                },
+                {
+                  "time": "03:00",
+                  "shows": [
+                    {
+                      "title": "Hearts Crossed",
+                      "start": "03:00",
+                      "end": "04:00",
+                      "season": "1",
+                      "episode": "44"
+                    }
+                  ]
+                },
+                {
+                  "time": "03:30",
+                  "shows": []
+                },
+                {
+                  "time": "04:00",
+                  "shows": [
+                    {
+                      "title": "This Is Fate",
+                      "start": "04:00",
+                      "end": "05:00",
+                      "season": "7",
+                      "episode": "125"
+                    }
+                  ]
+                },
+                {
+                  "time": "04:30",
+                  "shows": []
+                },
+                {
+                  "time": "05:00",
+                  "shows": [
+                    {
+                      "title": "Hidden Intentions",
+                      "start": "05:00",
+                      "end": "06:00",
+                      "season": "1",
+                      "episode": "91"
+                    }
+                  ]
+                },
+                {
+                  "time": "05:30",
+                  "shows": []
+                }
+              ]
+            }
+          }
+        },
+        "EAT": null
+      }
+    }
+  }
+}
